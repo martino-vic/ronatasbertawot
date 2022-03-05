@@ -1,0 +1,20 @@
+{
+    "title": "CLDF dataset derived from 'West Old Turkic' by Andr\u00e1s R\u00f3na-Tas and \u00c1rp\u00e1d Berta",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>R\u00f3na-Tas, Andr\u00e1s, &amp; Berta, \u00c1rp\u00e1d. (2011) West Old Turkic. Harrassowitz Verlag, Wiesbaden</p>\n</blockquote>",
+    "license": {
+        "id": "MIT"
+    }
+}
