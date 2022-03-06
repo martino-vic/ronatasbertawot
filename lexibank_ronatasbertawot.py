@@ -41,28 +41,27 @@ class Dataset(BaseDataset):
         cognates = {}
         cogidx = 1
 
-        #print(concepts)
-
         for i in range(2, len(data), 2):
             words = dict(zip(header, data[i]))
             cognates = dict(zip(header, data[i+1]))
             concept = data[i][5]
+            print(cognates)
             for language in languages:
                 entry = words.get(language).strip()
                 cog = cognates.get(language).strip()
                 if concept+'-'+cog not in cognates:
-                    cognates[concept+'-'+cog] = cogidx
+                    cognates[concept] = cogidx
                     cogidx += 1
-                    cogid = cognates[concept+'-'+cog]
-                    for lex in args.writer.add_forms_from_value(
-                            Language_ID=language,
-                            Parameter_ID=concepts[concept],
-                            Value=entry,
-                            Source="wot",
-                            Cognacy=cogid
-                            ):
-                        args.writer.add_cognate(
-                                lexeme=lex,
-                                Cognateset_ID=cogid,
-                                Source="wot"
-                                )
+                cogid = cognates[concept]
+                for lex in args.writer.add_forms_from_value(
+                        Language_ID=language,
+                        Parameter_ID=concepts[concept],
+                        Value=entry,
+                        Source="wot",
+                        Cognacy=cogid
+                        ):
+                    args.writer.add_cognate(
+                            lexeme=lex,
+                            Cognateset_ID=cogid,
+                            Source="wot"
+                            )

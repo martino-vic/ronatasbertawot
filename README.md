@@ -15,16 +15,17 @@ This dataset is licensed under a MIT license
 ## Statistics
 
 
+[![CLDF validation](https://github.com/martino-vic/ronatasbertawot/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/ronatasbertawot/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 66%](https://img.shields.io/badge/Concepticon-66%25-orange.svg "Concepticon: 66%")
+![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 4
 - **Concepts:** 244
-- **Lexemes:** 607
+- **Lexemes:** 642
 - **Sources:** 1
-- **Synonymy:** 1.03
-- **Cognacy:** 607 cognates in 607 cognate sets (607 singletons)
+- **Synonymy:** 1.04
+- **Cognacy:** 642 cognates in 642 cognate sets (642 singletons)
 - **Cognate Diversity:** 1.00
 
 ## CLDF Datasets
