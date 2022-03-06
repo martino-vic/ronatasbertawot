@@ -1,643 +1,643 @@
 ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile
-H-1_cannoncatapult-1,,H,1_cannoncatapult,ágyú,ágyú,,,wot,1,true,,
-OH-1_cannoncatapult-1,,OH,1_cannoncatapult,āldʹū,āldʹū,,,wot,1,true,,
-LAH-1_cannoncatapult-1,,LAH,1_cannoncatapult,aldau̯,aldau̯,,,wot,1,true,,
-EAH-1_cannoncatapult-1,,EAH,1_cannoncatapult,aldaγ,aldaγ,,,wot,1,true,,
-H-6_streamcurrent-1,,H,6_streamcurrent,ákos,ákos,,,wot,2,true,,
-H-6_streamcurrent-2,,H,6_streamcurrent,áɡos,áɡos,,,wot,3,true,,
-H-7_falseimitation-1,,H,7_falseimitation,ál,ál,,,wot,4,true,,
-EAH-7_falseimitation-1,,EAH,7_falseimitation,āl,āl,,,wot,4,true,,
-H-11_piedofananimalscoat-1,,H,11_piedofananimalscoat,alacs,alacs,,,wot,5,true,,
-EAH-11_piedofananimalscoat-1,,EAH,11_piedofananimalscoat,alač,alač,,,wot,5,true,,
-H-11_piedofananimalscoat-2,,H,11_piedofananimalscoat,alacs,alacs,,,wot,6,true,,
-EAH-11_piedofananimalscoat-2,,EAH,11_piedofananimalscoat,alač,alač,,,wot,6,true,,
-H-14_barrelwoodencontainerandstandardquantity-1,,H,14_barrelwoodencontainerandstandardquantity,általaɡ,általaɡ,,,wot,7,true,,
-EAH-14_barrelwoodencontainerandstandardquantity-1,,EAH,14_barrelwoodencontainerandstandardquantity,altalag,altalag,,,wot,7,true,,
-H-15_tonursetakecareof-1,,H,15_tonursetakecareof,ápol,ápol,,,wot,8,true,,
-OH-15_tonursetakecareof-1,,OH,15_tonursetakecareof,apol,apol,,,wot,8,true,,
-EAH-15_tonursetakecareof-1,,EAH,15_tonursetakecareof,op,op,,,wot,8,true,,
-H-17_smalltiny-1,,H,17_smalltiny,apró,apró,,,wot,9,true,,
-OH-17_smalltiny-1,,OH,17_smalltiny,oprau̯,oprau̯,,,wot,9,true,,
-EAH-17_smalltiny-1,,EAH,17_smalltiny,opuruγ,opuruγ,,,wot,9,true,,
-H-19_tomow-1,,H,19_tomow,arat,arat,,,wot,10,true,,
-EAH-19_tomow-1,,EAH,19_tomow,orat,orat,,,wot,10,true,,
-H-21_toharm-1,,H,21_toharm,árt,árt,,,wot,11,true,,
-EAH-21_toharm-1,,EAH,21_toharm,ārtat,ārtat,,,wot,11,true,,
-H-23_ditchcanal-1,,H,23_ditchcanal,árok,árok,,,wot,12,true,,
-EAH-23_ditchcanal-1,,EAH,23_ditchcanal,āruk,āruk,,,wot,12,true,,
-H-25_barrow-1,,H,25_barrow,ártány,ártány,,,wot,13,true,,
-EAH-25_barrow-1,,EAH,25_barrow,aritan,aritan,,,wot,13,true,,
-H-27_charm-1,,H,27_charm,báj,báj,,,wot,14,true,,
-EAH-27_charm-1,,EAH,27_charm,bay,bay,,,wot,14,true,,
-H-29_hatchetaxe-1,,H,29_hatchetaxe,balta,balta,,,wot,15,true,,
-EAH-29_hatchetaxe-1,,EAH,29_hatchetaxe,balta,balta,,,wot,15,true,,
-H-31_governorofcroatiagovernorofthesouthernmarches-1,,H,31_governorofcroatiagovernorofthesouthernmarches,bán,bán,,,wot,16,true,,
-H-33_hairybushyofdogsabighairydogasnoun-1,,H,33_hairybushyofdogsabighairydogasnoun,baráɡ,baráɡ,,,wot,17,true,,
-EAH-33_hairybushyofdogsabighairydogasnoun-1,,EAH,33_hairybushyofdogsabighairydogasnoun,barag,barag,,,wot,17,true,,
-H-35_cattlelivestock-1,,H,35_cattlelivestock,barom,barom,,,wot,18,true,,
-EAH-35_cattlelivestock-1,,EAH,35_cattlelivestock,barum,barum,,,wot,18,true,,
-H-37_tofuck-1,,H,37_tofuck,baszik,baszik,,,wot,19,true,,
-EAH-37_tofuck-1,,EAH,37_tofuck,bas,bas,,,wot,19,true,,
-H-39_frog-1,,H,39_frog,béka,béka,,,wot,20,true,,
-EAH-39_frog-1,,EAH,39_frog,baka,baka,,,wot,20,true,,
-H-42_hobbleshacklelegiron-1,,H,42_hobbleshacklelegiron,béklyó,béklyó,,,wot,21,true,,
-EAH-42_hobbleshacklelegiron-1,,EAH,42_hobbleshacklelegiron,bikaγu,bikaγu,,,wot,21,true,,
-H-43_stampbondmark-1,,H,43_stampbondmark,bélyeɡ,bélyeɡ,,,wot,22,true,,
-OH-43_stampbondmark-1,,OH,43_stampbondmark,bēlʹeg,bēlʹeg,,,wot,22,true,,
-EAH-43_stampbondmark-1,,EAH,43_stampbondmark,beleg,beleg,,,wot,22,true,,
-H-46_togive-1,,H,46_togive,bercel,bercel,,,wot,23,true,,
-OH-46_togive-1,,OH,46_togive,bercel,bercel,,,wot,23,true,,
-EAH-46_togive-1,,EAH,46_togive,bersil,bersil,,,wot,23,true,,
-H-47_grainorsmallglobuleofpreciousmetal-1,,H,47_grainorsmallglobuleofpreciousmetal,bertű,bertű,,,wot,24,true,,
-OH-47_grainorsmallglobuleofpreciousmetal-1,,OH,47_grainorsmallglobuleofpreciousmetal,börtǖ,börtǖ,,,wot,24,true,,
-LAH-47_grainorsmallglobuleofpreciousmetal-1,,LAH,47_grainorsmallglobuleofpreciousmetal,börteü̯,börteü̯,,,wot,24,true,,
-EAH-47_grainorsmallglobuleofpreciousmetal-1,,EAH,47_grainorsmallglobuleofpreciousmetal,bürtiγ,bürtiγ,,,wot,24,true,,
-H-49_pechenegnameofatribe-1,,H,49_pechenegnameofatribe,besenyő,besenyő,,,wot,25,true,,
-OH-49_pechenegnameofatribe-1,,OH,49_pechenegnameofatribe,bešeneü̯,bešeneü̯,,,wot,25,true,,
-EAH-49_pechenegnameofatribe-1,,EAH,49_pechenegnameofatribe,bešeneγ,bešeneγ,,,wot,25,true,,
-H-53_pocketknife-1,,H,53_pocketknife,bicsak,bicsak,,,wot,26,true,,
-EAH-53_pocketknife-1,,EAH,53_pocketknife,bičak,bičak,,,wot,26,true,,
-H-53_pocketknife-2,,H,53_pocketknife,bicsak,bicsak,,,wot,27,true,,
-EAH-53_pocketknife-2,,EAH,53_pocketknife,bičak,bičak,,,wot,27,true,,
-H-55_shackles-1,,H,55_shackles,bilincs,bilincs,,,wot,28,true,,
-OH-55_shackles-1,,OH,55_shackles,bilinček,bilinček,,,wot,28,true,,
-EAH-55_shackles-1,,EAH,55_shackles,bileček,bileček,,,wot,28,true,,
-H-57_tobeforgivenbocsanat-1,,H,57_tobeforgivenbocsanat,bocsánik,bocsánik,,,wot,29,true,,
-OH-57_tobeforgivenbocsanat-1,,OH,57_tobeforgivenbocsanat,bočan,bočan,,,wot,29,true,,
-EAH-57_tobeforgivenbocsanat-1,,EAH,57_tobeforgivenbocsanat,bolčan,bolčan,,,wot,29,true,,
-H-59_bucklerwithhandlehandleofdifferentarms-1,,H,59_bucklerwithhandlehandleofdifferentarms,bóda,bóda,,,wot,30,true,,
-OH-59_bucklerwithhandlehandleofdifferentarms-1,,OH,59_bucklerwithhandlehandleofdifferentarms,boldå,boldå,,,wot,30,true,,
-EAH-59_bucklerwithhandlehandleofdifferentarms-1,,EAH,59_bucklerwithhandlehandleofdifferentarms,baldaw,baldaw,,,wot,30,true,,
-H-61_stackofhay-1,,H,61_stackofhay,boɡlya,boɡlya,,,wot,31,true,,
-OH-61_stackofhay-1,,OH,61_stackofhay,boglʹå,boglʹå,,,wot,31,true,,
-LAH-61_stackofhay-1,,LAH,61_stackofhay,bogulʹa,bogulʹa,,,wot,31,true,,
-EAH-61_stackofhay-1,,EAH,61_stackofhay,bogul,bogul,,,wot,31,true,,
-H-63_burdockarctiumsp-1,,H,63_burdockarctiumsp,bojtorján,bojtorján,,,wot,32,true,,
-EAH-63_burdockarctiumsp-1,,EAH,63_burdockarctiumsp,balturγan,balturγan,,,wot,32,true,,
-H-66_ankleboot-1,,H,66_ankleboot,bakancs,bakancs,,,wot,33,true,,
-EAH-66_ankleboot-1,,EAH,66_ankleboot,bokå,bokå,,,wot,33,true,,
-H-67_anthill-1,,H,67_anthill,boly,boly,,,wot,34,true,,
-OH-67_anthill-1,,OH,67_anthill,bolʹ,bolʹ,,,wot,34,true,,
-EAH-67_anthill-1,,EAH,67_anthill,boγol,boγol,,,wot,34,true,,
-H-70_tocovertooverturn-1,,H,70_tocovertooverturn,bor,bor,,,wot,35,true,,
-EAH-70_tocovertooverturn-1,,EAH,70_tocovertooverturn,bur,bur,,,wot,35,true,,
-H-71_calf-1,,H,71_calf,borjú,borjú,,,wot,36,true,,
-OH-71_calf-1,,OH,71_calf,burγu,burγu,,,wot,36,true,,
-EAH-71_calf-1,,EAH,71_calf,buraγu,buraγu,,,wot,36,true,,
-H-73_peapisumsativumbean-1,,H,73_peapisumsativumbean,borsó,borsó,,,wot,37,true,,
-OH-73_peapisumsativumbean-1,,OH,73_peapisumsativumbean,buršau̯,buršau̯,,,wot,37,true,,
-EAH-73_peapisumsativumbean-1,,EAH,73_peapisumsativumbean,burčaγ,burčaγ,,,wot,37,true,,
-H-75_witchsorceress-1,,H,75_witchsorceress,boszorkány,boszorkány,,,wot,38,true,,
-EAH-75_witchsorceress-1,,EAH,75_witchsorceress,basarkan,basarkan,,,wot,38,true,,
-H-77_revenge-1,,H,77_revenge,boszszú,boszszú,,,wot,39,true,,
-OH-77_revenge-1,,OH,77_revenge,bossou̯,bossou̯,,,wot,39,true,,
-EAH-77_revenge-1,,EAH,77_revenge,bosuγ,bosuγ,,,wot,39,true,,
-H-81_stickcane-1,,H,81_stickcane,bot,bot,,,wot,40,true,,
-OH-81_stickcane-1,,OH,81_stickcane,buti,buti,,,wot,40,true,,
-LAH-81_stickcane-1,,LAH,81_stickcane,butu,butu,,,wot,40,true,,
-EAH-81_stickcane-1,,EAH,81_stickcane,butiγ,butiγ,,,wot,40,true,,
-H-81_stickcane-2,,H,81_stickcane,but,but,,,wot,41,true,,
-OH-81_stickcane-2,,OH,81_stickcane,buti,buti,,,wot,41,true,,
-LAH-81_stickcane-2,,LAH,81_stickcane,butu,butu,,,wot,41,true,,
-EAH-81_stickcane-2,,EAH,81_stickcane,butiγ,butiγ,,,wot,41,true,,
-H-83_richabundantroomy-1,,H,83_richabundantroomy,bő,bő,,,wot,42,true,,
-OH-83_richabundantroomy-1,,OH,83_richabundantroomy,beü̯,beü̯,,,wot,42,true,,
-EAH-83_richabundantroomy-1,,EAH,83_richabundantroomy,beγ,beγ,,,wot,42,true,,
-H-85_fasting-1,,H,85_fasting,böjt,böjt,,,wot,43,true,,
-OH-85_fasting-1,,OH,85_fasting,büχt,büχt,,,wot,43,true,,
-EAH-85_fasting-1,,EAH,85_fasting,büγte,büγte,,,wot,43,true,,
-H-87_cradle-1,,H,87_cradle,bölcső,bölcső,,,wot,44,true,,
-OH-87_cradle-1,,OH,87_cradle,belčȫ,belčȫ,,,wot,44,true,,
-EAH-87_cradle-1,,EAH,87_cradle,belčeγ,belčeγ,,,wot,44,true,,
-H-89_prisonjail-1,,H,89_prisonjail,börtön,börtön,,,wot,45,true,,
-EAH-89_prisonjail-1,,EAH,89_prisonjail,berten,berten,,,wot,45,true,,
-H-91_farewellindulgencededicationfestivalannualparishfeast-1,,H,91_farewellindulgencededicationfestivalannualparishfeast,búcsú,búcsú,,,wot,46,true,,
-OH-91_farewellindulgencededicationfestivalannualparishfeast-1,,OH,91_farewellindulgencededicationfestivalannualparishfeast,bulčū,bulčū,,,wot,46,true,,
-LAH-91_farewellindulgencededicationfestivalannualparishfeast-1,,LAH,91_farewellindulgencededicationfestivalannualparishfeast,bulčū,bulčū,,,wot,46,true,,
-EAH-91_farewellindulgencededicationfestivalannualparishfeast-1,,EAH,91_farewellindulgencededicationfestivalannualparishfeast,bulčuγ,bulčuγ,,,wot,46,true,,
-H-93_volgabulgar-1,,H,93_volgabulgar,bular,bular,,,wot,47,true,,
-EAH-93_volgabulgar-1,,EAH,93_volgabulgar,bular,bular,,,wot,47,true,,
-H-95_wheattriticum-1,,H,95_wheattriticum,búza,búza,,,wot,48,true,,
-OH-95_wheattriticum-1,,OH,95_wheattriticum,būza,būza,,,wot,48,true,,
-EAH-95_wheattriticum-1,,EAH,95_wheattriticum,buγzai,buγzai,,,wot,48,true,,
-H-97_beech-1,,H,97_beech,bük,bük,,,wot,49,true,,
-EAH-97_beech-1,,EAH,97_beech,bik,bik,,,wot,49,true,,
-H-99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1,,H,99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,bütü,bütü,,,wot,50,true,,
-EAH-99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1,,EAH,99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,bütüγ,bütüγ,,,wot,50,true,,
-H-101_akindofwillowsalixelgnos-1,,H,101_akindofwillowsalixelgnos,ciɡle,ciɡle,,,wot,51,true,,
-EAH-101_akindofwillowsalixelgnos-1,,EAH,101_akindofwillowsalixelgnos,čigle,čigle,,,wot,51,true,,
-H-105_trapsnareforcatchingbirdsbirdcage-1,,H,105_trapsnareforcatchingbirdsbirdcage,csëkle,csëkle,,,wot,52,true,,
-EAH-105_trapsnareforcatchingbirdsbirdcage-1,,EAH,105_trapsnareforcatchingbirdsbirdcage,čikle,čikle,,,wot,52,true,,
-H-105_trapsnareforcatchingbirdsbirdcage-2,,H,105_trapsnareforcatchingbirdsbirdcage,csikle,csikle,,,wot,53,true,,
-EAH-105_trapsnareforcatchingbirdsbirdcage-2,,EAH,105_trapsnareforcatchingbirdsbirdcage,čikle,čikle,,,wot,53,true,,
-H-107_akindofwillow-1,,H,107_akindofwillow,csiɡla,csiɡla,,,wot,54,true,,
-EAH-107_akindofwillow-1,,EAH,107_akindofwillow,čigla,čigla,,,wot,54,true,,
-H-111_akindofwolfsmilkeasterflowereuphorbia-1,,H,111_akindofwolfsmilkeasterflowereuphorbia,cötkény,cötkény,,,wot,55,true,,
-EAH-111_akindofwolfsmilkeasterflowereuphorbia-1,,EAH,111_akindofwolfsmilkeasterflowereuphorbia,sütken,sütken,,,wot,55,true,,
-H-111_akindofwolfsmilkeasterflowereuphorbia-2,,H,111_akindofwolfsmilkeasterflowereuphorbia,cötkény,cötkény,,,wot,56,true,,
-EAH-111_akindofwolfsmilkeasterflowereuphorbia-2,,EAH,111_akindofwolfsmilkeasterflowereuphorbia,süttegen,süttegen,,,wot,56,true,,
-H-113_onlyjust-1,,H,113_onlyjust,csak,csak,,,wot,57,true,,
-EAH-113_onlyjust-1,,EAH,113_onlyjust,čak,čak,,,wot,57,true,,
-H-117_nettleurtica-1,,H,117_nettleurtica,csalán,csalán,,,wot,58,true,,
-EAH-117_nettleurtica-1,,EAH,117_nettleurtica,čalān,čalān,,,wot,58,true,,
-H-117_nettleurtica-2,,H,117_nettleurtica,csalán,csalán,,,wot,59,true,,
-EAH-117_nettleurtica-2,,EAH,117_nettleurtica,čalaγan,čalaγan,,,wot,59,true,,
-H-119_thicketbrushwooddryfoliagegrovemeadow-1,,H,119_thicketbrushwooddryfoliagegrovemeadow,csalit,csalit,,,wot,60,true,,
-EAH-119_thicketbrushwooddryfoliagegrovemeadow-1,,EAH,119_thicketbrushwooddryfoliagegrovemeadow,čalit,čalit,,,wot,60,true,,
-H-122_fightingtrooparmygroupbattlequarrelhubbubflock-1,,H,122_fightingtrooparmygroupbattlequarrelhubbubflock,csata,csata,,,wot,61,true,,
-EAH-122_fightingtrooparmygroupbattlequarrelhubbubflock-1,,EAH,122_fightingtrooparmygroupbattlequarrelhubbubflock,čata,čata,,,wot,61,true,,
-H-123_toaddtojointobuckleupsomething-1,,H,123_toaddtojointobuckleupsomething,csatol,csatol,,,wot,62,true,,
-OH-123_toaddtojointobuckleupsomething-1,,OH,123_toaddtojointobuckleupsomething,čatol,čatol,,,wot,62,true,,
-EAH-123_toaddtojointobuckleupsomething-1,,EAH,123_toaddtojointobuckleupsomething,čat,čat,,,wot,62,true,,
-H-126_measlesmallpoxpocksskineruptiondecorativeembroidery-1,,H,126_measlesmallpoxpocksskineruptiondecorativeembroidery,csécs,csécs,,,wot,63,true,,
-EAH-126_measlesmallpoxpocksskineruptiondecorativeembroidery-1,,EAH,126_measlesmallpoxpocksskineruptiondecorativeembroidery,čëč,čëč,,,wot,63,true,,
-H-127_tobindsomething-1,,H,127_tobindsomething,csekél,csekél,,,wot,64,true,,
-OH-127_tobindsomething-1,,OH,127_tobindsomething,ček,ček,,,wot,64,true,,
-EAH-127_tobindsomething-1,,EAH,127_tobindsomething,čik,čik,,,wot,64,true,,
-H-130_awineoflowqualityafruitwine-1,,H,130_awineoflowqualityafruitwine,csiɡer,csiɡer,,,wot,65,true,,
-EAH-130_awineoflowqualityafruitwine-1,,EAH,130_awineoflowqualityafruitwine,čigir,čigir,,,wot,65,true,,
-H-131_secretionmucusdischargedfromtheeyes-1,,H,131_secretionmucusdischargedfromtheeyes,csipa,csipa,,,wot,66,true,,
-EAH-131_secretionmucusdischargedfromtheeyes-1,,EAH,131_secretionmucusdischargedfromtheeyes,čapa,čapa,,,wot,66,true,,
-H-133_acarpentersaxewithalonghelve-1,,H,133_acarpentersaxewithalonghelve,csomak,csomak,,,wot,67,true,,
-EAH-133_acarpentersaxewithalonghelve-1,,EAH,133_acarpentersaxewithalonghelve,čomak,čomak,,,wot,67,true,,
-H-136_stallion-1,,H,136_stallion,csődör,csődör,,,wot,68,true,,
-EAH-136_stallion-1,,EAH,136_stallion,čeü̯dür,čeü̯dür,,,wot,68,true,,
-H-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,H,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,csök,csök,,,wot,69,true,,
-EAH-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,EAH,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,čük,čük,,,wot,69,true,,
-H-139_tobecomesmallerremainsmalltoswaytotottertosprain-1,,H,139_tobecomesmallerremainsmalltoswaytotottertosprain,csökik,csökik,,,wot,70,true,,
-OH-139_tobecomesmallerremainsmalltoswaytotottertosprain-1,,OH,139_tobecomesmallerremainsmalltoswaytotottertosprain,čök,čök,,,wot,70,true,,
-EAH-139_tobecomesmallerremainsmalltoswaytotottertosprain-1,,EAH,139_tobecomesmallerremainsmalltoswaytotottertosprain,čük,čük,,,wot,70,true,,
-H-141_fieldguardheraldturkishenvoy-1,,H,141_fieldguardheraldturkishenvoy,csősz,csősz,,,wot,71,true,,
-EAH-141_fieldguardheraldturkishenvoy-1,,EAH,141_fieldguardheraldturkishenvoy,čäüš,čäüš,,,wot,71,true,,
-H-143_towindtoturntodistrortmisinterprettospinayarn-1,,H,143_towindtoturntodistrortmisinterprettospinayarn,csűr,csűr,,,wot,72,true,,
-EAH-143_towindtoturntodistrortmisinterprettospinayarn-1,,EAH,143_towindtoturntodistrortmisinterprettospinayarn,čevür,čevür,,,wot,72,true,,
-H-145_excellentworthless-1,,H,145_excellentworthless,daksi,daksi,,,wot,73,true,,
-EAH-145_excellentworthless-1,,EAH,145_excellentworthless,ǰakši,ǰakši,,,wot,73,true,,
-H-148_gristgroatssofthail-1,,H,148_gristgroatssofthail,dara,dara,,,wot,74,true,,
-EAH-148_gristgroatssofthail-1,,EAH,148_gristgroatssofthail,dara,dara,,,wot,74,true,,
-H-152_noonsouth-1,,H,152_noonsouth,dél,dél,,,wot,75,true,,
-EAH-152_noonsouth-1,,EAH,152_noonsouth,töli,töli,,,wot,75,true,,
-H-152_noonsouth-2,,H,152_noonsouth,dél,dél,,,wot,76,true,,
-EAH-152_noonsouth-2,,EAH,152_noonsouth,döli,döli,,,wot,76,true,,
-H-154_nutwalnutjuglans-1,,H,154_nutwalnutjuglans,dió,dió,,,wot,77,true,,
-OH-154_nutwalnutjuglans-1,,OH,154_nutwalnutjuglans,ǰiwo,ǰiwo,,,wot,77,true,,
-LAH-154_nutwalnutjuglans-1,,LAH,154_nutwalnutjuglans,ǰiγau̯,ǰiγau̯,,,wot,77,true,,
-EAH-154_nutwalnutjuglans-1,,EAH,154_nutwalnutjuglans,ǰiγaγ,ǰiγaγ,,,wot,77,true,,
-H-155_pigsusdomestica-1,,H,155_pigsusdomestica,disznó,disznó,,,wot,78,true,,
-EAH-155_pigsusdomestica-1,,EAH,155_pigsusdomestica,ǰisnaγ,ǰisnaγ,,,wot,78,true,,
-H-157_toleantoppleoverstreamdown-1,,H,157_toleantoppleoverstreamdown,dől,dől,,,wot,79,true,,
-OH-157_toleantoppleoverstreamdown-1,,OH,157_toleantoppleoverstreamdown,dǖl,dǖl,,,wot,79,true,,
-EAH-157_toleantoppleoverstreamdown-1,,EAH,157_toleantoppleoverstreamdown,dül,dül,,,wot,79,true,,
-H-159_tosqueezetothrustinto-1,,H,159_tosqueezetothrustinto,duɡ,duɡ,,,wot,80,true,,
-EAH-159_tosqueezetothrustinto-1,,EAH,159_tosqueezetothrustinto,dïg,dïg,,,wot,80,true,,
-H-161_churchbuildingandorganisation-1,,H,161_churchbuildingandorganisation,ëgyház,ëgyház,,,wot,81,true,,
-EAH-161_churchbuildingandorganisation-1,,EAH,161_churchbuildingandorganisation,ëdʹ,ëdʹ,,,wot,81,true,,
-H-163_plough-1,,H,163_plough,eke,eke,,,wot,82,true,,
-EAH-163_plough-1,,EAH,163_plough,ekeγ,ekeγ,,,wot,82,true,,
-H-165_topropitiate-1,,H,165_topropitiate,enɡesztel,enɡesztel,,,wot,83,true,,
-EAH-165_topropitiate-1,,EAH,165_topropitiate,eng,eng,,,wot,83,true,,
-H-167_toarrivetoreachgetto-1,,H,167_toarrivetoreachgetto,ér,ér,,,wot,84,true,,
-EAH-167_toarrivetoreachgetto-1,,EAH,167_toarrivetoreachgetto,er,er,,,wot,84,true,,
-H-169_moralsmorality-1,,H,169_moralsmorality,erkölcs,erkölcs,,,wot,85,true,,
-EAH-169_moralsmorality-1,,EAH,169_moralsmorality,erkelč,erkelč,,,wot,85,true,,
-H-171_strengthpower-1,,H,171_strengthpower,erő,erő,,,wot,86,true,,
-OH-171_strengthpower-1,,OH,171_strengthpower,ereü̯,ereü̯,,,wot,86,true,,
-EAH-171_strengthpower-1,,EAH,171_strengthpower,eriγ,eriγ,,,wot,86,true,,
-H-173_oath-1,,H,173_oath,eskü,eskü,,,wot,87,true,,
-OH-173_oath-1,,OH,173_oath,iškü,iškü,,,wot,87,true,,
-EAH-173_oath-1,,EAH,173_oath,ičkü,ičkü,,,wot,87,true,,
-H-176_rivernameofariver-1,,H,176_rivernameofariver,etel,etel,,,wot,88,true,,
-EAH-176_rivernameofariver-1,,EAH,176_rivernameofariver,etil,etil,,,wot,88,true,,
-H-204_weed-1,,H,204_weed,ɡaz,ɡaz,,,wot,89,true,,
-OH-204_weed-1,,OH,204_weed,kāz,kāz,,,wot,89,true,,
-EAH-204_weed-1,,EAH,204_weed,kaγzu,kaγzu,,,wot,89,true,,
-H-179_pelicanpelicanus-1,,H,179_pelicanpelicanus,ɡödény,ɡödény,,,wot,90,true,,
-OH-179_pelicanpelicanus-1,,OH,179_pelicanpelicanus,güden,güden,,,wot,90,true,,
-EAH-179_pelicanpelicanus-1,,EAH,179_pelicanpelicanus,güden,güden,,,wot,90,true,,
-H-181_polecatputoriusfoetidus-1,,H,181_polecatputoriusfoetidus,ɡörény,ɡörény,,,wot,91,true,,
-EAH-181_polecatputoriusfoetidus-1,,EAH,181_polecatputoriusfoetidus,güren,güren,,,wot,91,true,,
-H-183_gleanermousemusspicilegus-1,,H,183_gleanermousemusspicilegus,ɡüzü,ɡüzü,,,wot,92,true,,
-OH-183_gleanermousemusspicilegus-1,,OH,183_gleanermousemusspicilegus,güzǖ,güzǖ,,,wot,92,true,,
-LAH-183_gleanermousemusspicilegus-1,,LAH,183_gleanermousemusspicilegus,küzeγü,küzeγü,,,wot,92,true,,
-EAH-183_gleanermousemusspicilegus-1,,EAH,183_gleanermousemusspicilegus,küseγü,küseγü,,,wot,92,true,,
-H-185_dragnetakindoffishingnet-1,,H,185_dragnetakindoffishingnet,gyalom,gyalom,,,wot,93,true,,
-EAH-185_dragnetakindoffishingnet-1,,EAH,185_dragnetakindoffishingnet,ǰalum,ǰalum,,,wot,93,true,,
-H-187_wool-1,,H,187_wool,gyapjú,gyapjú,,,wot,94,true,,
-OH-187_wool-1,,OH,187_wool,ǰapyu,ǰapyu,,,wot,94,true,,
-EAH-187_wool-1,,EAH,187_wool,ǰapγu,ǰapγu,,,wot,94,true,,
-H-190_toincreasetoputonweighttogrowstronger-1,,H,190_toincreasetoputonweighttogrowstronger,gyarapodik,gyarapodik,,,wot,95,true,,
-OH-190_toincreasetoputonweighttogrowstronger-1,,OH,190_toincreasetoputonweighttogrowstronger,dʹåråp,dʹåråp,,,wot,95,true,,
-LAH-190_toincreasetoputonweighttogrowstronger-1,,LAH,190_toincreasetoputonweighttogrowstronger,ǰarap,ǰarap,,,wot,95,true,,
-EAH-190_toincreasetoputonweighttogrowstronger-1,,EAH,190_toincreasetoputonweighttogrowstronger,ǰarpa,ǰarpa,,,wot,95,true,,
-H-191_poorfrailfeeble-1,,H,191_poorfrailfeeble,gyarló,gyarló,,,wot,96,true,,
-OH-191_poorfrailfeeble-1,,OH,191_poorfrailfeeble,ǰarlou̯,ǰarlou̯,,,wot,96,true,,
-EAH-191_poorfrailfeeble-1,,EAH,191_poorfrailfeeble,ǰarlïγ,ǰarlïγ,,,wot,96,true,,
-H-193_mourningbereavement-1,,H,193_mourningbereavement,gyász,gyász,,,wot,97,true,,
-OH-193_mourningbereavement-1,,OH,193_mourningbereavement,ǰās,ǰās,,,wot,97,true,,
-EAH-193_mourningbereavement-1,,EAH,193_mourningbereavement,ǰas,ǰas,,,wot,97,true,,
-H-195_weakfeeble-1,,H,195_weakfeeble,gyënɡe,gyënɡe,,,wot,98,true,,
-EAH-195_weakfeeble-1,,EAH,195_weakfeeble,ǰenge,ǰenge,,,wot,98,true,,
-H-197_borderlandhedge-1,,H,197_borderlandhedge,gyepű,gyepű,,,wot,99,true,,
-OH-197_borderlandhedge-1,,OH,197_borderlandhedge,ǰepeü̯,ǰepeü̯,,,wot,99,true,,
-EAH-197_borderlandhedge-1,,EAH,197_borderlandhedge,ǰepiγ,ǰepiγ,,,wot,99,true,,
-H-200_child-1,,H,200_child,gyermek,gyermek,,,wot,100,true,,
-EAH-200_child-1,,EAH,200_child,ǰärmäk,ǰärmäk,,,wot,100,true,,
-H-201_candle-1,,H,201_candle,gyertya,gyertya,,,wot,101,true,,
-EAH-201_candle-1,,EAH,201_candle,ǰarta,ǰarta,,,wot,101,true,,
-H-203_murderkiller-1,,H,203_murderkiller,gyilkos,gyilkos,,,wot,102,true,,
-EAH-203_murderkiller-1,,EAH,203_murderkiller,ǰilkuš,ǰilkuš,,,wot,102,true,,
-H-205_stomach-1,,H,205_stomach,gyomor,gyomor,,,wot,103,true,,
-OH-205_stomach-1,,OH,205_stomach,dʹumur,dʹumur,,,wot,103,true,,
-EAH-205_stomach-1,,EAH,205_stomach,ǰumur,ǰumur,,,wot,103,true,,
-H-207_toconfesssins-1,,H,207_toconfesssins,gyovon,gyovon,,,wot,104,true,,
-OH-207_toconfesssins-1,,OH,207_toconfesssins,dʹuvun,dʹuvun,,,wot,104,true,,
-EAH-207_toconfesssins-1,,EAH,207_toconfesssins,ǰuvun,ǰuvun,,,wot,104,true,,
-H-209_pearl-1,,H,209_pearl,gyöngy,gyöngy,,,wot,105,true,,
-OH-209_pearl-1,,OH,209_pearl,ǰünǰ,ǰünǰ,,,wot,105,true,,
-LAH-209_pearl-1,,LAH,209_pearl,ǰünǰü,ǰünǰü,,,wot,105,true,,
-EAH-209_pearl-1,,EAH,209_pearl,ǰinǰü,ǰinǰü,,,wot,105,true,,
-H-211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1,,H,211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory,győz,győz,,,wot,106,true,,
-OH-211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1,,OH,211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory,dʹēz,dʹēz,,,wot,106,true,,
-EAH-211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1,,EAH,211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory,ǰeγüz,ǰeγüz,,,wot,106,true,,
-H-213_tokneadpug-1,,H,213_tokneadpug,gyúr,gyúr,,,wot,107,true,,
-EAH-213_tokneadpug-1,,EAH,213_tokneadpug,ǰuγur,ǰuγur,,,wot,107,true,,
-H-215_tocollectgathersomething-1,,H,215_tocollectgathersomething,gyűjt,gyűjt,,,wot,108,true,,
-EAH-215_tocollectgathersomething-1,,EAH,215_tocollectgathersomething,dʹǖl,dʹǖl,,,wot,108,true,,
-H-217_fruit-1,,H,217_fruit,gyümölcs,gyümölcs,,,wot,109,true,,
-OH-217_fruit-1,,OH,217_fruit,dʹömölč,dʹömölč,,,wot,109,true,,
-LAH-217_fruit-1,,LAH,217_fruit,dʹemilč,dʹemilč,,,wot,109,true,,
-EAH-217_fruit-1,,EAH,217_fruit,ǰemilč,ǰemilč,,,wot,109,true,,
-H-219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1,,H,219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea,gyűrű,gyűrű,,,wot,110,true,,
-OH-219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1,,OH,219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea,dʹereü̯,dʹereü̯,,,wot,110,true,,
-EAH-219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1,,EAH,219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea,ǰereγ,ǰereγ,,,wot,110,true,,
-H-221_thimble-1,,H,221_thimble,gyűszű,gyűszű,,,wot,111,true,,
-EAH-221_thimble-1,,EAH,221_thimble,ǰüγsüγ,ǰüγsüγ,,,wot,111,true,,
-H-223_bell-1,,H,223_bell,haranɡ,haranɡ,,,wot,112,true,,
-EAH-223_bell-1,,EAH,223_bell,hangar,hangar,,,wot,112,true,,
-H-225_sand-1,,H,225_sand,homok,homok,,,wot,113,true,,
-OH-225_sand-1,,OH,225_sand,humuki,humuki,,,wot,113,true,,
-EAH-225_sand-1,,EAH,225_sand,humoki,humoki,,,wot,113,true,,
-H-227_timeweather-1,,H,227_timeweather,idő,idő,,,wot,114,true,,
-OH-227_timeweather-1,,OH,227_timeweather,üdȫ,üdȫ,,,wot,114,true,,
-LAH-227_timeweather-1,,LAH,227_timeweather,üdeü̯,üdeü̯,,,wot,114,true,,
-EAH-227_timeweather-1,,EAH,227_timeweather,üdeγ,üdeγ,,,wot,114,true,,
-H-230_tobefrightenedtotakefright-1,,H,230_tobefrightenedtotakefright,ijed,ijed,,,wot,115,true,,
-OH-230_tobefrightenedtotakefright-1,,OH,230_tobefrightenedtotakefright,iye,iye,,,wot,115,true,,
-EAH-230_tobefrightenedtotakefright-1,,EAH,230_tobefrightenedtotakefright,äyi,äyi,,,wot,115,true,,
-H-231_twin-1,,H,231_twin,iker,iker,,,wot,116,true,,
-EAH-231_twin-1,,EAH,231_twin,ikir,ikir,,,wot,116,true,,
-H-233_tosuitsomethingtobepropertofitinto-1,,H,233_tosuitsomethingtobepropertofitinto,illik,illik,,,wot,117,true,,
-EAH-233_tosuitsomethingtobepropertofitinto-1,,EAH,233_tosuitsomethingtobepropertofitinto,il,il,,,wot,117,true,,
-H-235_shirt-1,,H,235_shirt,inɡ,inɡ,,,wot,118,true,,
-OH-235_shirt-1,,OH,235_shirt,ümeg,ümeg,,,wot,118,true,,
-EAH-235_shirt-1,,EAH,235_shirt,ümmeg,ümmeg,,,wot,118,true,,
-H-237_buttermilk-1,,H,237_buttermilk,író,író,,,wot,119,true,,
-OH-237_buttermilk-1,,OH,237_buttermilk,irō,irō,,,wot,119,true,,
-EAH-237_buttermilk-1,,EAH,237_buttermilk,iraγ,iraγ,,,wot,119,true,,
-H-239_nameofanethnicgroupofiranianorigininhungary-1,,H,239_nameofanethnicgroupofiranianorigininhungary,jász,jász,,,wot,120,true,,
-H-241_bulrushclubrushdifferentplantslikeschoenoplectuscyperace-1,,H,241_bulrushclubrushdifferentplantslikeschoenoplectuscyperace,káka,káka,,,wot,121,true,,
-H-243_guidepilotconductorticketinspector-1,,H,243_guidepilotconductorticketinspector,kalóz,kalóz,,,wot,122,true,,
-EAH-243_guidepilotconductorticketinspector-1,,EAH,243_guidepilotconductorticketinspector,kalauz,kalauz,,,wot,122,true,,
-H-247_awaterplantstratiotesaloides-1,,H,247_awaterplantstratiotesaloides,kalokány,kalokány,,,wot,123,true,,
-EAH-247_awaterplantstratiotesaloides-1,,EAH,247_awaterplantstratiotesaloides,karlukan,karlukan,,,wot,123,true,,
-H-247_awaterplantstratiotesaloides-2,,H,247_awaterplantstratiotesaloides,karlokány,karlokány,,,wot,124,true,,
-EAH-247_awaterplantstratiotesaloides-2,,EAH,247_awaterplantstratiotesaloides,karlukan,karlukan,,,wot,124,true,,
-H-250_whiplash-1,,H,250_whiplash,kamsi,kamsi,,,wot,125,true,,
-H-251_saddlestrap-1,,H,251_saddlestrap,kangyík,kangyík,,,wot,126,true,,
-EAH-251_saddlestrap-1,,EAH,251_saddlestrap,kåndʹikå,kåndʹikå,,,wot,126,true,,
-H-253_measles-1,,H,253_measles,kanyaró,kanyaró,,,wot,127,true,,
-OH-253_measles-1,,OH,253_measles,kåråńō,kåråńō,,,wot,127,true,,
-LAH-253_measles-1,,LAH,253_measles,kåråmō,kåråmō,,,wot,127,true,,
-EAH-253_measles-1,,EAH,253_measles,karamuγ,karamuγ,,,wot,127,true,,
-H-255_gate-1,,H,255_gate,kapu,kapu,,,wot,128,true,,
-OH-255_gate-1,,OH,255_gate,kapū,kapū,,,wot,128,true,,
-EAH-255_gate-1,,EAH,255_gate,kapuγ,kapuγ,,,wot,128,true,,
-H-257_damageloss-1,,H,257_damageloss,kár,kár,,,wot,129,true,,
-H-259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1,,H,259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,karám,karám,,,wot,130,true,,
-EAH-259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1,,EAH,259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,korām,korām,,,wot,130,true,,
-H-261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,H,261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karanbél,karanbél,,,wot,131,true,,
-EAH-261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,EAH,261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karampil,karampil,,,wot,131,true,,
-H-263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,H,263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kárókatona,kárókatona,,,wot,132,true,,
-OH-263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,OH,263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara katona,kara katona,,,wot,132,true,,
-EAH-263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,EAH,263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,kara kotan,,,wot,132,true,,
-H-265_chicorycichoriumspcichoriumintybus-1,,H,265_chicorycichoriumspcichoriumintybus,katánɡ,katánɡ,,,wot,133,true,,
-EAH-265_chicorycichoriumspcichoriumintybus-1,,EAH,265_chicorycichoriumspcichoriumintybus,katāng,katāng,,,wot,133,true,,
-H-267_bosombreast-1,,H,267_bosombreast,kebel,kebel,,,wot,134,true,,
-H-269_blue-1,,H,269_blue,kék,kék,,,wot,135,true,,
-EAH-269_blue-1,,EAH,269_blue,keyk,keyk,,,wot,135,true,,
-H-271_hempcannabis-1,,H,271_hempcannabis,kender,kender,,,wot,136,true,,
-EAH-271_hempcannabis-1,,EAH,271_hempcannabis,kendir,kendir,,,wot,136,true,,
-H-273_pictureshapeform-1,,H,273_pictureshapeform,kép,kép,,,wot,137,true,,
-H-275_akindofship-1,,H,275_akindofship,kerep,kerep,,,wot,138,true,,
-H-277_cud-1,,H,277_cud,kérő,kérő,,,wot,139,true,,
-OH-277_cud-1,,OH,277_cud,kevreγ,kevreγ,,,wot,139,true,,
-EAH-277_cud-1,,EAH,277_cud,kevereγ,kevereγ,,,wot,139,true,,
-H-279_vulturevultur-1,,H,279_vulturevultur,keselyű,keselyű,,,wot,140,true,,
-OH-279_vulturevultur-1,,OH,279_vulturevultur,kešeleü̯,kešeleü̯,,,wot,140,true,,
-EAH-279_vulturevultur-1,,EAH,279_vulturevultur,küčeleγ,küčeleγ,,,wot,140,true,,
-H-284_smalllittle-1,,H,284_smalllittle,kicsiny,kicsiny,,,wot,141,true,,
-EAH-284_smalllittle-1,,EAH,284_smalllittle,kičin,kičin,,,wot,141,true,,
-H-283_small-1,,H,283_small,kicsi,kicsi,,,wot,142,true,,
-EAH-283_small-1,,EAH,283_small,kičin,kičin,,,wot,142,true,,
-H-285_felt-1,,H,285_felt,kíjc,kíjc,,,wot,143,true,,
-OH-285_felt-1,,OH,285_felt,kīyc,kīyc,,,wot,143,true,,
-LAH-285_felt-1,,LAH,285_felt,kiyic,kiyic,,,wot,143,true,,
-EAH-285_felt-1,,EAH,285_felt,kiyiz,kiyiz,,,wot,143,true,,
-H-287_abirdsimilartoafalconakindofbirdofprey-1,,H,287_abirdsimilartoafalconakindofbirdofprey,kiköcsény,kiköcsény,,,wot,144,true,,
-OH-287_abirdsimilartoafalconakindofbirdofprey-1,,OH,287_abirdsimilartoafalconakindofbirdofprey,kikörčen,kikörčen,,,wot,144,true,,
-EAH-287_abirdsimilartoafalconakindofbirdofprey-1,,EAH,287_abirdsimilartoafalconakindofbirdofprey,kükerčen,kükerčen,,,wot,144,true,,
-H-289_gourdcalabashlagenariavulgarisheadbillycockhat-1,,H,289_gourdcalabashlagenariavulgarisheadbillycockhat,kobak,kobak,,,wot,145,true,,
-EAH-289_gourdcalabashlagenariavulgarisheadbillycockhat-1,,EAH,289_gourdcalabashlagenariavulgarisheadbillycockhat,kåbåk,kåbåk,,,wot,145,true,,
-H-291_tobegtomendicate-1,,H,291_tobegtomendicate,koldul,koldul,,,wot,146,true,,
-EAH-291_tobegtomendicate-1,,EAH,291_tobegtomendicate,koldu,koldu,,,wot,146,true,,
-H-293_beggar-1,,H,293_beggar,koldus,koldus,,,wot,147,true,,
-EAH-293_beggar-1,,EAH,293_beggar,koldu,koldu,,,wot,147,true,,
-H-295_timothygrassphleumphleumsp-1,,H,295_timothygrassphleumphleumsp,komócsin,komócsin,,,wot,148,true,,
-EAH-295_timothygrassphleumphleumsp-1,,EAH,295_timothygrassphleumphleumsp,kåmičin,kåmičin,,,wot,148,true,,
-H-297_gloomygravemorosesombredullcolourednotproperlycastrated-1,,H,297_gloomygravemorosesombredullcolourednotproperlycastrated,komor,komor,,,wot,149,true,,
-EAH-297_gloomygravemorosesombredullcolourednotproperlycastrated-1,,EAH,297_gloomygravemorosesombredullcolourednotproperlycastrated,komur,komur,,,wot,149,true,,
-H-299_ageperiod-1,,H,299_ageperiod,kor,kor,,,wot,150,true,,
-EAH-299_ageperiod-1,,EAH,299_ageperiod,kur,kur,,,wot,150,true,,
-H-301_drystalkofweed-1,,H,301_drystalkofweed,kóró,kóró,,,wot,151,true,,
-OH-301_drystalkofweed-1,,OH,301_drystalkofweed,korou̯,korou̯,,,wot,151,true,,
-EAH-301_drystalkofweed-1,,EAH,301_drystalkofweed,kuroγ,kuroγ,,,wot,151,true,,
-H-303_ram-1,,H,303_ram,kos,kos,,,wot,152,true,,
-EAH-303_ram-1,,EAH,303_ram,koč,koč,,,wot,152,true,,
-H-306_frocksheepskinwaistcoat-1,,H,306_frocksheepskinwaistcoat,ködmön,ködmön,,,wot,153,true,,
-EAH-306_frocksheepskinwaistcoat-1,,EAH,306_frocksheepskinwaistcoat,kedmen,kedmen,,,wot,153,true,,
-H-307_blackthornprunusspinosa-1,,H,307_blackthornprunusspinosa,kökény,kökény,,,wot,154,true,,
-EAH-307_blackthornprunusspinosa-1,,EAH,307_blackthornprunusspinosa,köken,köken,,,wot,154,true,,
-H-309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1,,H,309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre,köldök,köldök,,,wot,155,true,,
-OH-309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1,,OH,309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre,kildik,kildik,,,wot,155,true,,
-EAH-309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1,,EAH,309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre,kindik,kindik,,,wot,155,true,,
-H-311_pounderbeatersmallmortar-1,,H,311_pounderbeatersmallmortar,kölyű,kölyű,,,wot,156,true,,
-OH-311_pounderbeatersmallmortar-1,,OH,311_pounderbeatersmallmortar,kelǖ,kelǖ,,,wot,156,true,,
-EAH-311_pounderbeatersmallmortar-1,,EAH,311_pounderbeatersmallmortar,keliγ,keliγ,,,wot,156,true,,
-H-314_book-1,,H,314_book,könyv,könyv,,,wot,157,true,,
-OH-314_book-1,,OH,314_book,köńüγ,köńüγ,,,wot,157,true,,
-EAH-314_book-1,,EAH,314_book,küńüγ,küńüγ,,,wot,157,true,,
-H-315_stumpyasmallthickman-1,,H,315_stumpyasmallthickman,köpcös,köpcös,,,wot,158,true,,
-OH-315_stumpyasmallthickman-1,,OH,315_stumpyasmallthickman,köpčöš,köpčöš,,,wot,158,true,,
-LAH-315_stumpyasmallthickman-1,,LAH,315_stumpyasmallthickman,köpčȫ,köpčȫ,,,wot,158,true,,
-EAH-315_stumpyasmallthickman-1,,EAH,315_stumpyasmallthickman,köpčeγ,köpčeγ,,,wot,158,true,,
-H-317_cloakgownovercoat-1,,H,317_cloakgownovercoat,köpönyek,köpönyek,,,wot,159,true,,
-EAH-317_cloakgownovercoat-1,,EAH,317_cloakgownovercoat,kepenek,kepenek,,,wot,159,true,,
-H-319_ashtreefraxinussp-1,,H,319_ashtreefraxinussp,kőris,kőris,,,wot,160,true,,
-OH-319_ashtreefraxinussp-1,,OH,319_ashtreefraxinussp,kǖriš,kǖriš,,,wot,160,true,,
-EAH-319_ashtreefraxinussp-1,,EAH,319_ashtreefraxinussp,kewrič,kewrič,,,wot,160,true,,
-H-322_pearpyruscommunis-1,,H,322_pearpyruscommunis,körtvély,körtvély,,,wot,161,true,,
-OH-322_pearpyruscommunis-1,,OH,322_pearpyruscommunis,kërtveli,kërtveli,,,wot,161,true,,
-EAH-322_pearpyruscommunis-1,,EAH,322_pearpyruscommunis,kertβeli,kertβeli,,,wot,161,true,,
-H-323_togreettothank-1,,H,323_togreettothank,köszön,köszön,,,wot,162,true,,
-EAH-323_togreettothank-1,,EAH,323_togreettothank,küsen,küsen,,,wot,162,true,,
-H-325_akindofdogahungarianbreedofsheepdog-1,,H,325_akindofdogahungarianbreedofsheepdog,kuvasz,kuvasz,,,wot,163,true,,
-EAH-325_akindofdogahungarianbreedofsheepdog-1,,EAH,325_akindofdogahungarianbreedofsheepdog,kuwaz,kuwaz,,,wot,163,true,,
-H-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1,,H,327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,küllő,küllő,,,wot,164,true,,
-OH-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1,,OH,327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,külliγ,külliγ,,,wot,164,true,,
-LAH-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1,,LAH,327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,kölliγ,kölliγ,,,wot,164,true,,
-EAH-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1,,EAH,327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,köligeliγ,köligeliγ,,,wot,164,true,,
-H-329_drysummerfograinbow-1,,H,329_drysummerfograinbow,mónár köd,mónár köd,,,wot,165,true,,
-OH-329_drysummerfograinbow-1,,OH,329_drysummerfograinbow,mōnār,mōnār,,,wot,165,true,,
-EAH-329_drysummerfograinbow-1,,EAH,329_drysummerfograinbow,munar,munar,,,wot,165,true,,
-H-331_chaffhuskswinnowingstailingsrefuseofgrain-1,,H,331_chaffhuskswinnowingstailingsrefuseofgrain,ocsú,ocsú,,,wot,166,true,,
-OH-331_chaffhuskswinnowingstailingsrefuseofgrain-1,,OH,331_chaffhuskswinnowingstailingsrefuseofgrain,učū,učū,,,wot,166,true,,
-LAH-331_chaffhuskswinnowingstailingsrefuseofgrain-1,,LAH,331_chaffhuskswinnowingstailingsrefuseofgrain,učou̯,učou̯,,,wot,166,true,,
-EAH-331_chaffhuskswinnowingstailingsrefuseofgrain-1,,EAH,331_chaffhuskswinnowingstailingsrefuseofgrain,učoγ,učoγ,,,wot,166,true,,
-H-333_toteach-1,,H,333_toteach,oktat,oktat,,,wot,167,true,,
-OH-333_toteach-1,,OH,333_toteach,ok,ok,,,wot,167,true,,
-EAH-333_toteach-1,,EAH,333_toteach,uk,uk,,,wot,167,true,,
-H-335_cheap-1,,H,335_cheap,olcsó,olcsó,,,wot,168,true,,
-OH-335_cheap-1,,OH,335_cheap,ōčō,ōčō,,,wot,168,true,,
-LAH-335_cheap-1,,LAH,335_cheap,učau̯,učau̯,,,wot,168,true,,
-EAH-335_cheap-1,,EAH,335_cheap,učaγ,učaγ,,,wot,168,true,,
-H-337_spermseminalfluid-1,,H,337_spermseminalfluid,ondó,ondó,,,wot,169,true,,
-OH-337_spermseminalfluid-1,,OH,337_spermseminalfluid,ondau̯,ondau̯,,,wot,169,true,,
-EAH-337_spermseminalfluid-1,,EAH,337_spermseminalfluid,undaγ,undaγ,,,wot,169,true,,
-H-339_crumbofbreadmorselasmallpieceofbread-1,,H,339_crumbofbreadmorselasmallpieceofbread,ontoɡ,ontoɡ,,,wot,170,true,,
-H-341_lion-1,,H,341_lion,oroszlán,oroszlán,,,wot,171,true,,
-EAH-341_lion-1,,EAH,341_lion,uruslān,uruslān,,,wot,171,true,,
-H-343_thief-1,,H,343_thief,orv,orv,,,wot,172,true,,
-OH-343_thief-1,,OH,343_thief,urvu,urvu,,,wot,172,true,,
-LAH-343_thief-1,,LAH,343_thief,uvru,uvru,,,wot,172,true,,
-EAH-343_thief-1,,EAH,343_thief,uγru,uγru,,,wot,172,true,,
-H-345_cuneinplayinostabla-1,,H,345_cuneinplayinostabla,os,os,,,wot,173,true,,
-OH-345_cuneinplayinostabla-1,,OH,345_cuneinplayinostabla,ošk,ošk,,,wot,173,true,,
-LAH-345_cuneinplayinostabla-1,,LAH,345_cuneinplayinostabla,ačk,ačk,,,wot,173,true,,
-EAH-345_cuneinplayinostabla-1,,EAH,345_cuneinplayinostabla,alčuk,alčuk,,,wot,173,true,,
-H-347_tostitchtoputonadress-1,,H,347_tostitchtoputonadress,ölt,ölt,,,wot,174,true,,
-EAH-347_tostitchtoputonadress-1,,EAH,347_tostitchtoputonadress,ilt,ilt,,,wot,174,true,,
-H-349_totakeroottogrowstrongerplantanimal-1,,H,349_totakeroottogrowstrongerplantanimal,önik,önik,,,wot,175,true,,
-OH-349_totakeroottogrowstrongerplantanimal-1,,OH,349_totakeroottogrowstrongerplantanimal,ön,ön,,,wot,175,true,,
-EAH-349_totakeroottogrowstrongerplantanimal-1,,EAH,349_totakeroottogrowstrongerplantanimal,ün,ün,,,wot,175,true,,
-H-351_millingproduct-1,,H,351_millingproduct,örmény,örmény,,,wot,176,true,,
-EAH-351_millingproduct-1,,EAH,351_millingproduct,eü̯rmen,eü̯rmen,,,wot,176,true,,
-H-353_eternal-1,,H,353_eternal,örök,örök,,,wot,177,true,,
-EAH-353_eternal-1,,EAH,353_eternal,ürük,ürük,,,wot,177,true,,
-H-355_tobecomemad-1,,H,355_tobecomemad,őrül,őrül,,,wot,178,true,,
-OH-355_tobecomemad-1,,OH,355_tobecomemad,eü̯ril,eü̯ril,,,wot,178,true,,
-EAH-355_tobecomemad-1,,EAH,355_tobecomemad,evril,evril,,,wot,178,true,,
-H-360_whirlpooleddy-1,,H,360_whirlpooleddy,őrém,őrém,,,wot,179,true,,
-OH-360_whirlpooleddy-1,,OH,360_whirlpooleddy,eürem,eürem,,,wot,179,true,,
-EAH-360_whirlpooleddy-1,,EAH,360_whirlpooleddy,eγrim,eγrim,,,wot,179,true,,
-H-360_whirlpooleddy-2,,H,360_whirlpooleddy,örmény,örmény,,,wot,180,true,,
-EAH-360_whirlpooleddy-2,,EAH,360_whirlpooleddy,örmen,örmen,,,wot,180,true,,
-H-361_flooddelugestream-1,,H,361_flooddelugestream,özön,özön,,,wot,181,true,,
-EAH-361_flooddelugestream-1,,EAH,361_flooddelugestream,üzen,üzen,,,wot,181,true,,
-H-363_cheese-1,,H,363_cheese,sajt,sajt,,,wot,182,true,,
-OH-363_cheese-1,,OH,363_cheese,šaχt,šaχt,,,wot,182,true,,
-EAH-363_cheese-1,,EAH,363_cheese,čaγt,čaγt,,,wot,182,true,,
-H-366_yellow-1,,H,366_yellow,sár,sár,,,wot,183,true,,
-EAH-366_yellow-1,,EAH,366_yellow,šari,šari,,,wot,183,true,,
-H-367_dragon-1,,H,367_dragon,sárkány,sárkány,,,wot,184,true,,
-EAH-367_dragon-1,,EAH,367_dragon,šārkān,šārkān,,,wot,184,true,,
-H-369_atypeofwildonionornithogalum-1,,H,369_atypeofwildonionornithogalum,sárma,sárma,,,wot,185,true,,
-EAH-369_atypeofwildonionornithogalum-1,,EAH,369_atypeofwildonionornithogalum,šarmaγ,šarmaγ,,,wot,185,true,,
-H-371_tent-1,,H,371_tent,sátor,sátor,,,wot,186,true,,
-OH-371_tent-1,,OH,371_tent,šatur,šatur,,,wot,186,true,,
-EAH-371_tent-1,,EAH,371_tent,čatur,čatur,,,wot,186,true,,
-H-373_tosweeptobroom-1,,H,373_tosweeptobroom,seper,seper,,,wot,187,true,,
-EAH-373_tosweeptobroom-1,,EAH,373_tosweeptobroom,šipir,šipir,,,wot,187,true,,
-H-376_draffleesdregsofwine-1,,H,376_draffleesdregsofwine,seprő,seprő,,,wot,188,true,,
-OH-376_draffleesdregsofwine-1,,OH,376_draffleesdregsofwine,čeprȫ,čeprȫ,,,wot,188,true,,
-EAH-376_draffleesdregsofwine-1,,EAH,376_draffleesdregsofwine,čöpreγ,čöpreγ,,,wot,188,true,,
-H-377_toinjuretohurt-1,,H,377_toinjuretohurt,sér,sér,,,wot,189,true,,
-EAH-377_toinjuretohurt-1,,EAH,377_toinjuretohurt,šir,šir,,,wot,189,true,,
-H-379_anit-1,,H,379_anit,serke,serke,,,wot,190,true,,
-EAH-379_anit-1,,EAH,379_anit,širke,širke,,,wot,190,true,,
-H-381_alsoshortsheavesusedtostrengthenathatchedroof-1,,H,381_alsoshortsheavesusedtostrengthenathatchedroof,serte,serte,,,wot,191,true,,
-OH-381_alsoshortsheavesusedtostrengthenathatchedroof-1,,OH,381_alsoshortsheavesusedtostrengthenathatchedroof,širte,širte,,,wot,191,true,,
-EAH-381_alsoshortsheavesusedtostrengthenathatchedroof-1,,EAH,381_alsoshortsheavesusedtostrengthenathatchedroof,širt,širt,,,wot,191,true,,
-H-383_smoothsimit-1,,H,383_smoothsimit,sima,sima,,,wot,192,true,,
-EAH-383_smoothsimit-1,,EAH,383_smoothsimit,šima,šima,,,wot,192,true,,
-H-385_springwellbrook-1,,H,385_springwellbrook,séd,séd,,,wot,193,true,,
-OH-385_springwellbrook-1,,OH,385_springwellbrook,šīd,šīd,,,wot,193,true,,
-EAH-385_springwellbrook-1,,EAH,385_springwellbrook,šiu,šiu,,,wot,193,true,,
-H-388_falcon-1,,H,388_falcon,sólyom,sólyom,,,wot,194,true,,
-OH-388_falcon-1,,OH,388_falcon,šolʹom,šolʹom,,,wot,194,true,,
-LAH-388_falcon-1,,LAH,388_falcon,čawlim,čawlim,,,wot,194,true,,
-EAH-388_falcon-1,,EAH,388_falcon,čavli,čavli,,,wot,194,true,,
-H-390_dogwoodtreecornelcornus-1,,H,390_dogwoodtreecornelcornus,som,som,,,wot,195,true,,
-OH-390_dogwoodtreecornelcornus-1,,OH,390_dogwoodtreecornelcornus,šum,šum,,,wot,195,true,,
-EAH-390_dogwoodtreecornelcornus-1,,EAH,390_dogwoodtreecornelcornus,čum,čum,,,wot,195,true,,
-H-391_beer-1,,H,391_beer,sör,sör,,,wot,196,true,,
-OH-391_beer-1,,OH,391_beer,šer,šer,,,wot,196,true,,
-EAH-391_beer-1,,EAH,391_beer,šere,šere,,,wot,196,true,,
-H-393_pikeperchzanderstizostedionlucioperca-1,,H,393_pikeperchzanderstizostedionlucioperca,süllő,süllő,,,wot,197,true,,
-OH-393_pikeperchzanderstizostedionlucioperca-1,,OH,393_pikeperchzanderstizostedionlucioperca,šilleü,šilleü,,,wot,197,true,,
-EAH-393_pikeperchzanderstizostedionlucioperca-1,,EAH,393_pikeperchzanderstizostedionlucioperca,šilleγ,šilleγ,,,wot,197,true,,
-H-395_densethickofwoodsorsoup-1,,H,395_densethickofwoodsorsoup,sűrű,sűrű,,,wot,198,true,,
-OH-395_densethickofwoodsorsoup-1,,OH,395_densethickofwoodsorsoup,šireü̯,šireü̯,,,wot,198,true,,
-EAH-395_densethickofwoodsorsoup-1,,EAH,395_densethickofwoodsorsoup,čireγ,čireγ,,,wot,198,true,,
-H-397_brotherinlaw-1,,H,397_brotherinlaw,süv,süv,,,wot,199,true,,
-OH-397_brotherinlaw-1,,OH,397_brotherinlaw,šiv,šiv,,,wot,199,true,,
-EAH-397_brotherinlaw-1,,EAH,397_brotherinlaw,siγ,siγ,,,wot,199,true,,
-H-399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken-1,,H,399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken,szaka,szaka,,,wot,200,true,,
-EAH-399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken-1,,EAH,399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken,sakaγ,sakaγ,,,wot,200,true,,
-H-401_raft-1,,H,401_raft,szál,szál,,,wot,201,true,,
-EAH-401_raft-1,,EAH,401_raft,sal,sal,,,wot,201,true,,
-H-403_tohavepityfortoregret-1,,H,403_tohavepityfortoregret,szán,szán,,,wot,202,true,,
-OH-403_tohavepityfortoregret-1,,OH,403_tohavepityfortoregret,sān,sān,,,wot,202,true,,
-EAH-403_tohavepityfortoregret-1,,EAH,403_tohavepityfortoregret,saγin,saγin,,,wot,202,true,,
-H-405_trousseaubox-1,,H,405_trousseaubox,szándok,szándok,,,wot,203,true,,
-H-407_lightcolouredyellowishpalepartlybald-1,,H,407_lightcolouredyellowishpalepartlybald,szár,szár,,,wot,204,true,,
-EAH-407_lightcolouredyellowishpalepartlybald-1,,EAH,407_lightcolouredyellowishpalepartlybald,sar,sar,,,wot,204,true,,
-H-409_grocergrandhandler-1,,H,409_grocergrandhandler,szatócs,szatócs,,,wot,205,true,,
-OH-409_grocergrandhandler-1,,OH,409_grocergrandhandler,satōč,satōč,,,wot,205,true,,
-LAH-409_grocergrandhandler-1,,LAH,409_grocergrandhandler,satiwči,satiwči,,,wot,205,true,,
-EAH-409_grocergrandhandler-1,,EAH,409_grocergrandhandler,satiγči,satiγči,,,wot,205,true,,
-H-411_wind-1,,H,411_wind,szél,szél,,,wot,206,true,,
-EAH-411_wind-1,,EAH,411_wind,sēl,sēl,,,wot,206,true,,
-H-419_toslumbertodoze-1,,H,419_toslumbertodoze,szender,szender,,,wot,207,true,,
-EAH-419_toslumbertodoze-1,,EAH,419_toslumbertodoze,sen,sen,,,wot,207,true,,
-H-419_toslumbertodoze-2,,H,419_toslumbertodoze,szender,szender,,,wot,208,true,,
-EAH-419_toslumbertodoze-2,,EAH,419_toslumbertodoze,sön,sön,,,wot,208,true,,
-H-419_toslumbertodoze-3,,H,419_toslumbertodoze,szöndör,szöndör,,,wot,209,true,,
-EAH-419_toslumbertodoze-3,,EAH,419_toslumbertodoze,sen,sen,,,wot,209,true,,
-H-419_toslumbertodoze-4,,H,419_toslumbertodoze,szöndör,szöndör,,,wot,210,true,,
-EAH-419_toslumbertodoze-4,,EAH,419_toslumbertodoze,sön,sön,,,wot,210,true,,
-H-421_frecklesunspotstain-1,,H,421_frecklesunspotstain,szeplő,szeplő,,,wot,211,true,,
-EAH-421_frecklesunspotstain-1,,EAH,421_frecklesunspotstain,sepleγ,sepleγ,,,wot,211,true,,
-H-423_fumesvapourspiritsalcoholhumours-1,,H,423_fumesvapourspiritsalcoholhumours,szesz,szesz,,,wot,212,true,,
-EAH-423_fumesvapourspiritsalcoholhumours-1,,EAH,423_fumesvapourspiritsalcoholhumours,sis,sis,,,wot,212,true,,
-H-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1,,H,426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,szirony,szirony,,,wot,213,true,,
-OH-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1,,OH,426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,siron,siron,,,wot,213,true,,
-LAH-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1,,LAH,426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,sirum,sirum,,,wot,213,true,,
-EAH-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1,,EAH,426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,siyrum,siyrum,,,wot,213,true,,
-H-427_rockcliffocciputcrestofmountain-1,,H,427_rockcliffocciputcrestofmountain,szirt,szirt,,,wot,214,true,,
-H-429_akindoffalconpielfalcusgyrfalco-1,,H,429_akindoffalconpielfalcusgyrfalco,szonɡor,szonɡor,,,wot,215,true,,
-EAH-429_akindoffalconpielfalcusgyrfalco-1,,EAH,429_akindoffalconpielfalcusgyrfalco,sonkor,sonkor,,,wot,215,true,,
-H-431_grasshopper-1,,H,431_grasshopper,szöcske,szöcske,,,wot,216,true,,
-OH-431_grasshopper-1,,OH,431_grasshopper,sökče,sökče,,,wot,216,true,,
-LAH-431_grasshopper-1,,LAH,431_grasshopper,sökśȫ,sökśȫ,,,wot,216,true,,
-EAH-431_grasshopper-1,,EAH,431_grasshopper,sek,sek,,,wot,216,true,,
-H-436_grapewinegrapevitisvinifer-1,,H,436_grapewinegrapevitisvinifer,szőlő,szőlő,,,wot,217,true,,
-OH-436_grapewinegrapevitisvinifer-1,,OH,436_grapewinegrapevitisvinifer,selleγ,selleγ,,,wot,217,true,,
-EAH-436_grapewinegrapevitisvinifer-1,,EAH,436_grapewinegrapevitisvinifer,śeleγ,śeleγ,,,wot,217,true,,
-H-436_grapewinegrapevitisvinifer-2,,H,436_grapewinegrapevitisvinifer,szöllő,szöllő,,,wot,218,true,,
-OH-436_grapewinegrapevitisvinifer-2,,OH,436_grapewinegrapevitisvinifer,selleγ,selleγ,,,wot,218,true,,
-EAH-436_grapewinegrapevitisvinifer-2,,EAH,436_grapewinegrapevitisvinifer,śeleγ,śeleγ,,,wot,218,true,,
-H-437_mosquitognatculexpipens-1,,H,437_mosquitognatculexpipens,szúnyoɡ,szúnyoɡ,,,wot,219,true,,
-OH-437_mosquitognatculexpipens-1,,OH,437_mosquitognatculexpipens,sunug,sunug,,,wot,219,true,,
-EAH-437_mosquitognatculexpipens-1,,EAH,437_mosquitognatculexpipens,sinuk,sinuk,,,wot,219,true,,
-H-439_toceasetostop-1,,H,439_toceasetostop,szzűnik,szzűnik,,,wot,220,true,,
-OH-439_toceasetostop-1,,OH,439_toceasetostop,sün,sün,,,wot,220,true,,
-EAH-439_toceasetostop-1,,EAH,439_toceasetostop,sön,sön,,,wot,220,true,,
-H-441_virginpure-1,,H,441_virginpure,szűz,szűz,,,wot,221,true,,
-OH-441_virginpure-1,,OH,441_virginpure,süz,süz,,,wot,221,true,,
-EAH-441_virginpure-1,,EAH,441_virginpure,süzök,süzök,,,wot,221,true,,
-H-443_advicecouncil-1,,H,443_advicecouncil,tanács,tanács,,,wot,222,true,,
-EAH-443_advicecouncil-1,,EAH,443_advicecouncil,tanilč,tanilč,,,wot,222,true,,
-H-445_tofeedtonourish-1,,H,445_tofeedtonourish,táplál,táplál,,,wot,223,true,,
-OH-445_tofeedtonourish-1,,OH,445_tofeedtonourish,tāplā,tāplā,,,wot,223,true,,
-EAH-445_tofeedtonourish-1,,EAH,445_tofeedtonourish,taplaγ,taplaγ,,,wot,223,true,,
-H-447_bald-1,,H,447_bald,tar,tar,,,wot,224,true,,
-EAH-447_bald-1,,EAH,447_bald,tar,tar,,,wot,224,true,,
-H-449_ploughfieldarablefieldstubblefield-1,,H,449_ploughfieldarablefieldstubblefield,tarló,tarló,,,wot,225,true,,
-EAH-449_ploughfieldarablefieldstubblefield-1,,EAH,449_ploughfieldarablefieldstubblefield,tarlaγ,tarlaγ,,,wot,225,true,,
-H-451_tatar-1,,H,451_tatar,tatár,tatár,,,wot,226,true,,
-EAH-451_tatar-1,,EAH,451_tatar,tatar,tatar,,,wot,226,true,,
-H-453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1,,H,453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind,tátorján,tátorján,,,wot,227,true,,
-OH-453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1,,OH,453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind,tāturyan,tāturyan,,,wot,227,true,,
-EAH-453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1,,EAH,453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind,taturγan,taturγan,,,wot,227,true,,
-H-455_troughwashtubhutch-1,,H,455_troughwashtubhutch,teknő,teknő,,,wot,228,true,,
-OH-455_troughwashtubhutch-1,,OH,455_troughwashtubhutch,tekenȫ,tekenȫ,,,wot,228,true,,
-EAH-455_troughwashtubhutch-1,,EAH,455_troughwashtubhutch,tekeneγ,tekeneγ,,,wot,228,true,,
-H-457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1,,H,457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,telek,telek,,,wot,229,true,,
-EAH-457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1,,EAH,457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,telük,telük,,,wot,229,true,,
-H-459_axle-1,,H,459_axle,tenɡely,tenɡely,,,wot,230,true,,
-EAH-459_axle-1,,EAH,459_axle,tengel,tengel,,,wot,230,true,,
-H-462_toturntochangetheoriginaldirection-1,,H,462_toturntochangetheoriginaldirection,térül,térül,,,wot,231,true,,
-OH-462_toturntochangetheoriginaldirection-1,,OH,462_toturntochangetheoriginaldirection,tēr,tēr,,,wot,231,true,,
-EAH-462_toturntochangetheoriginaldirection-1,,EAH,462_toturntochangetheoriginaldirection,tevir,tevir,,,wot,231,true,,
-H-463_knee-1,,H,463_knee,térd,térd,,,wot,232,true,,
-EAH-463_knee-1,,EAH,463_knee,tīr,tīr,,,wot,232,true,,
-H-465_camel-1,,H,465_camel,teve,teve,,,wot,233,true,,
-EAH-465_camel-1,,EAH,465_camel,teve,teve,,,wot,233,true,,
-H-467_steeryoungbullockox-1,,H,467_steeryoungbullockox,tinó,tinó,,,wot,234,true,,
-EAH-467_steeryoungbullockox-1,,EAH,467_steeryoungbullockox,tana,tana,,,wot,234,true,,
-H-469_tolayeggs-1,,H,469_tolayeggs,tojik,tojik,,,wot,235,true,,
-OH-469_tolayeggs-1,,OH,469_tolayeggs,tuik,tuik,,,wot,235,true,,
-LAH-469_tolayeggs-1,,LAH,469_tolayeggs,tuγik,tuγik,,,wot,235,true,,
-EAH-469_tolayeggs-1,,EAH,469_tolayeggs,tuγ,tuγ,,,wot,235,true,,
-H-471_oneyearoldlamb-1,,H,471_oneyearoldlamb,toklyó,toklyó,,,wot,236,true,,
-OH-471_oneyearoldlamb-1,,OH,471_oneyearoldlamb,toklʹu,toklʹu,,,wot,236,true,,
-EAH-471_oneyearoldlamb-1,,EAH,471_oneyearoldlamb,toklu,toklu,,,wot,236,true,,
-H-473_horseradisharmoraciarusticana-1,,H,473_horseradisharmoraciarusticana,torma,torma,,,wot,237,true,,
-EAH-473_horseradisharmoraciarusticana-1,,EAH,473_horseradisharmoraciarusticana,turma,turma,,,wot,237,true,,
-H-475_topileuptobecomeblocked-1,,H,475_topileuptobecomeblocked,torlik,torlik,,,wot,238,true,,
-OH-475_topileuptobecomeblocked-1,,OH,475_topileuptobecomeblocked,torol,torol,,,wot,238,true,,
-LAH-475_topileuptobecomeblocked-1,,LAH,475_topileuptobecomeblocked,toro,toro,,,wot,238,true,,
-EAH-475_topileuptobecomeblocked-1,,EAH,475_topileuptobecomeblocked,toro,toro,,,wot,238,true,,
-H-477_slovak-1,,H,477_slovak,tót,tót,,,wot,239,true,,
-OH-477_slovak-1,,OH,477_slovak,tat,tat,,,wot,239,true,,
-EAH-477_slovak-1,,EAH,477_slovak,tāt,tāt,,,wot,239,true,,
-H-479_innumerable-1,,H,479_innumerable,töméntelen,töméntelen,,,wot,240,true,,
-OH-479_innumerable-1,,OH,479_innumerable,tömēń,tömēń,,,wot,240,true,,
-EAH-479_innumerable-1,,EAH,479_innumerable,tümen,tümen,,,wot,240,true,,
-H-481_snaretrap-1,,H,481_snaretrap,tőr,tőr,,,wot,241,true,,
-EAH-481_snaretrap-1,,EAH,481_snaretrap,tȫr,tȫr,,,wot,241,true,,
-H-483_tohappentooccur-1,,H,483_tohappentooccur,történik,történik,,,wot,242,true,,
-OH-483_tohappentooccur-1,,OH,483_tohappentooccur,törtēn,törtēn,,,wot,242,true,,
-EAH-483_tohappentooccur-1,,EAH,483_tohappentooccur,törtün,törtün,,,wot,242,true,,
-H-485_peatturfdrieddung-1,,H,485_peatturfdrieddung,tőzeɡ,tőzeɡ,,,wot,243,true,,
-EAH-485_peatturfdrieddung-1,,EAH,485_peatturfdrieddung,tözek,tözek,,,wot,243,true,,
-H-487_cottagecheesecheesecurds-1,,H,487_cottagecheesecheesecurds,túró,túró,,,wot,244,true,,
-OH-487_cottagecheesecheesecurds-1,,OH,487_cottagecheesecheesecurds,turō,turō,,,wot,244,true,,
-EAH-487_cottagecheesecheesecurds-1,,EAH,487_cottagecheesecheesecurds,toraγ,toraγ,,,wot,244,true,,
-H-489_bustardotis-1,,H,489_bustardotis,túzok,túzok,,,wot,245,true,,
-EAH-489_bustardotis-1,,EAH,489_bustardotis,toγzak,toγzak,,,wot,245,true,,
-H-493_mirror-1,,H,493_mirror,tükör,tükör,,,wot,246,true,,
-EAH-493_mirror-1,,EAH,493_mirror,tiker,tiker,,,wot,246,true,,
-H-493_mirror-2,,H,493_mirror,tükör,tükör,,,wot,247,true,,
-EAH-493_mirror-2,,EAH,493_mirror,tüker,tüker,,,wot,247,true,,
-H-495_torollupascrolloronessleeves-1,,H,495_torollupascrolloronessleeves,tűr,tűr,,,wot,248,true,,
-EAH-495_torollupascrolloronessleeves-1,,EAH,495_torollupascrolloronessleeves,tür,tür,,,wot,248,true,,
-H-497_owlstrix-1,,H,497_owlstrix,uɡ,uɡ,,,wot,249,true,,
-EAH-497_owlstrix-1,,EAH,497_owlstrix,ugu,ugu,,,wot,249,true,,
-H-499_torefreshoneselftoresttobecomecured-1,,H,499_torefreshoneselftoresttobecomecured,üdül,üdül,,,wot,250,true,,
-OH-499_torefreshoneselftoresttobecomecured-1,,OH,499_torefreshoneselftoresttobecomecured,idül,idül,,,wot,250,true,,
-LAH-499_torefreshoneselftoresttobecomecured-1,,LAH,499_torefreshoneselftoresttobecomecured,edül,edül,,,wot,250,true,,
-EAH-499_torefreshoneselftoresttobecomecured-1,,EAH,499_torefreshoneselftoresttobecomecured,edü,edü,,,wot,250,true,,
-H-501_heiferroedoe-1,,H,501_heiferroedoe,ünő,ünő,,,wot,251,true,,
-OH-501_heiferroedoe-1,,OH,501_heiferroedoe,inȫ,inȫ,,,wot,251,true,,
-LAH-501_heiferroedoe-1,,LAH,501_heiferroedoe,ineü,ineü,,,wot,251,true,,
-EAH-501_heiferroedoe-1,,EAH,501_heiferroedoe,ineγ,ineγ,,,wot,251,true,,
-H-503_groundsquirrelcitelluscitellus-1,,H,503_groundsquirrelcitelluscitellus,ürɡe,ürɡe,,,wot,252,true,,
-EAH-503_groundsquirrelcitelluscitellus-1,,EAH,503_groundsquirrelcitelluscitellus,ürge,ürge,,,wot,252,true,,
-H-505_wormwoodartemisiabitterness-1,,H,505_wormwoodartemisiabitterness,üröm,üröm,,,wot,253,true,,
-OH-505_wormwoodartemisiabitterness-1,,OH,505_wormwoodartemisiabitterness,irim,irim,,,wot,253,true,,
-EAH-505_wormwoodartemisiabitterness-1,,EAH,505_wormwoodartemisiabitterness,erim,erim,,,wot,253,true,,
-H-508_hotembersextinguishedembers-1,,H,508_hotembersextinguishedembers,üszök,üszök,,,wot,254,true,,
-EAH-508_hotembersextinguishedembers-1,,EAH,508_hotembersextinguishedembers,isüg,isüg,,,wot,254,true,,
-H-509_oneyearoldfemalesheep-1,,H,509_oneyearoldfemalesheep,üvecs,üvecs,,,wot,255,true,,
-EAH-509_oneyearoldfemalesheep-1,,EAH,509_oneyearoldfemalesheep,öveč,öveč,,,wot,255,true,,
-H-511_troughtray-1,,H,511_troughtray,vályú,vályú,,,wot,256,true,,
-OH-511_troughtray-1,,OH,511_troughtray,valʹū,valʹū,,,wot,256,true,,
-LAH-511_troughtray-1,,LAH,511_troughtray,vālū,vālū,,,wot,256,true,,
-EAH-511_troughtray-1,,EAH,511_troughtray,valaγ,valaγ,,,wot,256,true,,
-H-514_aholeintheiceforfishing-1,,H,514_aholeintheiceforfishing,lék,lék,,,wot,257,true,,
-EAH-514_aholeintheiceforfishing-1,,EAH,514_aholeintheiceforfishing,vekü,vekü,,,wot,257,true,,
-H-515_guest-1,,H,515_guest,vendéɡ,vendéɡ,,,wot,258,true,,
-EAH-515_guest-1,,EAH,515_guest,vendeg,vendeg,,,wot,258,true,,
-H-517_gablefrontispiece-1,,H,517_gablefrontispiece,vértelek,vértelek,,,wot,259,true,,
-EAH-517_gablefrontispiece-1,,EAH,517_gablefrontispiece,vertelük,vertelük,,,wot,259,true,,
+H-1_cannoncatapult-1,,H,1_cannoncatapult,ágyú,ágyú,aː ɟ uː,,wot,1,true,^ ágyú $,default
+OH-1_cannoncatapult-1,,OH,1_cannoncatapult,āldʹū,āldʹū,aː l ɟ uː,,wot,1,true,^ āldʹū $,default
+LAH-1_cannoncatapult-1,,LAH,1_cannoncatapult,aldau̯,aldau̯,a l d a w,,wot,1,true,^ aldau̯ $,default
+EAH-1_cannoncatapult-1,,EAH,1_cannoncatapult,aldaγ,aldaγ,a l d a ɣ,,wot,1,true,^ aldaγ $,default
+H-6_streamcurrent-1,,H,6_streamcurrent,ákos,ákos,aː k o ʃ,,wot,2,true,^ ákos $,default
+H-6_streamcurrent-2,,H,6_streamcurrent,áɡos,áɡos,aː ɡ o ʃ,,wot,3,true,^ áɡos $,default
+H-7_falseimitation-1,,H,7_falseimitation,ál,ál,aː l,,wot,4,true,^ ál $,default
+EAH-7_falseimitation-1,,EAH,7_falseimitation,āl,āl,aː l,,wot,4,true,^ āl $,default
+H-11_piedofananimalscoat-1,,H,11_piedofananimalscoat,alacs,alacs,ɒ l ɒ t͡ʃ,,wot,5,true,^ alacs $,default
+EAH-11_piedofananimalscoat-1,,EAH,11_piedofananimalscoat,alač,alač,a l a t͡ʃ,,wot,5,true,^ alač $,default
+H-11_piedofananimalscoat-2,,H,11_piedofananimalscoat,alacs,alacs,ɒ l ɒ t͡ʃ,,wot,6,true,^ alacs $,default
+EAH-11_piedofananimalscoat-2,,EAH,11_piedofananimalscoat,alač,alač,a l a t͡ʃ,,wot,6,true,^ alač $,default
+H-14_barrelwoodencontainerandstandardquantity-1,,H,14_barrelwoodencontainerandstandardquantity,általaɡ,általaɡ,aː l t ɒ l ɒ ɡ,,wot,7,true,^ általaɡ $,default
+EAH-14_barrelwoodencontainerandstandardquantity-1,,EAH,14_barrelwoodencontainerandstandardquantity,altalag,altalag,a l t a l a ɡ,,wot,7,true,^ altalag $,default
+H-15_tonursetakecareof-1,,H,15_tonursetakecareof,ápol,ápol,aː p o l,,wot,8,true,^ ápol $,default
+OH-15_tonursetakecareof-1,,OH,15_tonursetakecareof,apol,apol,a p o l,,wot,8,true,^ apol $,default
+EAH-15_tonursetakecareof-1,,EAH,15_tonursetakecareof,op,op,o p,,wot,8,true,^ op $,default
+H-17_smalltiny-1,,H,17_smalltiny,apró,apró,ɒ p r oː,,wot,9,true,^ apró $,default
+OH-17_smalltiny-1,,OH,17_smalltiny,oprau̯,oprau̯,o p r a w,,wot,9,true,^ oprau̯ $,default
+EAH-17_smalltiny-1,,EAH,17_smalltiny,opuruγ,opuruγ,o p u r u ɣ,,wot,9,true,^ opuruγ $,default
+H-19_tomow-1,,H,19_tomow,arat,arat,ɒ r ɒ t,,wot,10,true,^ arat $,default
+EAH-19_tomow-1,,EAH,19_tomow,orat,orat,o r a t,,wot,10,true,^ orat $,default
+H-21_toharm-1,,H,21_toharm,árt,árt,aː r t,,wot,11,true,^ árt $,default
+EAH-21_toharm-1,,EAH,21_toharm,ārtat,ārtat,aː r t a t,,wot,11,true,^ ārtat $,default
+H-23_ditchcanal-1,,H,23_ditchcanal,árok,árok,aː r o k,,wot,12,true,^ árok $,default
+EAH-23_ditchcanal-1,,EAH,23_ditchcanal,āruk,āruk,aː r u k,,wot,12,true,^ āruk $,default
+H-25_barrow-1,,H,25_barrow,ártány,ártány,aː r t aː ɲ,,wot,13,true,^ ártány $,default
+EAH-25_barrow-1,,EAH,25_barrow,aritan,aritan,a r i t a n,,wot,13,true,^ aritan $,default
+H-27_charm-1,,H,27_charm,báj,báj,b aː j,,wot,14,true,^ báj $,default
+EAH-27_charm-1,,EAH,27_charm,bay,bay,b a j,,wot,14,true,^ bay $,default
+H-29_hatchetaxe-1,,H,29_hatchetaxe,balta,balta,b ɒ l t ɒ,,wot,15,true,^ balta $,default
+EAH-29_hatchetaxe-1,,EAH,29_hatchetaxe,balta,balta,b ɒ l t ɒ,,wot,15,true,^ balta $,default
+H-31_governorofcroatiagovernorofthesouthernmarches-1,,H,31_governorofcroatiagovernorofthesouthernmarches,bán,bán,b aː n,,wot,16,true,^ bán $,default
+H-33_hairybushyofdogsabighairydogasnoun-1,,H,33_hairybushyofdogsabighairydogasnoun,baráɡ,baráɡ,b ɒ r aː ɡ,,wot,17,true,^ baráɡ $,default
+EAH-33_hairybushyofdogsabighairydogasnoun-1,,EAH,33_hairybushyofdogsabighairydogasnoun,barag,barag,b a r a ɡ,,wot,17,true,^ barag $,default
+H-35_cattlelivestock-1,,H,35_cattlelivestock,barom,barom,b ɒ r o m,,wot,18,true,^ barom $,default
+EAH-35_cattlelivestock-1,,EAH,35_cattlelivestock,barum,barum,b a r u m,,wot,18,true,^ barum $,default
+H-37_tofuck-1,,H,37_tofuck,baszik,baszik,b ɒ s i k,,wot,19,true,^ baszik $,default
+EAH-37_tofuck-1,,EAH,37_tofuck,bas,bas,b a s,,wot,19,true,^ bas $,default
+H-39_frog-1,,H,39_frog,béka,béka,b eː k ɒ,,wot,20,true,^ béka $,default
+EAH-39_frog-1,,EAH,39_frog,baka,baka,b a k a,,wot,20,true,^ baka $,default
+H-42_hobbleshacklelegiron-1,,H,42_hobbleshacklelegiron,béklyó,béklyó,b eː k j oː,,wot,21,true,^ béklyó $,default
+EAH-42_hobbleshacklelegiron-1,,EAH,42_hobbleshacklelegiron,bikaγu,bikaγu,b i k a ɣ u,,wot,21,true,^ bikaγu $,default
+H-43_stampbondmark-1,,H,43_stampbondmark,bélyeɡ,bélyeɡ,b eː j ɛ ɡ,,wot,22,true,^ bélyeɡ $,default
+OH-43_stampbondmark-1,,OH,43_stampbondmark,bēlʹeg,bēlʹeg,b eː ʎ ɛ ɡ,,wot,22,true,^ bēlʹeg $,default
+EAH-43_stampbondmark-1,,EAH,43_stampbondmark,beleg,beleg,b ɛ l ɛ ɡ,,wot,22,true,^ beleg $,default
+H-46_togive-1,,H,46_togive,bercel,bercel,b ɛ r t͡s ɛ l,,wot,23,true,^ bercel $,default
+OH-46_togive-1,,OH,46_togive,bercel,bercel,b ɛ r t͡s ɛ l,,wot,23,true,^ bercel $,default
+EAH-46_togive-1,,EAH,46_togive,bersil,bersil,b ɛ r s i l,,wot,23,true,^ bersil $,default
+H-47_grainorsmallglobuleofpreciousmetal-1,,H,47_grainorsmallglobuleofpreciousmetal,bertű,bertű,b ɛ r t yː,,wot,24,true,^ bertű $,default
+OH-47_grainorsmallglobuleofpreciousmetal-1,,OH,47_grainorsmallglobuleofpreciousmetal,börtǖ,börtǖ,b ø r t yː,,wot,24,true,^ börtǖ $,default
+LAH-47_grainorsmallglobuleofpreciousmetal-1,,LAH,47_grainorsmallglobuleofpreciousmetal,börteü̯,börteü̯,b ø r t ɛ ɥ,,wot,24,true,^ börteü̯ $,default
+EAH-47_grainorsmallglobuleofpreciousmetal-1,,EAH,47_grainorsmallglobuleofpreciousmetal,bürtiγ,bürtiγ,b y r t i ɣ,,wot,24,true,^ bürtiγ $,default
+H-49_pechenegnameofatribe-1,,H,49_pechenegnameofatribe,besenyő,besenyő,b ɛ ʃ ɛ ɲ øː,,wot,25,true,^ besenyő $,default
+OH-49_pechenegnameofatribe-1,,OH,49_pechenegnameofatribe,bešeneü̯,bešeneü̯,b ɛ ʃ ɛ n ɛ ɥ,,wot,25,true,^ bešeneü̯ $,default
+EAH-49_pechenegnameofatribe-1,,EAH,49_pechenegnameofatribe,bešeneγ,bešeneγ,b ɛ ʃ ɛ n ɛ ɣ,,wot,25,true,^ bešeneγ $,default
+H-53_pocketknife-1,,H,53_pocketknife,bicsak,bicsak,b i t͡ʃ ɒ k,,wot,26,true,^ bicsak $,default
+EAH-53_pocketknife-1,,EAH,53_pocketknife,bičak,bičak,b i t͡ʃ a k,,wot,26,true,^ bičak $,default
+H-53_pocketknife-2,,H,53_pocketknife,bicsak,bicsak,b i t͡ʃ ɒ k,,wot,27,true,^ bicsak $,default
+EAH-53_pocketknife-2,,EAH,53_pocketknife,bičak,bičak,b i t͡ʃ a k,,wot,27,true,^ bičak $,default
+H-55_shackles-1,,H,55_shackles,bilincs,bilincs,b i l i n t͡ʃ,,wot,28,true,^ bilincs $,default
+OH-55_shackles-1,,OH,55_shackles,bilinček,bilinček,b i l i n t͡ʃ ɛ k,,wot,28,true,^ bilinček $,default
+EAH-55_shackles-1,,EAH,55_shackles,bileček,bileček,b i l ɛ t͡ʃ ɛ k,,wot,28,true,^ bileček $,default
+H-57_tobeforgivenbocsanat-1,,H,57_tobeforgivenbocsanat,bocsánik,bocsánik,b o t͡ʃ aː n i k,,wot,29,true,^ bocsánik $,default
+OH-57_tobeforgivenbocsanat-1,,OH,57_tobeforgivenbocsanat,bočan,bočan,b o t͡ʃ a n,,wot,29,true,^ bočan $,default
+EAH-57_tobeforgivenbocsanat-1,,EAH,57_tobeforgivenbocsanat,bolčan,bolčan,b o l t͡ʃ a n,,wot,29,true,^ bolčan $,default
+H-59_bucklerwithhandlehandleofdifferentarms-1,,H,59_bucklerwithhandlehandleofdifferentarms,bóda,bóda,b oː d ɒ,,wot,30,true,^ bóda $,default
+OH-59_bucklerwithhandlehandleofdifferentarms-1,,OH,59_bucklerwithhandlehandleofdifferentarms,boldå,boldå,b o l d ɒ,,wot,30,true,^ boldå $,default
+EAH-59_bucklerwithhandlehandleofdifferentarms-1,,EAH,59_bucklerwithhandlehandleofdifferentarms,baldaw,baldaw,b a l d a w,,wot,30,true,^ baldaw $,default
+H-61_stackofhay-1,,H,61_stackofhay,boɡlya,boɡlya,b o ɡ j ɒ,,wot,31,true,^ boɡlya $,default
+OH-61_stackofhay-1,,OH,61_stackofhay,boglʹå,boglʹå,b o ɡ ʎ ɒ,,wot,31,true,^ boglʹå $,default
+LAH-61_stackofhay-1,,LAH,61_stackofhay,bogulʹa,bogulʹa,b o ɡ u ʎ a,,wot,31,true,^ bogulʹa $,default
+EAH-61_stackofhay-1,,EAH,61_stackofhay,bogul,bogul,b o ɡ u l,,wot,31,true,^ bogul $,default
+H-63_burdockarctiumsp-1,,H,63_burdockarctiumsp,bojtorján,bojtorján,b o j t o r j aː n,,wot,32,true,^ bojtorján $,default
+EAH-63_burdockarctiumsp-1,,EAH,63_burdockarctiumsp,balturγan,balturγan,b a l t u r ɣ a n,,wot,32,true,^ balturγan $,default
+H-66_ankleboot-1,,H,66_ankleboot,bakancs,bakancs,b ɒ k ɒ n t͡ʃ,,wot,33,true,^ bakancs $,default
+EAH-66_ankleboot-1,,EAH,66_ankleboot,bokå,bokå,b o k ɒ,,wot,33,true,^ bokå $,default
+H-67_anthill-1,,H,67_anthill,boly,boly,b o j,,wot,34,true,^ boly $,default
+OH-67_anthill-1,,OH,67_anthill,bolʹ,bolʹ,b o ʎ,,wot,34,true,^ bolʹ $,default
+EAH-67_anthill-1,,EAH,67_anthill,boγol,boγol,b o ɣ o l,,wot,34,true,^ boγol $,default
+H-70_tocovertooverturn-1,,H,70_tocovertooverturn,bor,bor,b o r,,wot,35,true,^ bor $,default
+EAH-70_tocovertooverturn-1,,EAH,70_tocovertooverturn,bur,bur,b u r,,wot,35,true,^ bur $,default
+H-71_calf-1,,H,71_calf,borjú,borjú,b o r j uː,,wot,36,true,^ borjú $,default
+OH-71_calf-1,,OH,71_calf,burγu,burγu,b u r ɣ u,,wot,36,true,^ burγu $,default
+EAH-71_calf-1,,EAH,71_calf,buraγu,buraγu,b u r a ɣ u,,wot,36,true,^ buraγu $,default
+H-73_peapisumsativumbean-1,,H,73_peapisumsativumbean,borsó,borsó,b o r ʃ oː,,wot,37,true,^ borsó $,default
+OH-73_peapisumsativumbean-1,,OH,73_peapisumsativumbean,buršau̯,buršau̯,b u r ʃ a w,,wot,37,true,^ buršau̯ $,default
+EAH-73_peapisumsativumbean-1,,EAH,73_peapisumsativumbean,burčaγ,burčaγ,b u r t͡ʃ a ɣ,,wot,37,true,^ burčaγ $,default
+H-75_witchsorceress-1,,H,75_witchsorceress,boszorkány,boszorkány,b o s o r k aː ɲ,,wot,38,true,^ boszorkány $,default
+EAH-75_witchsorceress-1,,EAH,75_witchsorceress,basarkan,basarkan,b a s a r k a n,,wot,38,true,^ basarkan $,default
+H-77_revenge-1,,H,77_revenge,boszszú,boszszú,b o s s uː,,wot,39,true,^ boszszú $,default
+OH-77_revenge-1,,OH,77_revenge,bossou̯,bossou̯,b o s s o w,,wot,39,true,^ bossou̯ $,default
+EAH-77_revenge-1,,EAH,77_revenge,bosuγ,bosuγ,b o s u ɣ,,wot,39,true,^ bosuγ $,default
+H-81_stickcane-1,,H,81_stickcane,bot,bot,b o t,,wot,40,true,^ bot $,default
+OH-81_stickcane-1,,OH,81_stickcane,buti,buti,b u t i,,wot,40,true,^ buti $,default
+LAH-81_stickcane-1,,LAH,81_stickcane,butu,butu,b u t u,,wot,40,true,^ butu $,default
+EAH-81_stickcane-1,,EAH,81_stickcane,butiγ,butiγ,b u t i ɣ,,wot,40,true,^ butiγ $,default
+H-81_stickcane-2,,H,81_stickcane,but,but,b u t,,wot,41,true,^ but $,default
+OH-81_stickcane-2,,OH,81_stickcane,buti,buti,b u t i,,wot,41,true,^ buti $,default
+LAH-81_stickcane-2,,LAH,81_stickcane,butu,butu,b u t u,,wot,41,true,^ butu $,default
+EAH-81_stickcane-2,,EAH,81_stickcane,butiγ,butiγ,b u t i ɣ,,wot,41,true,^ butiγ $,default
+H-83_richabundantroomy-1,,H,83_richabundantroomy,bő,bő,b øː,,wot,42,true,^ bő $,default
+OH-83_richabundantroomy-1,,OH,83_richabundantroomy,beü̯,beü̯,b ɛ ɥ,,wot,42,true,^ beü̯ $,default
+EAH-83_richabundantroomy-1,,EAH,83_richabundantroomy,beγ,beγ,b ɛ ɣ,,wot,42,true,^ beγ $,default
+H-85_fasting-1,,H,85_fasting,böjt,böjt,b ø j t,,wot,43,true,^ böjt $,default
+OH-85_fasting-1,,OH,85_fasting,büχt,büχt,b y χ t,,wot,43,true,^ büχt $,default
+EAH-85_fasting-1,,EAH,85_fasting,büγte,büγte,b y ɣ t ɛ,,wot,43,true,^ büγte $,default
+H-87_cradle-1,,H,87_cradle,bölcső,bölcső,b ø l t͡ʃ øː,,wot,44,true,^ bölcső $,default
+OH-87_cradle-1,,OH,87_cradle,belčȫ,belčȫ,b ɛ l t͡ʃ øː,,wot,44,true,^ belčȫ $,default
+EAH-87_cradle-1,,EAH,87_cradle,belčeγ,belčeγ,b ɛ l t͡ʃ ɛ ɣ,,wot,44,true,^ belčeγ $,default
+H-89_prisonjail-1,,H,89_prisonjail,börtön,börtön,b ø r t ø n,,wot,45,true,^ börtön $,default
+EAH-89_prisonjail-1,,EAH,89_prisonjail,berten,berten,b ɛ r t ɛ n,,wot,45,true,^ berten $,default
+H-91_farewellindulgencededicationfestivalannualparishfeast-1,,H,91_farewellindulgencededicationfestivalannualparishfeast,búcsú,búcsú,b uː t͡ʃ uː,,wot,46,true,^ búcsú $,default
+OH-91_farewellindulgencededicationfestivalannualparishfeast-1,,OH,91_farewellindulgencededicationfestivalannualparishfeast,bulčū,bulčū,b u l t͡ʃ uː,,wot,46,true,^ bulčū $,default
+LAH-91_farewellindulgencededicationfestivalannualparishfeast-1,,LAH,91_farewellindulgencededicationfestivalannualparishfeast,bulčū,bulčū,b u l t͡ʃ uː,,wot,46,true,^ bulčū $,default
+EAH-91_farewellindulgencededicationfestivalannualparishfeast-1,,EAH,91_farewellindulgencededicationfestivalannualparishfeast,bulčuγ,bulčuγ,b u l t͡ʃ u ɣ,,wot,46,true,^ bulčuγ $,default
+H-93_volgabulgar-1,,H,93_volgabulgar,bular,bular,b u l ɒ r,,wot,47,true,^ bular $,default
+EAH-93_volgabulgar-1,,EAH,93_volgabulgar,bular,bular,b u l ɒ r,,wot,47,true,^ bular $,default
+H-95_wheattriticum-1,,H,95_wheattriticum,búza,búza,b uː z ɒ,,wot,48,true,^ búza $,default
+OH-95_wheattriticum-1,,OH,95_wheattriticum,būza,būza,b uː z a,,wot,48,true,^ būza $,default
+EAH-95_wheattriticum-1,,EAH,95_wheattriticum,buγzai,buγzai,b u ɣ z a i,,wot,48,true,^ buγzai $,default
+H-97_beech-1,,H,97_beech,bük,bük,b y k,,wot,49,true,^ bük $,default
+EAH-97_beech-1,,EAH,97_beech,bik,bik,b i k,,wot,49,true,^ bik $,default
+H-99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1,,H,99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,bütü,bütü,b y t y,,wot,50,true,^ bütü $,default
+EAH-99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1,,EAH,99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,bütüγ,bütüγ,b y t y ɣ,,wot,50,true,^ bütüγ $,default
+H-101_akindofwillowsalixelgnos-1,,H,101_akindofwillowsalixelgnos,ciɡle,ciɡle,t͡s i ɡ l ɛ,,wot,51,true,^ ciɡle $,default
+EAH-101_akindofwillowsalixelgnos-1,,EAH,101_akindofwillowsalixelgnos,čigle,čigle,t͡ʃ i ɡ l ɛ,,wot,51,true,^ čigle $,default
+H-105_trapsnareforcatchingbirdsbirdcage-1,,H,105_trapsnareforcatchingbirdsbirdcage,csëkle,csëkle,t͡ʃ e k l ɛ,,wot,52,true,^ csëkle $,default
+EAH-105_trapsnareforcatchingbirdsbirdcage-1,,EAH,105_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,,wot,52,true,^ čikle $,default
+H-105_trapsnareforcatchingbirdsbirdcage-2,,H,105_trapsnareforcatchingbirdsbirdcage,csikle,csikle,t͡ʃ i k l ɛ,,wot,53,true,^ csikle $,default
+EAH-105_trapsnareforcatchingbirdsbirdcage-2,,EAH,105_trapsnareforcatchingbirdsbirdcage,čikle,čikle,t͡ʃ i k l ɛ,,wot,53,true,^ čikle $,default
+H-107_akindofwillow-1,,H,107_akindofwillow,csiɡla,csiɡla,t͡ʃ i ɡ l ɒ,,wot,54,true,^ csiɡla $,default
+EAH-107_akindofwillow-1,,EAH,107_akindofwillow,čigla,čigla,t͡ʃ i ɡ l a,,wot,54,true,^ čigla $,default
+H-111_akindofwolfsmilkeasterflowereuphorbia-1,,H,111_akindofwolfsmilkeasterflowereuphorbia,cötkény,cötkény,t͡s ø t k eː ɲ,,wot,55,true,^ cötkény $,default
+EAH-111_akindofwolfsmilkeasterflowereuphorbia-1,,EAH,111_akindofwolfsmilkeasterflowereuphorbia,sütken,sütken,s y t k ɛ n,,wot,55,true,^ sütken $,default
+H-111_akindofwolfsmilkeasterflowereuphorbia-2,,H,111_akindofwolfsmilkeasterflowereuphorbia,cötkény,cötkény,t͡s ø t k eː ɲ,,wot,56,true,^ cötkény $,default
+EAH-111_akindofwolfsmilkeasterflowereuphorbia-2,,EAH,111_akindofwolfsmilkeasterflowereuphorbia,süttegen,süttegen,s y t t ɛ ɡ ɛ n,,wot,56,true,^ süttegen $,default
+H-113_onlyjust-1,,H,113_onlyjust,csak,csak,t͡ʃ ɒ k,,wot,57,true,^ csak $,default
+EAH-113_onlyjust-1,,EAH,113_onlyjust,čak,čak,t͡ʃ a k,,wot,57,true,^ čak $,default
+H-117_nettleurtica-1,,H,117_nettleurtica,csalán,csalán,t͡ʃ ɒ l aː n,,wot,58,true,^ csalán $,default
+EAH-117_nettleurtica-1,,EAH,117_nettleurtica,čalān,čalān,t͡ʃ a l aː n,,wot,58,true,^ čalān $,default
+H-117_nettleurtica-2,,H,117_nettleurtica,csalán,csalán,t͡ʃ ɒ l aː n,,wot,59,true,^ csalán $,default
+EAH-117_nettleurtica-2,,EAH,117_nettleurtica,čalaγan,čalaγan,t͡ʃ a l a ɣ a n,,wot,59,true,^ čalaγan $,default
+H-119_thicketbrushwooddryfoliagegrovemeadow-1,,H,119_thicketbrushwooddryfoliagegrovemeadow,csalit,csalit,t͡ʃ ɒ l i t,,wot,60,true,^ csalit $,default
+EAH-119_thicketbrushwooddryfoliagegrovemeadow-1,,EAH,119_thicketbrushwooddryfoliagegrovemeadow,čalit,čalit,t͡ʃ a l i t,,wot,60,true,^ čalit $,default
+H-122_fightingtrooparmygroupbattlequarrelhubbubflock-1,,H,122_fightingtrooparmygroupbattlequarrelhubbubflock,csata,csata,t͡ʃ ɒ t ɒ,,wot,61,true,^ csata $,default
+EAH-122_fightingtrooparmygroupbattlequarrelhubbubflock-1,,EAH,122_fightingtrooparmygroupbattlequarrelhubbubflock,čata,čata,t͡ʃ a t a,,wot,61,true,^ čata $,default
+H-123_toaddtojointobuckleupsomething-1,,H,123_toaddtojointobuckleupsomething,csatol,csatol,t͡ʃ ɒ t o l,,wot,62,true,^ csatol $,default
+OH-123_toaddtojointobuckleupsomething-1,,OH,123_toaddtojointobuckleupsomething,čatol,čatol,t͡ʃ a t o l,,wot,62,true,^ čatol $,default
+EAH-123_toaddtojointobuckleupsomething-1,,EAH,123_toaddtojointobuckleupsomething,čat,čat,t͡ʃ a t,,wot,62,true,^ čat $,default
+H-126_measlesmallpoxpocksskineruptiondecorativeembroidery-1,,H,126_measlesmallpoxpocksskineruptiondecorativeembroidery,csécs,csécs,t͡ʃ eː t͡ʃ,,wot,63,true,^ csécs $,default
+EAH-126_measlesmallpoxpocksskineruptiondecorativeembroidery-1,,EAH,126_measlesmallpoxpocksskineruptiondecorativeembroidery,čëč,čëč,t͡ʃ e t͡ʃ,,wot,63,true,^ čëč $,default
+H-127_tobindsomething-1,,H,127_tobindsomething,csekél,csekél,t͡ʃ ɛ k eː l,,wot,64,true,^ csekél $,default
+OH-127_tobindsomething-1,,OH,127_tobindsomething,ček,ček,t͡ʃ ɛ k,,wot,64,true,^ ček $,default
+EAH-127_tobindsomething-1,,EAH,127_tobindsomething,čik,čik,t͡ʃ i k,,wot,64,true,^ čik $,default
+H-130_awineoflowqualityafruitwine-1,,H,130_awineoflowqualityafruitwine,csiɡer,csiɡer,t͡ʃ i ɡ ɛ r,,wot,65,true,^ csiɡer $,default
+EAH-130_awineoflowqualityafruitwine-1,,EAH,130_awineoflowqualityafruitwine,čigir,čigir,t͡ʃ i ɡ i r,,wot,65,true,^ čigir $,default
+H-131_secretionmucusdischargedfromtheeyes-1,,H,131_secretionmucusdischargedfromtheeyes,csipa,csipa,t͡ʃ i p ɒ,,wot,66,true,^ csipa $,default
+EAH-131_secretionmucusdischargedfromtheeyes-1,,EAH,131_secretionmucusdischargedfromtheeyes,čapa,čapa,t͡ʃ a p a,,wot,66,true,^ čapa $,default
+H-133_acarpentersaxewithalonghelve-1,,H,133_acarpentersaxewithalonghelve,csomak,csomak,t͡ʃ o m ɒ k,,wot,67,true,^ csomak $,default
+EAH-133_acarpentersaxewithalonghelve-1,,EAH,133_acarpentersaxewithalonghelve,čomak,čomak,t͡ʃ o m a k,,wot,67,true,^ čomak $,default
+H-136_stallion-1,,H,136_stallion,csődör,csődör,t͡ʃ øː d ø r,,wot,68,true,^ csődör $,default
+EAH-136_stallion-1,,EAH,136_stallion,čeü̯dür,čeü̯dür,t͡ʃ ɛ ɥ d y r,,wot,68,true,^ čeü̯dür $,default
+H-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,H,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,csök,csök,t͡ʃ ø k,,wot,69,true,^ csök $,default
+EAH-137_sexualorganoflargemaleanimalsofabullawhipmadefromit-1,,EAH,137_sexualorganoflargemaleanimalsofabullawhipmadefromit,čük,čük,t͡ʃ y k,,wot,69,true,^ čük $,default
+H-139_tobecomesmallerremainsmalltoswaytotottertosprain-1,,H,139_tobecomesmallerremainsmalltoswaytotottertosprain,csökik,csökik,t͡ʃ ø k i k,,wot,70,true,^ csökik $,default
+OH-139_tobecomesmallerremainsmalltoswaytotottertosprain-1,,OH,139_tobecomesmallerremainsmalltoswaytotottertosprain,čök,čök,t͡ʃ ø k,,wot,70,true,^ čök $,default
+EAH-139_tobecomesmallerremainsmalltoswaytotottertosprain-1,,EAH,139_tobecomesmallerremainsmalltoswaytotottertosprain,čük,čük,t͡ʃ y k,,wot,70,true,^ čük $,default
+H-141_fieldguardheraldturkishenvoy-1,,H,141_fieldguardheraldturkishenvoy,csősz,csősz,t͡ʃ øː s,,wot,71,true,^ csősz $,default
+EAH-141_fieldguardheraldturkishenvoy-1,,EAH,141_fieldguardheraldturkishenvoy,čäüš,čäüš,t͡ʃ ɛ y ʃ,,wot,71,true,^ čäüš $,default
+H-143_towindtoturntodistrortmisinterprettospinayarn-1,,H,143_towindtoturntodistrortmisinterprettospinayarn,csűr,csűr,t͡ʃ yː r,,wot,72,true,^ csűr $,default
+EAH-143_towindtoturntodistrortmisinterprettospinayarn-1,,EAH,143_towindtoturntodistrortmisinterprettospinayarn,čevür,čevür,t͡ʃ ɛ v y r,,wot,72,true,^ čevür $,default
+H-145_excellentworthless-1,,H,145_excellentworthless,daksi,daksi,d ɒ k ʃ i,,wot,73,true,^ daksi $,default
+EAH-145_excellentworthless-1,,EAH,145_excellentworthless,ǰakši,ǰakši,d͡ʒ a k ʃ i,,wot,73,true,^ ǰakši $,default
+H-148_gristgroatssofthail-1,,H,148_gristgroatssofthail,dara,dara,d ɒ r ɒ,,wot,74,true,^ dara $,default
+EAH-148_gristgroatssofthail-1,,EAH,148_gristgroatssofthail,dara,dara,d ɒ r ɒ,,wot,74,true,^ dara $,default
+H-152_noonsouth-1,,H,152_noonsouth,dél,dél,d eː l,,wot,75,true,^ dél $,default
+EAH-152_noonsouth-1,,EAH,152_noonsouth,töli,töli,t ø l i,,wot,75,true,^ töli $,default
+H-152_noonsouth-2,,H,152_noonsouth,dél,dél,d eː l,,wot,76,true,^ dél $,default
+EAH-152_noonsouth-2,,EAH,152_noonsouth,döli,döli,d ø l i,,wot,76,true,^ döli $,default
+H-154_nutwalnutjuglans-1,,H,154_nutwalnutjuglans,dió,dió,d i oː,,wot,77,true,^ dió $,default
+OH-154_nutwalnutjuglans-1,,OH,154_nutwalnutjuglans,ǰiwo,ǰiwo,d͡ʒ i w o,,wot,77,true,^ ǰiwo $,default
+LAH-154_nutwalnutjuglans-1,,LAH,154_nutwalnutjuglans,ǰiγau̯,ǰiγau̯,d͡ʒ i ɣ a w,,wot,77,true,^ ǰiγau̯ $,default
+EAH-154_nutwalnutjuglans-1,,EAH,154_nutwalnutjuglans,ǰiγaγ,ǰiγaγ,d͡ʒ i ɣ a ɣ,,wot,77,true,^ ǰiγaγ $,default
+H-155_pigsusdomestica-1,,H,155_pigsusdomestica,disznó,disznó,d i s n oː,,wot,78,true,^ disznó $,default
+EAH-155_pigsusdomestica-1,,EAH,155_pigsusdomestica,ǰisnaγ,ǰisnaγ,d͡ʒ i s n a ɣ,,wot,78,true,^ ǰisnaγ $,default
+H-157_toleantoppleoverstreamdown-1,,H,157_toleantoppleoverstreamdown,dől,dől,d øː l,,wot,79,true,^ dől $,default
+OH-157_toleantoppleoverstreamdown-1,,OH,157_toleantoppleoverstreamdown,dǖl,dǖl,d yː l,,wot,79,true,^ dǖl $,default
+EAH-157_toleantoppleoverstreamdown-1,,EAH,157_toleantoppleoverstreamdown,dül,dül,d y l,,wot,79,true,^ dül $,default
+H-159_tosqueezetothrustinto-1,,H,159_tosqueezetothrustinto,duɡ,duɡ,d u ɡ,,wot,80,true,^ duɡ $,default
+EAH-159_tosqueezetothrustinto-1,,EAH,159_tosqueezetothrustinto,dïg,dïg,d ɯ ɡ,,wot,80,true,^ dïg $,default
+H-161_churchbuildingandorganisation-1,,H,161_churchbuildingandorganisation,ëgyház,ëgyház,e ɟ h aː z,,wot,81,true,^ ëgyház $,default
+EAH-161_churchbuildingandorganisation-1,,EAH,161_churchbuildingandorganisation,ëdʹ,ëdʹ,e ɟ,,wot,81,true,^ ëdʹ $,default
+H-163_plough-1,,H,163_plough,eke,eke,ɛ k ɛ,,wot,82,true,^ eke $,default
+EAH-163_plough-1,,EAH,163_plough,ekeγ,ekeγ,ɛ k ɛ ɣ,,wot,82,true,^ ekeγ $,default
+H-165_topropitiate-1,,H,165_topropitiate,enɡesztel,enɡesztel,ɛ n ɡ ɛ s t ɛ l,,wot,83,true,^ enɡesztel $,default
+EAH-165_topropitiate-1,,EAH,165_topropitiate,eng,eng,ɛ n ɡ,,wot,83,true,^ eng $,default
+H-167_toarrivetoreachgetto-1,,H,167_toarrivetoreachgetto,ér,ér,eː r,,wot,84,true,^ ér $,default
+EAH-167_toarrivetoreachgetto-1,,EAH,167_toarrivetoreachgetto,er,er,ɛ r,,wot,84,true,^ er $,default
+H-169_moralsmorality-1,,H,169_moralsmorality,erkölcs,erkölcs,ɛ r k ø l t͡ʃ,,wot,85,true,^ erkölcs $,default
+EAH-169_moralsmorality-1,,EAH,169_moralsmorality,erkelč,erkelč,ɛ r k ɛ l t͡ʃ,,wot,85,true,^ erkelč $,default
+H-171_strengthpower-1,,H,171_strengthpower,erő,erő,ɛ r øː,,wot,86,true,^ erő $,default
+OH-171_strengthpower-1,,OH,171_strengthpower,ereü̯,ereü̯,ɛ r ɛ ɥ,,wot,86,true,^ ereü̯ $,default
+EAH-171_strengthpower-1,,EAH,171_strengthpower,eriγ,eriγ,ɛ r i ɣ,,wot,86,true,^ eriγ $,default
+H-173_oath-1,,H,173_oath,eskü,eskü,ɛ ʃ k y,,wot,87,true,^ eskü $,default
+OH-173_oath-1,,OH,173_oath,iškü,iškü,i ʃ k y,,wot,87,true,^ iškü $,default
+EAH-173_oath-1,,EAH,173_oath,ičkü,ičkü,i t͡ʃ k y,,wot,87,true,^ ičkü $,default
+H-176_rivernameofariver-1,,H,176_rivernameofariver,etel,etel,ɛ t ɛ l,,wot,88,true,^ etel $,default
+EAH-176_rivernameofariver-1,,EAH,176_rivernameofariver,etil,etil,ɛ t i l,,wot,88,true,^ etil $,default
+H-204_weed-1,,H,204_weed,ɡaz,ɡaz,ɡ ɒ z,,wot,89,true,^ ɡaz $,default
+OH-204_weed-1,,OH,204_weed,kāz,kāz,k aː z,,wot,89,true,^ kāz $,default
+EAH-204_weed-1,,EAH,204_weed,kaγzu,kaγzu,k a ɣ z u,,wot,89,true,^ kaγzu $,default
+H-179_pelicanpelicanus-1,,H,179_pelicanpelicanus,ɡödény,ɡödény,ɡ ø d eː ɲ,,wot,90,true,^ ɡödény $,default
+OH-179_pelicanpelicanus-1,,OH,179_pelicanpelicanus,güden,güden,ɡ y d ɛ n,,wot,90,true,^ güden $,default
+EAH-179_pelicanpelicanus-1,,EAH,179_pelicanpelicanus,güden,güden,ɡ y d ɛ n,,wot,90,true,^ güden $,default
+H-181_polecatputoriusfoetidus-1,,H,181_polecatputoriusfoetidus,ɡörény,ɡörény,ɡ ø r eː ɲ,,wot,91,true,^ ɡörény $,default
+EAH-181_polecatputoriusfoetidus-1,,EAH,181_polecatputoriusfoetidus,güren,güren,ɡ y r ɛ n,,wot,91,true,^ güren $,default
+H-183_gleanermousemusspicilegus-1,,H,183_gleanermousemusspicilegus,ɡüzü,ɡüzü,ɡ y z y,,wot,92,true,^ ɡüzü $,default
+OH-183_gleanermousemusspicilegus-1,,OH,183_gleanermousemusspicilegus,güzǖ,güzǖ,ɡ y z yː,,wot,92,true,^ güzǖ $,default
+LAH-183_gleanermousemusspicilegus-1,,LAH,183_gleanermousemusspicilegus,küzeγü,küzeγü,k y z ɛ ɣ y,,wot,92,true,^ küzeγü $,default
+EAH-183_gleanermousemusspicilegus-1,,EAH,183_gleanermousemusspicilegus,küseγü,küseγü,k y s ɛ ɣ y,,wot,92,true,^ küseγü $,default
+H-185_dragnetakindoffishingnet-1,,H,185_dragnetakindoffishingnet,gyalom,gyalom,ɟ ɒ l o m,,wot,93,true,^ gyalom $,default
+EAH-185_dragnetakindoffishingnet-1,,EAH,185_dragnetakindoffishingnet,ǰalum,ǰalum,d͡ʒ a l u m,,wot,93,true,^ ǰalum $,default
+H-187_wool-1,,H,187_wool,gyapjú,gyapjú,ɟ ɒ p j uː,,wot,94,true,^ gyapjú $,default
+OH-187_wool-1,,OH,187_wool,ǰapyu,ǰapyu,d͡ʒ a p j u,,wot,94,true,^ ǰapyu $,default
+EAH-187_wool-1,,EAH,187_wool,ǰapγu,ǰapγu,d͡ʒ a p ɣ u,,wot,94,true,^ ǰapγu $,default
+H-190_toincreasetoputonweighttogrowstronger-1,,H,190_toincreasetoputonweighttogrowstronger,gyarapodik,gyarapodik,ɟ ɒ r ɒ p o d i k,,wot,95,true,^ gyarapodik $,default
+OH-190_toincreasetoputonweighttogrowstronger-1,,OH,190_toincreasetoputonweighttogrowstronger,dʹåråp,dʹåråp,ɟ ɒ r ɒ p,,wot,95,true,^ dʹåråp $,default
+LAH-190_toincreasetoputonweighttogrowstronger-1,,LAH,190_toincreasetoputonweighttogrowstronger,ǰarap,ǰarap,d͡ʒ a r a p,,wot,95,true,^ ǰarap $,default
+EAH-190_toincreasetoputonweighttogrowstronger-1,,EAH,190_toincreasetoputonweighttogrowstronger,ǰarpa,ǰarpa,d͡ʒ a r p a,,wot,95,true,^ ǰarpa $,default
+H-191_poorfrailfeeble-1,,H,191_poorfrailfeeble,gyarló,gyarló,ɟ ɒ r l oː,,wot,96,true,^ gyarló $,default
+OH-191_poorfrailfeeble-1,,OH,191_poorfrailfeeble,ǰarlou̯,ǰarlou̯,d͡ʒ a r l o w,,wot,96,true,^ ǰarlou̯ $,default
+EAH-191_poorfrailfeeble-1,,EAH,191_poorfrailfeeble,ǰarlïγ,ǰarlïγ,d͡ʒ a r l ɯ ɣ,,wot,96,true,^ ǰarlïγ $,default
+H-193_mourningbereavement-1,,H,193_mourningbereavement,gyász,gyász,ɟ aː s,,wot,97,true,^ gyász $,default
+OH-193_mourningbereavement-1,,OH,193_mourningbereavement,ǰās,ǰās,d͡ʒ aː s,,wot,97,true,^ ǰās $,default
+EAH-193_mourningbereavement-1,,EAH,193_mourningbereavement,ǰas,ǰas,d͡ʒ a s,,wot,97,true,^ ǰas $,default
+H-195_weakfeeble-1,,H,195_weakfeeble,gyënɡe,gyënɡe,ɟ e n ɡ ɛ,,wot,98,true,^ gyënɡe $,default
+EAH-195_weakfeeble-1,,EAH,195_weakfeeble,ǰenge,ǰenge,d͡ʒ ɛ n ɡ ɛ,,wot,98,true,^ ǰenge $,default
+H-197_borderlandhedge-1,,H,197_borderlandhedge,gyepű,gyepű,ɟ ɛ p yː,,wot,99,true,^ gyepű $,default
+OH-197_borderlandhedge-1,,OH,197_borderlandhedge,ǰepeü̯,ǰepeü̯,d͡ʒ ɛ p ɛ ɥ,,wot,99,true,^ ǰepeü̯ $,default
+EAH-197_borderlandhedge-1,,EAH,197_borderlandhedge,ǰepiγ,ǰepiγ,d͡ʒ ɛ p i ɣ,,wot,99,true,^ ǰepiγ $,default
+H-200_child-1,,H,200_child,gyermek,gyermek,ɟ ɛ r m ɛ k,,wot,100,true,^ gyermek $,default
+EAH-200_child-1,,EAH,200_child,ǰärmäk,ǰärmäk,d͡ʒ ɛ r m ɛ k,,wot,100,true,^ ǰärmäk $,default
+H-201_candle-1,,H,201_candle,gyertya,gyertya,ɟ ɛ r c ɒ,,wot,101,true,^ gyertya $,default
+EAH-201_candle-1,,EAH,201_candle,ǰarta,ǰarta,d͡ʒ a r t a,,wot,101,true,^ ǰarta $,default
+H-203_murderkiller-1,,H,203_murderkiller,gyilkos,gyilkos,ɟ i l k o ʃ,,wot,102,true,^ gyilkos $,default
+EAH-203_murderkiller-1,,EAH,203_murderkiller,ǰilkuš,ǰilkuš,d͡ʒ i l k u ʃ,,wot,102,true,^ ǰilkuš $,default
+H-205_stomach-1,,H,205_stomach,gyomor,gyomor,ɟ o m o r,,wot,103,true,^ gyomor $,default
+OH-205_stomach-1,,OH,205_stomach,dʹumur,dʹumur,ɟ u m u r,,wot,103,true,^ dʹumur $,default
+EAH-205_stomach-1,,EAH,205_stomach,ǰumur,ǰumur,d͡ʒ u m u r,,wot,103,true,^ ǰumur $,default
+H-207_toconfesssins-1,,H,207_toconfesssins,gyovon,gyovon,ɟ o v o n,,wot,104,true,^ gyovon $,default
+OH-207_toconfesssins-1,,OH,207_toconfesssins,dʹuvun,dʹuvun,ɟ u v u n,,wot,104,true,^ dʹuvun $,default
+EAH-207_toconfesssins-1,,EAH,207_toconfesssins,ǰuvun,ǰuvun,d͡ʒ u v u n,,wot,104,true,^ ǰuvun $,default
+H-209_pearl-1,,H,209_pearl,gyöngy,gyöngy,ɟ ø n ɟ,,wot,105,true,^ gyöngy $,default
+OH-209_pearl-1,,OH,209_pearl,ǰünǰ,ǰünǰ,d͡ʒ y n d͡ʒ,,wot,105,true,^ ǰünǰ $,default
+LAH-209_pearl-1,,LAH,209_pearl,ǰünǰü,ǰünǰü,d͡ʒ y n d͡ʒ y,,wot,105,true,^ ǰünǰü $,default
+EAH-209_pearl-1,,EAH,209_pearl,ǰinǰü,ǰinǰü,d͡ʒ i n d͡ʒ y,,wot,105,true,^ ǰinǰü $,default
+H-211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1,,H,211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory,győz,győz,ɟ øː z,,wot,106,true,^ győz $,default
+OH-211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1,,OH,211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory,dʹēz,dʹēz,ɟ eː z,,wot,106,true,^ dʹēz $,default
+EAH-211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1,,EAH,211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory,ǰeγüz,ǰeγüz,d͡ʒ ɛ ɣ y z,,wot,106,true,^ ǰeγüz $,default
+H-213_tokneadpug-1,,H,213_tokneadpug,gyúr,gyúr,ɟ uː r,,wot,107,true,^ gyúr $,default
+EAH-213_tokneadpug-1,,EAH,213_tokneadpug,ǰuγur,ǰuγur,d͡ʒ u ɣ u r,,wot,107,true,^ ǰuγur $,default
+H-215_tocollectgathersomething-1,,H,215_tocollectgathersomething,gyűjt,gyűjt,ɟ yː j t,,wot,108,true,^ gyűjt $,default
+EAH-215_tocollectgathersomething-1,,EAH,215_tocollectgathersomething,dʹǖl,dʹǖl,ɟ yː l,,wot,108,true,^ dʹǖl $,default
+H-217_fruit-1,,H,217_fruit,gyümölcs,gyümölcs,ɟ y m ø l t͡ʃ,,wot,109,true,^ gyümölcs $,default
+OH-217_fruit-1,,OH,217_fruit,dʹömölč,dʹömölč,ɟ ø m ø l t͡ʃ,,wot,109,true,^ dʹömölč $,default
+LAH-217_fruit-1,,LAH,217_fruit,dʹemilč,dʹemilč,ɟ ɛ m i l t͡ʃ,,wot,109,true,^ dʹemilč $,default
+EAH-217_fruit-1,,EAH,217_fruit,ǰemilč,ǰemilč,d͡ʒ ɛ m i l t͡ʃ,,wot,109,true,^ ǰemilč $,default
+H-219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1,,H,219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea,gyűrű,gyűrű,ɟ yː r yː,,wot,110,true,^ gyűrű $,default
+OH-219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1,,OH,219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea,dʹereü̯,dʹereü̯,ɟ ɛ r ɛ ɥ,,wot,110,true,^ dʹereü̯ $,default
+EAH-219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1,,EAH,219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea,ǰereγ,ǰereγ,d͡ʒ ɛ r ɛ ɣ,,wot,110,true,^ ǰereγ $,default
+H-221_thimble-1,,H,221_thimble,gyűszű,gyűszű,ɟ yː s yː,,wot,111,true,^ gyűszű $,default
+EAH-221_thimble-1,,EAH,221_thimble,ǰüγsüγ,ǰüγsüγ,d͡ʒ y ɣ s y ɣ,,wot,111,true,^ ǰüγsüγ $,default
+H-223_bell-1,,H,223_bell,haranɡ,haranɡ,h ɒ r ɒ n ɡ,,wot,112,true,^ haranɡ $,default
+EAH-223_bell-1,,EAH,223_bell,hangar,hangar,h a n ɡ a r,,wot,112,true,^ hangar $,default
+H-225_sand-1,,H,225_sand,homok,homok,h o m o k,,wot,113,true,^ homok $,default
+OH-225_sand-1,,OH,225_sand,humuki,humuki,h u m u k i,,wot,113,true,^ humuki $,default
+EAH-225_sand-1,,EAH,225_sand,humoki,humoki,h u m o k i,,wot,113,true,^ humoki $,default
+H-227_timeweather-1,,H,227_timeweather,idő,idő,i d øː,,wot,114,true,^ idő $,default
+OH-227_timeweather-1,,OH,227_timeweather,üdȫ,üdȫ,y d øː,,wot,114,true,^ üdȫ $,default
+LAH-227_timeweather-1,,LAH,227_timeweather,üdeü̯,üdeü̯,y d ɛ ɥ,,wot,114,true,^ üdeü̯ $,default
+EAH-227_timeweather-1,,EAH,227_timeweather,üdeγ,üdeγ,y d ɛ ɣ,,wot,114,true,^ üdeγ $,default
+H-230_tobefrightenedtotakefright-1,,H,230_tobefrightenedtotakefright,ijed,ijed,i j ɛ d,,wot,115,true,^ ijed $,default
+OH-230_tobefrightenedtotakefright-1,,OH,230_tobefrightenedtotakefright,iye,iye,i j ɛ,,wot,115,true,^ iye $,default
+EAH-230_tobefrightenedtotakefright-1,,EAH,230_tobefrightenedtotakefright,äyi,äyi,ɛ j i,,wot,115,true,^ äyi $,default
+H-231_twin-1,,H,231_twin,iker,iker,i k ɛ r,,wot,116,true,^ iker $,default
+EAH-231_twin-1,,EAH,231_twin,ikir,ikir,i k i r,,wot,116,true,^ ikir $,default
+H-233_tosuitsomethingtobepropertofitinto-1,,H,233_tosuitsomethingtobepropertofitinto,illik,illik,i lː i k,,wot,117,true,^ illik $,default
+EAH-233_tosuitsomethingtobepropertofitinto-1,,EAH,233_tosuitsomethingtobepropertofitinto,il,il,i l,,wot,117,true,^ il $,default
+H-235_shirt-1,,H,235_shirt,inɡ,inɡ,i n ɡ,,wot,118,true,^ inɡ $,default
+OH-235_shirt-1,,OH,235_shirt,ümeg,ümeg,y m ɛ ɡ,,wot,118,true,^ ümeg $,default
+EAH-235_shirt-1,,EAH,235_shirt,ümmeg,ümmeg,y m m ɛ ɡ,,wot,118,true,^ ümmeg $,default
+H-237_buttermilk-1,,H,237_buttermilk,író,író,iː r oː,,wot,119,true,^ író $,default
+OH-237_buttermilk-1,,OH,237_buttermilk,irō,irō,i r oː,,wot,119,true,^ irō $,default
+EAH-237_buttermilk-1,,EAH,237_buttermilk,iraγ,iraγ,i r a ɣ,,wot,119,true,^ iraγ $,default
+H-239_nameofanethnicgroupofiranianorigininhungary-1,,H,239_nameofanethnicgroupofiranianorigininhungary,jász,jász,j aː s,,wot,120,true,^ jász $,default
+H-241_bulrushclubrushdifferentplantslikeschoenoplectuscyperace-1,,H,241_bulrushclubrushdifferentplantslikeschoenoplectuscyperace,káka,káka,k aː k ɒ,,wot,121,true,^ káka $,default
+H-243_guidepilotconductorticketinspector-1,,H,243_guidepilotconductorticketinspector,kalóz,kalóz,k ɒ l oː z,,wot,122,true,^ kalóz $,default
+EAH-243_guidepilotconductorticketinspector-1,,EAH,243_guidepilotconductorticketinspector,kalauz,kalauz,k a l a u z,,wot,122,true,^ kalauz $,default
+H-247_awaterplantstratiotesaloides-1,,H,247_awaterplantstratiotesaloides,kalokány,kalokány,k ɒ l o k aː ɲ,,wot,123,true,^ kalokány $,default
+EAH-247_awaterplantstratiotesaloides-1,,EAH,247_awaterplantstratiotesaloides,karlukan,karlukan,k a r l u k a n,,wot,123,true,^ karlukan $,default
+H-247_awaterplantstratiotesaloides-2,,H,247_awaterplantstratiotesaloides,karlokány,karlokány,k ɒ r l o k aː ɲ,,wot,124,true,^ karlokány $,default
+EAH-247_awaterplantstratiotesaloides-2,,EAH,247_awaterplantstratiotesaloides,karlukan,karlukan,k a r l u k a n,,wot,124,true,^ karlukan $,default
+H-250_whiplash-1,,H,250_whiplash,kamsi,kamsi,k ɒ m ʃ i,,wot,125,true,^ kamsi $,default
+H-251_saddlestrap-1,,H,251_saddlestrap,kangyík,kangyík,k ɒ n ɟ iː k,,wot,126,true,^ kangyík $,default
+EAH-251_saddlestrap-1,,EAH,251_saddlestrap,kåndʹikå,kåndʹikå,k ɒ n ɟ i k ɒ,,wot,126,true,^ kåndʹikå $,default
+H-253_measles-1,,H,253_measles,kanyaró,kanyaró,k ɒ ɲ ɒ r oː,,wot,127,true,^ kanyaró $,default
+OH-253_measles-1,,OH,253_measles,kåråńō,kåråńō,k ɒ r ɒ ɲ oː,,wot,127,true,^ kåråńō $,default
+LAH-253_measles-1,,LAH,253_measles,kåråmō,kåråmō,k ɒ r ɒ m oː,,wot,127,true,^ kåråmō $,default
+EAH-253_measles-1,,EAH,253_measles,karamuγ,karamuγ,k a r a m u ɣ,,wot,127,true,^ karamuγ $,default
+H-255_gate-1,,H,255_gate,kapu,kapu,k ɒ p u,,wot,128,true,^ kapu $,default
+OH-255_gate-1,,OH,255_gate,kapū,kapū,k a p uː,,wot,128,true,^ kapū $,default
+EAH-255_gate-1,,EAH,255_gate,kapuγ,kapuγ,k a p u ɣ,,wot,128,true,^ kapuγ $,default
+H-257_damageloss-1,,H,257_damageloss,kár,kár,k aː r,,wot,129,true,^ kár $,default
+H-259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1,,H,259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,karám,karám,k ɒ r aː m,,wot,130,true,^ karám $,default
+EAH-259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals-1,,EAH,259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,korām,korām,k o r aː m,,wot,130,true,^ korām $,default
+H-261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,H,261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karanbél,karanbél,k ɒ r ɒ n b eː l,,wot,131,true,^ karanbél $,default
+EAH-261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace-1,,EAH,261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,karampil,karampil,k a r a m p i l,,wot,131,true,^ karampil $,default
+H-263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,H,263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kárókatona,kárókatona,k aː r oː k ɒ t o n ɒ,,wot,132,true,^ kárókatona $,default
+OH-263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,OH,263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara katona,kara katona,<<k>> <<a>> <<r>> <<a>> + <<k>> <<a>> <<t>> <<o>> <<n>> <<a>>,,wot,132,true,^ <k> <a> <r> <a> + <k> <a> <t> <o> <n> <a> $,default
+EAH-263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo-1,,EAH,263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,kara kotan,kara kotan,<<k>> <<a>> <<r>> <<a>> + <<k>> <<o>> <<t>> <<a>> <<n>>,,wot,132,true,^ <k> <a> <r> <a> + <k> <o> <t> <a> <n> $,default
+H-265_chicorycichoriumspcichoriumintybus-1,,H,265_chicorycichoriumspcichoriumintybus,katánɡ,katánɡ,k ɒ t aː n ɡ,,wot,133,true,^ katánɡ $,default
+EAH-265_chicorycichoriumspcichoriumintybus-1,,EAH,265_chicorycichoriumspcichoriumintybus,katāng,katāng,k a t aː n ɡ,,wot,133,true,^ katāng $,default
+H-267_bosombreast-1,,H,267_bosombreast,kebel,kebel,k ɛ b ɛ l,,wot,134,true,^ kebel $,default
+H-269_blue-1,,H,269_blue,kék,kék,k eː k,,wot,135,true,^ kék $,default
+EAH-269_blue-1,,EAH,269_blue,keyk,keyk,k ɛ j k,,wot,135,true,^ keyk $,default
+H-271_hempcannabis-1,,H,271_hempcannabis,kender,kender,k ɛ n d ɛ r,,wot,136,true,^ kender $,default
+EAH-271_hempcannabis-1,,EAH,271_hempcannabis,kendir,kendir,k ɛ n d i r,,wot,136,true,^ kendir $,default
+H-273_pictureshapeform-1,,H,273_pictureshapeform,kép,kép,k eː p,,wot,137,true,^ kép $,default
+H-275_akindofship-1,,H,275_akindofship,kerep,kerep,k ɛ r ɛ p,,wot,138,true,^ kerep $,default
+H-277_cud-1,,H,277_cud,kérő,kérő,k eː r øː,,wot,139,true,^ kérő $,default
+OH-277_cud-1,,OH,277_cud,kevreγ,kevreγ,k ɛ v r ɛ ɣ,,wot,139,true,^ kevreγ $,default
+EAH-277_cud-1,,EAH,277_cud,kevereγ,kevereγ,k ɛ v ɛ r ɛ ɣ,,wot,139,true,^ kevereγ $,default
+H-279_vulturevultur-1,,H,279_vulturevultur,keselyű,keselyű,k ɛ ʃ ɛ j yː,,wot,140,true,^ keselyű $,default
+OH-279_vulturevultur-1,,OH,279_vulturevultur,kešeleü̯,kešeleü̯,k ɛ ʃ ɛ l ɛ ɥ,,wot,140,true,^ kešeleü̯ $,default
+EAH-279_vulturevultur-1,,EAH,279_vulturevultur,küčeleγ,küčeleγ,k y t͡ʃ ɛ l ɛ ɣ,,wot,140,true,^ küčeleγ $,default
+H-284_smalllittle-1,,H,284_smalllittle,kicsiny,kicsiny,k i t͡ʃ i ɲ,,wot,141,true,^ kicsiny $,default
+EAH-284_smalllittle-1,,EAH,284_smalllittle,kičin,kičin,k i t͡ʃ i n,,wot,141,true,^ kičin $,default
+H-283_small-1,,H,283_small,kicsi,kicsi,k i t͡ʃ i,,wot,142,true,^ kicsi $,default
+EAH-283_small-1,,EAH,283_small,kičin,kičin,k i t͡ʃ i n,,wot,142,true,^ kičin $,default
+H-285_felt-1,,H,285_felt,kíjc,kíjc,k iː j t͡s,,wot,143,true,^ kíjc $,default
+OH-285_felt-1,,OH,285_felt,kīyc,kīyc,k iː j t͡s,,wot,143,true,^ kīyc $,default
+LAH-285_felt-1,,LAH,285_felt,kiyic,kiyic,k i j i t͡s,,wot,143,true,^ kiyic $,default
+EAH-285_felt-1,,EAH,285_felt,kiyiz,kiyiz,k i j i z,,wot,143,true,^ kiyiz $,default
+H-287_abirdsimilartoafalconakindofbirdofprey-1,,H,287_abirdsimilartoafalconakindofbirdofprey,kiköcsény,kiköcsény,k i k ø t͡ʃ eː ɲ,,wot,144,true,^ kiköcsény $,default
+OH-287_abirdsimilartoafalconakindofbirdofprey-1,,OH,287_abirdsimilartoafalconakindofbirdofprey,kikörčen,kikörčen,k i k ø r t͡ʃ ɛ n,,wot,144,true,^ kikörčen $,default
+EAH-287_abirdsimilartoafalconakindofbirdofprey-1,,EAH,287_abirdsimilartoafalconakindofbirdofprey,kükerčen,kükerčen,k y k ɛ r t͡ʃ ɛ n,,wot,144,true,^ kükerčen $,default
+H-289_gourdcalabashlagenariavulgarisheadbillycockhat-1,,H,289_gourdcalabashlagenariavulgarisheadbillycockhat,kobak,kobak,k o b ɒ k,,wot,145,true,^ kobak $,default
+EAH-289_gourdcalabashlagenariavulgarisheadbillycockhat-1,,EAH,289_gourdcalabashlagenariavulgarisheadbillycockhat,kåbåk,kåbåk,k ɒ b ɒ k,,wot,145,true,^ kåbåk $,default
+H-291_tobegtomendicate-1,,H,291_tobegtomendicate,koldul,koldul,k o l d u l,,wot,146,true,^ koldul $,default
+EAH-291_tobegtomendicate-1,,EAH,291_tobegtomendicate,koldu,koldu,k o l d u,,wot,146,true,^ koldu $,default
+H-293_beggar-1,,H,293_beggar,koldus,koldus,k o l d u ʃ,,wot,147,true,^ koldus $,default
+EAH-293_beggar-1,,EAH,293_beggar,koldu,koldu,k o l d u,,wot,147,true,^ koldu $,default
+H-295_timothygrassphleumphleumsp-1,,H,295_timothygrassphleumphleumsp,komócsin,komócsin,k o m oː t͡ʃ i n,,wot,148,true,^ komócsin $,default
+EAH-295_timothygrassphleumphleumsp-1,,EAH,295_timothygrassphleumphleumsp,kåmičin,kåmičin,k ɒ m i t͡ʃ i n,,wot,148,true,^ kåmičin $,default
+H-297_gloomygravemorosesombredullcolourednotproperlycastrated-1,,H,297_gloomygravemorosesombredullcolourednotproperlycastrated,komor,komor,k o m o r,,wot,149,true,^ komor $,default
+EAH-297_gloomygravemorosesombredullcolourednotproperlycastrated-1,,EAH,297_gloomygravemorosesombredullcolourednotproperlycastrated,komur,komur,k o m u r,,wot,149,true,^ komur $,default
+H-299_ageperiod-1,,H,299_ageperiod,kor,kor,k o r,,wot,150,true,^ kor $,default
+EAH-299_ageperiod-1,,EAH,299_ageperiod,kur,kur,k u r,,wot,150,true,^ kur $,default
+H-301_drystalkofweed-1,,H,301_drystalkofweed,kóró,kóró,k oː r oː,,wot,151,true,^ kóró $,default
+OH-301_drystalkofweed-1,,OH,301_drystalkofweed,korou̯,korou̯,k o r o w,,wot,151,true,^ korou̯ $,default
+EAH-301_drystalkofweed-1,,EAH,301_drystalkofweed,kuroγ,kuroγ,k u r o ɣ,,wot,151,true,^ kuroγ $,default
+H-303_ram-1,,H,303_ram,kos,kos,k o ʃ,,wot,152,true,^ kos $,default
+EAH-303_ram-1,,EAH,303_ram,koč,koč,k o t͡ʃ,,wot,152,true,^ koč $,default
+H-306_frocksheepskinwaistcoat-1,,H,306_frocksheepskinwaistcoat,ködmön,ködmön,k ø d m ø n,,wot,153,true,^ ködmön $,default
+EAH-306_frocksheepskinwaistcoat-1,,EAH,306_frocksheepskinwaistcoat,kedmen,kedmen,k ɛ d m ɛ n,,wot,153,true,^ kedmen $,default
+H-307_blackthornprunusspinosa-1,,H,307_blackthornprunusspinosa,kökény,kökény,k ø k eː ɲ,,wot,154,true,^ kökény $,default
+EAH-307_blackthornprunusspinosa-1,,EAH,307_blackthornprunusspinosa,köken,köken,k ø k ɛ n,,wot,154,true,^ köken $,default
+H-309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1,,H,309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre,köldök,köldök,k ø l d ø k,,wot,155,true,^ köldök $,default
+OH-309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1,,OH,309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre,kildik,kildik,k i l d i k,,wot,155,true,^ kildik $,default
+EAH-309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre-1,,EAH,309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre,kindik,kindik,k i n d i k,,wot,155,true,^ kindik $,default
+H-311_pounderbeatersmallmortar-1,,H,311_pounderbeatersmallmortar,kölyű,kölyű,k ø j yː,,wot,156,true,^ kölyű $,default
+OH-311_pounderbeatersmallmortar-1,,OH,311_pounderbeatersmallmortar,kelǖ,kelǖ,k ɛ l yː,,wot,156,true,^ kelǖ $,default
+EAH-311_pounderbeatersmallmortar-1,,EAH,311_pounderbeatersmallmortar,keliγ,keliγ,k ɛ l i ɣ,,wot,156,true,^ keliγ $,default
+H-314_book-1,,H,314_book,könyv,könyv,k ø ɲ v,,wot,157,true,^ könyv $,default
+OH-314_book-1,,OH,314_book,köńüγ,köńüγ,k ø ɲ y ɣ,,wot,157,true,^ köńüγ $,default
+EAH-314_book-1,,EAH,314_book,küńüγ,küńüγ,k y ɲ y ɣ,,wot,157,true,^ küńüγ $,default
+H-315_stumpyasmallthickman-1,,H,315_stumpyasmallthickman,köpcös,köpcös,k ø p t͡s ø ʃ,,wot,158,true,^ köpcös $,default
+OH-315_stumpyasmallthickman-1,,OH,315_stumpyasmallthickman,köpčöš,köpčöš,k ø p t͡ʃ ø ʃ,,wot,158,true,^ köpčöš $,default
+LAH-315_stumpyasmallthickman-1,,LAH,315_stumpyasmallthickman,köpčȫ,köpčȫ,k ø p t͡ʃ øː,,wot,158,true,^ köpčȫ $,default
+EAH-315_stumpyasmallthickman-1,,EAH,315_stumpyasmallthickman,köpčeγ,köpčeγ,k ø p t͡ʃ ɛ ɣ,,wot,158,true,^ köpčeγ $,default
+H-317_cloakgownovercoat-1,,H,317_cloakgownovercoat,köpönyek,köpönyek,k ø p ø ɲ ɛ k,,wot,159,true,^ köpönyek $,default
+EAH-317_cloakgownovercoat-1,,EAH,317_cloakgownovercoat,kepenek,kepenek,k ɛ p ɛ n ɛ k,,wot,159,true,^ kepenek $,default
+H-319_ashtreefraxinussp-1,,H,319_ashtreefraxinussp,kőris,kőris,k øː r i ʃ,,wot,160,true,^ kőris $,default
+OH-319_ashtreefraxinussp-1,,OH,319_ashtreefraxinussp,kǖriš,kǖriš,k yː r i ʃ,,wot,160,true,^ kǖriš $,default
+EAH-319_ashtreefraxinussp-1,,EAH,319_ashtreefraxinussp,kewrič,kewrič,k ɛ w r i t͡ʃ,,wot,160,true,^ kewrič $,default
+H-322_pearpyruscommunis-1,,H,322_pearpyruscommunis,körtvély,körtvély,k ø r t v eː j,,wot,161,true,^ körtvély $,default
+OH-322_pearpyruscommunis-1,,OH,322_pearpyruscommunis,kërtveli,kërtveli,k e r t v ɛ l i,,wot,161,true,^ kërtveli $,default
+EAH-322_pearpyruscommunis-1,,EAH,322_pearpyruscommunis,kertβeli,kertβeli,k ɛ r t w ɛ l i,,wot,161,true,^ kertβeli $,default
+H-323_togreettothank-1,,H,323_togreettothank,köszön,köszön,k ø s ø n,,wot,162,true,^ köszön $,default
+EAH-323_togreettothank-1,,EAH,323_togreettothank,küsen,küsen,k y s ɛ n,,wot,162,true,^ küsen $,default
+H-325_akindofdogahungarianbreedofsheepdog-1,,H,325_akindofdogahungarianbreedofsheepdog,kuvasz,kuvasz,k u v ɒ s,,wot,163,true,^ kuvasz $,default
+EAH-325_akindofdogahungarianbreedofsheepdog-1,,EAH,325_akindofdogahungarianbreedofsheepdog,kuwaz,kuwaz,k u w a z,,wot,163,true,^ kuwaz $,default
+H-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1,,H,327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,küllő,küllő,k y lː øː,,wot,164,true,^ küllő $,default
+OH-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1,,OH,327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,külliγ,külliγ,k y l l i ɣ,,wot,164,true,^ külliγ $,default
+LAH-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1,,LAH,327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,kölliγ,kölliγ,k ø l l i ɣ,,wot,164,true,^ kölliγ $,default
+EAH-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1,,EAH,327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,köligeliγ,köligeliγ,k ø l i ɡ ɛ l i ɣ,,wot,164,true,^ köligeliγ $,default
+H-329_drysummerfograinbow-1,,H,329_drysummerfograinbow,mónár köd,mónár köd,<<m>> <<ó>> <<n>> <<á>> <<r>> + <<k>> <<ö>> <<d>>,,wot,165,true,^ <m> <ó> <n> <á> <r> + <k> <ö> <d> $,default
+OH-329_drysummerfograinbow-1,,OH,329_drysummerfograinbow,mōnār,mōnār,m oː n aː r,,wot,165,true,^ mōnār $,default
+EAH-329_drysummerfograinbow-1,,EAH,329_drysummerfograinbow,munar,munar,m u n a r,,wot,165,true,^ munar $,default
+H-331_chaffhuskswinnowingstailingsrefuseofgrain-1,,H,331_chaffhuskswinnowingstailingsrefuseofgrain,ocsú,ocsú,o t͡ʃ uː,,wot,166,true,^ ocsú $,default
+OH-331_chaffhuskswinnowingstailingsrefuseofgrain-1,,OH,331_chaffhuskswinnowingstailingsrefuseofgrain,učū,učū,u t͡ʃ uː,,wot,166,true,^ učū $,default
+LAH-331_chaffhuskswinnowingstailingsrefuseofgrain-1,,LAH,331_chaffhuskswinnowingstailingsrefuseofgrain,učou̯,učou̯,u t͡ʃ o w,,wot,166,true,^ učou̯ $,default
+EAH-331_chaffhuskswinnowingstailingsrefuseofgrain-1,,EAH,331_chaffhuskswinnowingstailingsrefuseofgrain,učoγ,učoγ,u t͡ʃ o ɣ,,wot,166,true,^ učoγ $,default
+H-333_toteach-1,,H,333_toteach,oktat,oktat,o k t ɒ t,,wot,167,true,^ oktat $,default
+OH-333_toteach-1,,OH,333_toteach,ok,ok,o k,,wot,167,true,^ ok $,default
+EAH-333_toteach-1,,EAH,333_toteach,uk,uk,u k,,wot,167,true,^ uk $,default
+H-335_cheap-1,,H,335_cheap,olcsó,olcsó,o l t͡ʃ oː,,wot,168,true,^ olcsó $,default
+OH-335_cheap-1,,OH,335_cheap,ōčō,ōčō,oː t͡ʃ oː,,wot,168,true,^ ōčō $,default
+LAH-335_cheap-1,,LAH,335_cheap,učau̯,učau̯,u t͡ʃ a w,,wot,168,true,^ učau̯ $,default
+EAH-335_cheap-1,,EAH,335_cheap,učaγ,učaγ,u t͡ʃ a ɣ,,wot,168,true,^ učaγ $,default
+H-337_spermseminalfluid-1,,H,337_spermseminalfluid,ondó,ondó,o n d oː,,wot,169,true,^ ondó $,default
+OH-337_spermseminalfluid-1,,OH,337_spermseminalfluid,ondau̯,ondau̯,o n d a w,,wot,169,true,^ ondau̯ $,default
+EAH-337_spermseminalfluid-1,,EAH,337_spermseminalfluid,undaγ,undaγ,u n d a ɣ,,wot,169,true,^ undaγ $,default
+H-339_crumbofbreadmorselasmallpieceofbread-1,,H,339_crumbofbreadmorselasmallpieceofbread,ontoɡ,ontoɡ,o n t o ɡ,,wot,170,true,^ ontoɡ $,default
+H-341_lion-1,,H,341_lion,oroszlán,oroszlán,o r o s l aː n,,wot,171,true,^ oroszlán $,default
+EAH-341_lion-1,,EAH,341_lion,uruslān,uruslān,u r u s l aː n,,wot,171,true,^ uruslān $,default
+H-343_thief-1,,H,343_thief,orv,orv,o r v,,wot,172,true,^ orv $,default
+OH-343_thief-1,,OH,343_thief,urvu,urvu,u r v u,,wot,172,true,^ urvu $,default
+LAH-343_thief-1,,LAH,343_thief,uvru,uvru,u v r u,,wot,172,true,^ uvru $,default
+EAH-343_thief-1,,EAH,343_thief,uγru,uγru,u ɣ r u,,wot,172,true,^ uγru $,default
+H-345_cuneinplayinostabla-1,,H,345_cuneinplayinostabla,os,os,o ʃ,,wot,173,true,^ os $,default
+OH-345_cuneinplayinostabla-1,,OH,345_cuneinplayinostabla,ošk,ošk,o ʃ k,,wot,173,true,^ ošk $,default
+LAH-345_cuneinplayinostabla-1,,LAH,345_cuneinplayinostabla,ačk,ačk,a t͡ʃ k,,wot,173,true,^ ačk $,default
+EAH-345_cuneinplayinostabla-1,,EAH,345_cuneinplayinostabla,alčuk,alčuk,a l t͡ʃ u k,,wot,173,true,^ alčuk $,default
+H-347_tostitchtoputonadress-1,,H,347_tostitchtoputonadress,ölt,ölt,ø l t,,wot,174,true,^ ölt $,default
+EAH-347_tostitchtoputonadress-1,,EAH,347_tostitchtoputonadress,ilt,ilt,i l t,,wot,174,true,^ ilt $,default
+H-349_totakeroottogrowstrongerplantanimal-1,,H,349_totakeroottogrowstrongerplantanimal,önik,önik,ø n i k,,wot,175,true,^ önik $,default
+OH-349_totakeroottogrowstrongerplantanimal-1,,OH,349_totakeroottogrowstrongerplantanimal,ön,ön,ø n,,wot,175,true,^ ön $,default
+EAH-349_totakeroottogrowstrongerplantanimal-1,,EAH,349_totakeroottogrowstrongerplantanimal,ün,ün,y n,,wot,175,true,^ ün $,default
+H-351_millingproduct-1,,H,351_millingproduct,örmény,örmény,ø r m eː ɲ,,wot,176,true,^ örmény $,default
+EAH-351_millingproduct-1,,EAH,351_millingproduct,eü̯rmen,eü̯rmen,ɛ ɥ r m ɛ n,,wot,176,true,^ eü̯rmen $,default
+H-353_eternal-1,,H,353_eternal,örök,örök,ø r ø k,,wot,177,true,^ örök $,default
+EAH-353_eternal-1,,EAH,353_eternal,ürük,ürük,y r y k,,wot,177,true,^ ürük $,default
+H-355_tobecomemad-1,,H,355_tobecomemad,őrül,őrül,øː r y l,,wot,178,true,^ őrül $,default
+OH-355_tobecomemad-1,,OH,355_tobecomemad,eü̯ril,eü̯ril,ɛ ɥ r i l,,wot,178,true,^ eü̯ril $,default
+EAH-355_tobecomemad-1,,EAH,355_tobecomemad,evril,evril,ɛ v r i l,,wot,178,true,^ evril $,default
+H-360_whirlpooleddy-1,,H,360_whirlpooleddy,őrém,őrém,øː r eː m,,wot,179,true,^ őrém $,default
+OH-360_whirlpooleddy-1,,OH,360_whirlpooleddy,eürem,eürem,ɛ y r ɛ m,,wot,179,true,^ eürem $,default
+EAH-360_whirlpooleddy-1,,EAH,360_whirlpooleddy,eγrim,eγrim,ɛ ɣ r i m,,wot,179,true,^ eγrim $,default
+H-360_whirlpooleddy-2,,H,360_whirlpooleddy,örmény,örmény,ø r m eː ɲ,,wot,180,true,^ örmény $,default
+EAH-360_whirlpooleddy-2,,EAH,360_whirlpooleddy,örmen,örmen,ø r m ɛ n,,wot,180,true,^ örmen $,default
+H-361_flooddelugestream-1,,H,361_flooddelugestream,özön,özön,ø z ø n,,wot,181,true,^ özön $,default
+EAH-361_flooddelugestream-1,,EAH,361_flooddelugestream,üzen,üzen,y z ɛ n,,wot,181,true,^ üzen $,default
+H-363_cheese-1,,H,363_cheese,sajt,sajt,ʃ ɒ j t,,wot,182,true,^ sajt $,default
+OH-363_cheese-1,,OH,363_cheese,šaχt,šaχt,ʃ a χ t,,wot,182,true,^ šaχt $,default
+EAH-363_cheese-1,,EAH,363_cheese,čaγt,čaγt,t͡ʃ a ɣ t,,wot,182,true,^ čaγt $,default
+H-366_yellow-1,,H,366_yellow,sár,sár,ʃ aː r,,wot,183,true,^ sár $,default
+EAH-366_yellow-1,,EAH,366_yellow,šari,šari,ʃ a r i,,wot,183,true,^ šari $,default
+H-367_dragon-1,,H,367_dragon,sárkány,sárkány,ʃ aː r k aː ɲ,,wot,184,true,^ sárkány $,default
+EAH-367_dragon-1,,EAH,367_dragon,šārkān,šārkān,ʃ aː r k aː n,,wot,184,true,^ šārkān $,default
+H-369_atypeofwildonionornithogalum-1,,H,369_atypeofwildonionornithogalum,sárma,sárma,ʃ aː r m ɒ,,wot,185,true,^ sárma $,default
+EAH-369_atypeofwildonionornithogalum-1,,EAH,369_atypeofwildonionornithogalum,šarmaγ,šarmaγ,ʃ a r m a ɣ,,wot,185,true,^ šarmaγ $,default
+H-371_tent-1,,H,371_tent,sátor,sátor,ʃ aː t o r,,wot,186,true,^ sátor $,default
+OH-371_tent-1,,OH,371_tent,šatur,šatur,ʃ a t u r,,wot,186,true,^ šatur $,default
+EAH-371_tent-1,,EAH,371_tent,čatur,čatur,t͡ʃ a t u r,,wot,186,true,^ čatur $,default
+H-373_tosweeptobroom-1,,H,373_tosweeptobroom,seper,seper,ʃ ɛ p ɛ r,,wot,187,true,^ seper $,default
+EAH-373_tosweeptobroom-1,,EAH,373_tosweeptobroom,šipir,šipir,ʃ i p i r,,wot,187,true,^ šipir $,default
+H-376_draffleesdregsofwine-1,,H,376_draffleesdregsofwine,seprő,seprő,ʃ ɛ p r øː,,wot,188,true,^ seprő $,default
+OH-376_draffleesdregsofwine-1,,OH,376_draffleesdregsofwine,čeprȫ,čeprȫ,t͡ʃ ɛ p r øː,,wot,188,true,^ čeprȫ $,default
+EAH-376_draffleesdregsofwine-1,,EAH,376_draffleesdregsofwine,čöpreγ,čöpreγ,t͡ʃ ø p r ɛ ɣ,,wot,188,true,^ čöpreγ $,default
+H-377_toinjuretohurt-1,,H,377_toinjuretohurt,sér,sér,ʃ eː r,,wot,189,true,^ sér $,default
+EAH-377_toinjuretohurt-1,,EAH,377_toinjuretohurt,šir,šir,ʃ i r,,wot,189,true,^ šir $,default
+H-379_anit-1,,H,379_anit,serke,serke,ʃ ɛ r k ɛ,,wot,190,true,^ serke $,default
+EAH-379_anit-1,,EAH,379_anit,širke,širke,ʃ i r k ɛ,,wot,190,true,^ širke $,default
+H-381_alsoshortsheavesusedtostrengthenathatchedroof-1,,H,381_alsoshortsheavesusedtostrengthenathatchedroof,serte,serte,ʃ ɛ r t ɛ,,wot,191,true,^ serte $,default
+OH-381_alsoshortsheavesusedtostrengthenathatchedroof-1,,OH,381_alsoshortsheavesusedtostrengthenathatchedroof,širte,širte,ʃ i r t ɛ,,wot,191,true,^ širte $,default
+EAH-381_alsoshortsheavesusedtostrengthenathatchedroof-1,,EAH,381_alsoshortsheavesusedtostrengthenathatchedroof,širt,širt,ʃ i r t,,wot,191,true,^ širt $,default
+H-383_smoothsimit-1,,H,383_smoothsimit,sima,sima,ʃ i m ɒ,,wot,192,true,^ sima $,default
+EAH-383_smoothsimit-1,,EAH,383_smoothsimit,šima,šima,ʃ i m a,,wot,192,true,^ šima $,default
+H-385_springwellbrook-1,,H,385_springwellbrook,séd,séd,ʃ eː d,,wot,193,true,^ séd $,default
+OH-385_springwellbrook-1,,OH,385_springwellbrook,šīd,šīd,ʃ iː d,,wot,193,true,^ šīd $,default
+EAH-385_springwellbrook-1,,EAH,385_springwellbrook,šiu,šiu,ʃ i u,,wot,193,true,^ šiu $,default
+H-388_falcon-1,,H,388_falcon,sólyom,sólyom,ʃ oː j o m,,wot,194,true,^ sólyom $,default
+OH-388_falcon-1,,OH,388_falcon,šolʹom,šolʹom,ʃ o ʎ o m,,wot,194,true,^ šolʹom $,default
+LAH-388_falcon-1,,LAH,388_falcon,čawlim,čawlim,t͡ʃ a w l i m,,wot,194,true,^ čawlim $,default
+EAH-388_falcon-1,,EAH,388_falcon,čavli,čavli,t͡ʃ a v l i,,wot,194,true,^ čavli $,default
+H-390_dogwoodtreecornelcornus-1,,H,390_dogwoodtreecornelcornus,som,som,ʃ o m,,wot,195,true,^ som $,default
+OH-390_dogwoodtreecornelcornus-1,,OH,390_dogwoodtreecornelcornus,šum,šum,ʃ u m,,wot,195,true,^ šum $,default
+EAH-390_dogwoodtreecornelcornus-1,,EAH,390_dogwoodtreecornelcornus,čum,čum,t͡ʃ u m,,wot,195,true,^ čum $,default
+H-391_beer-1,,H,391_beer,sör,sör,ʃ ø r,,wot,196,true,^ sör $,default
+OH-391_beer-1,,OH,391_beer,šer,šer,ʃ ɛ r,,wot,196,true,^ šer $,default
+EAH-391_beer-1,,EAH,391_beer,šere,šere,ʃ ɛ r ɛ,,wot,196,true,^ šere $,default
+H-393_pikeperchzanderstizostedionlucioperca-1,,H,393_pikeperchzanderstizostedionlucioperca,süllő,süllő,ʃ y lː øː,,wot,197,true,^ süllő $,default
+OH-393_pikeperchzanderstizostedionlucioperca-1,,OH,393_pikeperchzanderstizostedionlucioperca,šilleü,šilleü,ʃ i l l ɛ y,,wot,197,true,^ šilleü $,default
+EAH-393_pikeperchzanderstizostedionlucioperca-1,,EAH,393_pikeperchzanderstizostedionlucioperca,šilleγ,šilleγ,ʃ i l l ɛ ɣ,,wot,197,true,^ šilleγ $,default
+H-395_densethickofwoodsorsoup-1,,H,395_densethickofwoodsorsoup,sűrű,sűrű,ʃ yː r yː,,wot,198,true,^ sűrű $,default
+OH-395_densethickofwoodsorsoup-1,,OH,395_densethickofwoodsorsoup,šireü̯,šireü̯,ʃ i r ɛ ɥ,,wot,198,true,^ šireü̯ $,default
+EAH-395_densethickofwoodsorsoup-1,,EAH,395_densethickofwoodsorsoup,čireγ,čireγ,t͡ʃ i r ɛ ɣ,,wot,198,true,^ čireγ $,default
+H-397_brotherinlaw-1,,H,397_brotherinlaw,süv,süv,ʃ y v,,wot,199,true,^ süv $,default
+OH-397_brotherinlaw-1,,OH,397_brotherinlaw,šiv,šiv,ʃ i v,,wot,199,true,^ šiv $,default
+EAH-397_brotherinlaw-1,,EAH,397_brotherinlaw,siγ,siγ,s i ɣ,,wot,199,true,^ siγ $,default
+H-399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken-1,,H,399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken,szaka,szaka,s ɒ k ɒ,,wot,200,true,^ szaka $,default
+EAH-399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken-1,,EAH,399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken,sakaγ,sakaγ,s a k a ɣ,,wot,200,true,^ sakaγ $,default
+H-401_raft-1,,H,401_raft,szál,szál,s aː l,,wot,201,true,^ szál $,default
+EAH-401_raft-1,,EAH,401_raft,sal,sal,s a l,,wot,201,true,^ sal $,default
+H-403_tohavepityfortoregret-1,,H,403_tohavepityfortoregret,szán,szán,s aː n,,wot,202,true,^ szán $,default
+OH-403_tohavepityfortoregret-1,,OH,403_tohavepityfortoregret,sān,sān,s aː n,,wot,202,true,^ sān $,default
+EAH-403_tohavepityfortoregret-1,,EAH,403_tohavepityfortoregret,saγin,saγin,s a ɣ i n,,wot,202,true,^ saγin $,default
+H-405_trousseaubox-1,,H,405_trousseaubox,szándok,szándok,s aː n d o k,,wot,203,true,^ szándok $,default
+H-407_lightcolouredyellowishpalepartlybald-1,,H,407_lightcolouredyellowishpalepartlybald,szár,szár,s aː r,,wot,204,true,^ szár $,default
+EAH-407_lightcolouredyellowishpalepartlybald-1,,EAH,407_lightcolouredyellowishpalepartlybald,sar,sar,s a r,,wot,204,true,^ sar $,default
+H-409_grocergrandhandler-1,,H,409_grocergrandhandler,szatócs,szatócs,s ɒ t oː t͡ʃ,,wot,205,true,^ szatócs $,default
+OH-409_grocergrandhandler-1,,OH,409_grocergrandhandler,satōč,satōč,s a t oː t͡ʃ,,wot,205,true,^ satōč $,default
+LAH-409_grocergrandhandler-1,,LAH,409_grocergrandhandler,satiwči,satiwči,s a t i w t͡ʃ i,,wot,205,true,^ satiwči $,default
+EAH-409_grocergrandhandler-1,,EAH,409_grocergrandhandler,satiγči,satiγči,s a t i ɣ t͡ʃ i,,wot,205,true,^ satiγči $,default
+H-411_wind-1,,H,411_wind,szél,szél,s eː l,,wot,206,true,^ szél $,default
+EAH-411_wind-1,,EAH,411_wind,sēl,sēl,s eː l,,wot,206,true,^ sēl $,default
+H-419_toslumbertodoze-1,,H,419_toslumbertodoze,szender,szender,s ɛ n d ɛ r,,wot,207,true,^ szender $,default
+EAH-419_toslumbertodoze-1,,EAH,419_toslumbertodoze,sen,sen,s ɛ n,,wot,207,true,^ sen $,default
+H-419_toslumbertodoze-2,,H,419_toslumbertodoze,szender,szender,s ɛ n d ɛ r,,wot,208,true,^ szender $,default
+EAH-419_toslumbertodoze-2,,EAH,419_toslumbertodoze,sön,sön,s ø n,,wot,208,true,^ sön $,default
+H-419_toslumbertodoze-3,,H,419_toslumbertodoze,szöndör,szöndör,s ø n d ø r,,wot,209,true,^ szöndör $,default
+EAH-419_toslumbertodoze-3,,EAH,419_toslumbertodoze,sen,sen,s ɛ n,,wot,209,true,^ sen $,default
+H-419_toslumbertodoze-4,,H,419_toslumbertodoze,szöndör,szöndör,s ø n d ø r,,wot,210,true,^ szöndör $,default
+EAH-419_toslumbertodoze-4,,EAH,419_toslumbertodoze,sön,sön,s ø n,,wot,210,true,^ sön $,default
+H-421_frecklesunspotstain-1,,H,421_frecklesunspotstain,szeplő,szeplő,s ɛ p l øː,,wot,211,true,^ szeplő $,default
+EAH-421_frecklesunspotstain-1,,EAH,421_frecklesunspotstain,sepleγ,sepleγ,s ɛ p l ɛ ɣ,,wot,211,true,^ sepleγ $,default
+H-423_fumesvapourspiritsalcoholhumours-1,,H,423_fumesvapourspiritsalcoholhumours,szesz,szesz,s ɛ s,,wot,212,true,^ szesz $,default
+EAH-423_fumesvapourspiritsalcoholhumours-1,,EAH,423_fumesvapourspiritsalcoholhumours,sis,sis,s i s,,wot,212,true,^ sis $,default
+H-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1,,H,426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,szirony,szirony,s i r o ɲ,,wot,213,true,^ szirony $,default
+OH-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1,,OH,426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,siron,siron,s i r o n,,wot,213,true,^ siron $,default
+LAH-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1,,LAH,426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,sirum,sirum,s i r u m,,wot,213,true,^ sirum $,default
+EAH-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow-1,,EAH,426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,siyrum,siyrum,s i j r u m,,wot,213,true,^ siyrum $,default
+H-427_rockcliffocciputcrestofmountain-1,,H,427_rockcliffocciputcrestofmountain,szirt,szirt,s i r t,,wot,214,true,^ szirt $,default
+H-429_akindoffalconpielfalcusgyrfalco-1,,H,429_akindoffalconpielfalcusgyrfalco,szonɡor,szonɡor,s o n ɡ o r,,wot,215,true,^ szonɡor $,default
+EAH-429_akindoffalconpielfalcusgyrfalco-1,,EAH,429_akindoffalconpielfalcusgyrfalco,sonkor,sonkor,s o n k o r,,wot,215,true,^ sonkor $,default
+H-431_grasshopper-1,,H,431_grasshopper,szöcske,szöcske,s ø t͡ʃ k ɛ,,wot,216,true,^ szöcske $,default
+OH-431_grasshopper-1,,OH,431_grasshopper,sökče,sökče,s ø k t͡ʃ ɛ,,wot,216,true,^ sökče $,default
+LAH-431_grasshopper-1,,LAH,431_grasshopper,sökśȫ,sökśȫ,s ø k s øː,,wot,216,true,^ sökśȫ $,default
+EAH-431_grasshopper-1,,EAH,431_grasshopper,sek,sek,s ɛ k,,wot,216,true,^ sek $,default
+H-436_grapewinegrapevitisvinifer-1,,H,436_grapewinegrapevitisvinifer,szőlő,szőlő,s øː l øː,,wot,217,true,^ szőlő $,default
+OH-436_grapewinegrapevitisvinifer-1,,OH,436_grapewinegrapevitisvinifer,selleγ,selleγ,s ɛ l l ɛ ɣ,,wot,217,true,^ selleγ $,default
+EAH-436_grapewinegrapevitisvinifer-1,,EAH,436_grapewinegrapevitisvinifer,śeleγ,śeleγ,s ɛ l ɛ ɣ,,wot,217,true,^ śeleγ $,default
+H-436_grapewinegrapevitisvinifer-2,,H,436_grapewinegrapevitisvinifer,szöllő,szöllő,s ø lː øː,,wot,218,true,^ szöllő $,default
+OH-436_grapewinegrapevitisvinifer-2,,OH,436_grapewinegrapevitisvinifer,selleγ,selleγ,s ɛ l l ɛ ɣ,,wot,218,true,^ selleγ $,default
+EAH-436_grapewinegrapevitisvinifer-2,,EAH,436_grapewinegrapevitisvinifer,śeleγ,śeleγ,s ɛ l ɛ ɣ,,wot,218,true,^ śeleγ $,default
+H-437_mosquitognatculexpipens-1,,H,437_mosquitognatculexpipens,szúnyoɡ,szúnyoɡ,s uː ɲ o ɡ,,wot,219,true,^ szúnyoɡ $,default
+OH-437_mosquitognatculexpipens-1,,OH,437_mosquitognatculexpipens,sunug,sunug,s u n u ɡ,,wot,219,true,^ sunug $,default
+EAH-437_mosquitognatculexpipens-1,,EAH,437_mosquitognatculexpipens,sinuk,sinuk,s i n u k,,wot,219,true,^ sinuk $,default
+H-439_toceasetostop-1,,H,439_toceasetostop,szzűnik,szzűnik,s z yː n i k,,wot,220,true,^ szzűnik $,default
+OH-439_toceasetostop-1,,OH,439_toceasetostop,sün,sün,s y n,,wot,220,true,^ sün $,default
+EAH-439_toceasetostop-1,,EAH,439_toceasetostop,sön,sön,s ø n,,wot,220,true,^ sön $,default
+H-441_virginpure-1,,H,441_virginpure,szűz,szűz,s yː z,,wot,221,true,^ szűz $,default
+OH-441_virginpure-1,,OH,441_virginpure,süz,süz,s y z,,wot,221,true,^ süz $,default
+EAH-441_virginpure-1,,EAH,441_virginpure,süzök,süzök,s y z ø k,,wot,221,true,^ süzök $,default
+H-443_advicecouncil-1,,H,443_advicecouncil,tanács,tanács,t ɒ n aː t͡ʃ,,wot,222,true,^ tanács $,default
+EAH-443_advicecouncil-1,,EAH,443_advicecouncil,tanilč,tanilč,t a n i l t͡ʃ,,wot,222,true,^ tanilč $,default
+H-445_tofeedtonourish-1,,H,445_tofeedtonourish,táplál,táplál,t aː p l aː l,,wot,223,true,^ táplál $,default
+OH-445_tofeedtonourish-1,,OH,445_tofeedtonourish,tāplā,tāplā,t aː p l aː,,wot,223,true,^ tāplā $,default
+EAH-445_tofeedtonourish-1,,EAH,445_tofeedtonourish,taplaγ,taplaγ,t a p l a ɣ,,wot,223,true,^ taplaγ $,default
+H-447_bald-1,,H,447_bald,tar,tar,t ɒ r,,wot,224,true,^ tar $,default
+EAH-447_bald-1,,EAH,447_bald,tar,tar,t ɒ r,,wot,224,true,^ tar $,default
+H-449_ploughfieldarablefieldstubblefield-1,,H,449_ploughfieldarablefieldstubblefield,tarló,tarló,t ɒ r l oː,,wot,225,true,^ tarló $,default
+EAH-449_ploughfieldarablefieldstubblefield-1,,EAH,449_ploughfieldarablefieldstubblefield,tarlaγ,tarlaγ,t a r l a ɣ,,wot,225,true,^ tarlaγ $,default
+H-451_tatar-1,,H,451_tatar,tatár,tatár,t ɒ t aː r,,wot,226,true,^ tatár $,default
+EAH-451_tatar-1,,EAH,451_tatar,tatar,tatar,t a t a r,,wot,226,true,^ tatar $,default
+H-453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1,,H,453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind,tátorján,tátorján,t aː t o r j aː n,,wot,227,true,^ tátorján $,default
+OH-453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1,,OH,453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind,tāturyan,tāturyan,t aː t u r j a n,,wot,227,true,^ tāturyan $,default
+EAH-453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind-1,,EAH,453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind,taturγan,taturγan,t a t u r ɣ a n,,wot,227,true,^ taturγan $,default
+H-455_troughwashtubhutch-1,,H,455_troughwashtubhutch,teknő,teknő,t ɛ k n øː,,wot,228,true,^ teknő $,default
+OH-455_troughwashtubhutch-1,,OH,455_troughwashtubhutch,tekenȫ,tekenȫ,t ɛ k ɛ n øː,,wot,228,true,^ tekenȫ $,default
+EAH-455_troughwashtubhutch-1,,EAH,455_troughwashtubhutch,tekeneγ,tekeneγ,t ɛ k ɛ n ɛ ɣ,,wot,228,true,^ tekeneγ $,default
+H-457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1,,H,457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,telek,telek,t ɛ l ɛ k,,wot,229,true,^ telek $,default
+EAH-457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung-1,,EAH,457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,telük,telük,t ɛ l y k,,wot,229,true,^ telük $,default
+H-459_axle-1,,H,459_axle,tenɡely,tenɡely,t ɛ n ɡ ɛ j,,wot,230,true,^ tenɡely $,default
+EAH-459_axle-1,,EAH,459_axle,tengel,tengel,t ɛ n ɡ ɛ l,,wot,230,true,^ tengel $,default
+H-462_toturntochangetheoriginaldirection-1,,H,462_toturntochangetheoriginaldirection,térül,térül,t eː r y l,,wot,231,true,^ térül $,default
+OH-462_toturntochangetheoriginaldirection-1,,OH,462_toturntochangetheoriginaldirection,tēr,tēr,t eː r,,wot,231,true,^ tēr $,default
+EAH-462_toturntochangetheoriginaldirection-1,,EAH,462_toturntochangetheoriginaldirection,tevir,tevir,t ɛ v i r,,wot,231,true,^ tevir $,default
+H-463_knee-1,,H,463_knee,térd,térd,t eː r d,,wot,232,true,^ térd $,default
+EAH-463_knee-1,,EAH,463_knee,tīr,tīr,t iː r,,wot,232,true,^ tīr $,default
+H-465_camel-1,,H,465_camel,teve,teve,t ɛ v ɛ,,wot,233,true,^ teve $,default
+EAH-465_camel-1,,EAH,465_camel,teve,teve,t ɛ v ɛ,,wot,233,true,^ teve $,default
+H-467_steeryoungbullockox-1,,H,467_steeryoungbullockox,tinó,tinó,t i n oː,,wot,234,true,^ tinó $,default
+EAH-467_steeryoungbullockox-1,,EAH,467_steeryoungbullockox,tana,tana,t a n a,,wot,234,true,^ tana $,default
+H-469_tolayeggs-1,,H,469_tolayeggs,tojik,tojik,t o j i k,,wot,235,true,^ tojik $,default
+OH-469_tolayeggs-1,,OH,469_tolayeggs,tuik,tuik,t u i k,,wot,235,true,^ tuik $,default
+LAH-469_tolayeggs-1,,LAH,469_tolayeggs,tuγik,tuγik,t u ɣ i k,,wot,235,true,^ tuγik $,default
+EAH-469_tolayeggs-1,,EAH,469_tolayeggs,tuγ,tuγ,t u ɣ,,wot,235,true,^ tuγ $,default
+H-471_oneyearoldlamb-1,,H,471_oneyearoldlamb,toklyó,toklyó,t o k j oː,,wot,236,true,^ toklyó $,default
+OH-471_oneyearoldlamb-1,,OH,471_oneyearoldlamb,toklʹu,toklʹu,t o k ʎ u,,wot,236,true,^ toklʹu $,default
+EAH-471_oneyearoldlamb-1,,EAH,471_oneyearoldlamb,toklu,toklu,t o k l u,,wot,236,true,^ toklu $,default
+H-473_horseradisharmoraciarusticana-1,,H,473_horseradisharmoraciarusticana,torma,torma,t o r m ɒ,,wot,237,true,^ torma $,default
+EAH-473_horseradisharmoraciarusticana-1,,EAH,473_horseradisharmoraciarusticana,turma,turma,t u r m a,,wot,237,true,^ turma $,default
+H-475_topileuptobecomeblocked-1,,H,475_topileuptobecomeblocked,torlik,torlik,t o r l i k,,wot,238,true,^ torlik $,default
+OH-475_topileuptobecomeblocked-1,,OH,475_topileuptobecomeblocked,torol,torol,t o r o l,,wot,238,true,^ torol $,default
+LAH-475_topileuptobecomeblocked-1,,LAH,475_topileuptobecomeblocked,toro,toro,t o r o,,wot,238,true,^ toro $,default
+EAH-475_topileuptobecomeblocked-1,,EAH,475_topileuptobecomeblocked,toro,toro,t o r o,,wot,238,true,^ toro $,default
+H-477_slovak-1,,H,477_slovak,tót,tót,t oː t,,wot,239,true,^ tót $,default
+OH-477_slovak-1,,OH,477_slovak,tat,tat,t a t,,wot,239,true,^ tat $,default
+EAH-477_slovak-1,,EAH,477_slovak,tāt,tāt,t aː t,,wot,239,true,^ tāt $,default
+H-479_innumerable-1,,H,479_innumerable,töméntelen,töméntelen,t ø m eː n t ɛ l ɛ n,,wot,240,true,^ töméntelen $,default
+OH-479_innumerable-1,,OH,479_innumerable,tömēń,tömēń,t ø m eː ɲ,,wot,240,true,^ tömēń $,default
+EAH-479_innumerable-1,,EAH,479_innumerable,tümen,tümen,t y m ɛ n,,wot,240,true,^ tümen $,default
+H-481_snaretrap-1,,H,481_snaretrap,tőr,tőr,t øː r,,wot,241,true,^ tőr $,default
+EAH-481_snaretrap-1,,EAH,481_snaretrap,tȫr,tȫr,t øː r,,wot,241,true,^ tȫr $,default
+H-483_tohappentooccur-1,,H,483_tohappentooccur,történik,történik,t ø r t eː n i k,,wot,242,true,^ történik $,default
+OH-483_tohappentooccur-1,,OH,483_tohappentooccur,törtēn,törtēn,t ø r t eː n,,wot,242,true,^ törtēn $,default
+EAH-483_tohappentooccur-1,,EAH,483_tohappentooccur,törtün,törtün,t ø r t y n,,wot,242,true,^ törtün $,default
+H-485_peatturfdrieddung-1,,H,485_peatturfdrieddung,tőzeɡ,tőzeɡ,t øː z ɛ ɡ,,wot,243,true,^ tőzeɡ $,default
+EAH-485_peatturfdrieddung-1,,EAH,485_peatturfdrieddung,tözek,tözek,t ø z ɛ k,,wot,243,true,^ tözek $,default
+H-487_cottagecheesecheesecurds-1,,H,487_cottagecheesecheesecurds,túró,túró,t uː r oː,,wot,244,true,^ túró $,default
+OH-487_cottagecheesecheesecurds-1,,OH,487_cottagecheesecheesecurds,turō,turō,t u r oː,,wot,244,true,^ turō $,default
+EAH-487_cottagecheesecheesecurds-1,,EAH,487_cottagecheesecheesecurds,toraγ,toraγ,t o r a ɣ,,wot,244,true,^ toraγ $,default
+H-489_bustardotis-1,,H,489_bustardotis,túzok,túzok,t uː z o k,,wot,245,true,^ túzok $,default
+EAH-489_bustardotis-1,,EAH,489_bustardotis,toγzak,toγzak,t o ɣ z a k,,wot,245,true,^ toγzak $,default
+H-493_mirror-1,,H,493_mirror,tükör,tükör,t y k ø r,,wot,246,true,^ tükör $,default
+EAH-493_mirror-1,,EAH,493_mirror,tiker,tiker,t i k ɛ r,,wot,246,true,^ tiker $,default
+H-493_mirror-2,,H,493_mirror,tükör,tükör,t y k ø r,,wot,247,true,^ tükör $,default
+EAH-493_mirror-2,,EAH,493_mirror,tüker,tüker,t y k ɛ r,,wot,247,true,^ tüker $,default
+H-495_torollupascrolloronessleeves-1,,H,495_torollupascrolloronessleeves,tűr,tűr,t yː r,,wot,248,true,^ tűr $,default
+EAH-495_torollupascrolloronessleeves-1,,EAH,495_torollupascrolloronessleeves,tür,tür,t y r,,wot,248,true,^ tür $,default
+H-497_owlstrix-1,,H,497_owlstrix,uɡ,uɡ,u ɡ,,wot,249,true,^ uɡ $,default
+EAH-497_owlstrix-1,,EAH,497_owlstrix,ugu,ugu,u ɡ u,,wot,249,true,^ ugu $,default
+H-499_torefreshoneselftoresttobecomecured-1,,H,499_torefreshoneselftoresttobecomecured,üdül,üdül,y d y l,,wot,250,true,^ üdül $,default
+OH-499_torefreshoneselftoresttobecomecured-1,,OH,499_torefreshoneselftoresttobecomecured,idül,idül,i d y l,,wot,250,true,^ idül $,default
+LAH-499_torefreshoneselftoresttobecomecured-1,,LAH,499_torefreshoneselftoresttobecomecured,edül,edül,ɛ d y l,,wot,250,true,^ edül $,default
+EAH-499_torefreshoneselftoresttobecomecured-1,,EAH,499_torefreshoneselftoresttobecomecured,edü,edü,ɛ d y,,wot,250,true,^ edü $,default
+H-501_heiferroedoe-1,,H,501_heiferroedoe,ünő,ünő,y n øː,,wot,251,true,^ ünő $,default
+OH-501_heiferroedoe-1,,OH,501_heiferroedoe,inȫ,inȫ,i n øː,,wot,251,true,^ inȫ $,default
+LAH-501_heiferroedoe-1,,LAH,501_heiferroedoe,ineü,ineü,i n ɛ y,,wot,251,true,^ ineü $,default
+EAH-501_heiferroedoe-1,,EAH,501_heiferroedoe,ineγ,ineγ,i n ɛ ɣ,,wot,251,true,^ ineγ $,default
+H-503_groundsquirrelcitelluscitellus-1,,H,503_groundsquirrelcitelluscitellus,ürɡe,ürɡe,y r ɡ ɛ,,wot,252,true,^ ürɡe $,default
+EAH-503_groundsquirrelcitelluscitellus-1,,EAH,503_groundsquirrelcitelluscitellus,ürge,ürge,y r ɡ ɛ,,wot,252,true,^ ürge $,default
+H-505_wormwoodartemisiabitterness-1,,H,505_wormwoodartemisiabitterness,üröm,üröm,y r ø m,,wot,253,true,^ üröm $,default
+OH-505_wormwoodartemisiabitterness-1,,OH,505_wormwoodartemisiabitterness,irim,irim,i r i m,,wot,253,true,^ irim $,default
+EAH-505_wormwoodartemisiabitterness-1,,EAH,505_wormwoodartemisiabitterness,erim,erim,ɛ r i m,,wot,253,true,^ erim $,default
+H-508_hotembersextinguishedembers-1,,H,508_hotembersextinguishedembers,üszök,üszök,y s ø k,,wot,254,true,^ üszök $,default
+EAH-508_hotembersextinguishedembers-1,,EAH,508_hotembersextinguishedembers,isüg,isüg,i s y ɡ,,wot,254,true,^ isüg $,default
+H-509_oneyearoldfemalesheep-1,,H,509_oneyearoldfemalesheep,üvecs,üvecs,y v ɛ t͡ʃ,,wot,255,true,^ üvecs $,default
+EAH-509_oneyearoldfemalesheep-1,,EAH,509_oneyearoldfemalesheep,öveč,öveč,ø v ɛ t͡ʃ,,wot,255,true,^ öveč $,default
+H-511_troughtray-1,,H,511_troughtray,vályú,vályú,v aː j uː,,wot,256,true,^ vályú $,default
+OH-511_troughtray-1,,OH,511_troughtray,valʹū,valʹū,v a ʎ uː,,wot,256,true,^ valʹū $,default
+LAH-511_troughtray-1,,LAH,511_troughtray,vālū,vālū,v aː l uː,,wot,256,true,^ vālū $,default
+EAH-511_troughtray-1,,EAH,511_troughtray,valaγ,valaγ,v a l a ɣ,,wot,256,true,^ valaγ $,default
+H-514_aholeintheiceforfishing-1,,H,514_aholeintheiceforfishing,lék,lék,l eː k,,wot,257,true,^ lék $,default
+EAH-514_aholeintheiceforfishing-1,,EAH,514_aholeintheiceforfishing,vekü,vekü,v ɛ k y,,wot,257,true,^ vekü $,default
+H-515_guest-1,,H,515_guest,vendéɡ,vendéɡ,v ɛ n d eː ɡ,,wot,258,true,^ vendéɡ $,default
+EAH-515_guest-1,,EAH,515_guest,vendeg,vendeg,v ɛ n d ɛ ɡ,,wot,258,true,^ vendeg $,default
+H-517_gablefrontispiece-1,,H,517_gablefrontispiece,vértelek,vértelek,v eː r t ɛ l ɛ k,,wot,259,true,^ vértelek $,default
+EAH-517_gablefrontispiece-1,,EAH,517_gablefrontispiece,vertelük,vertelük,v ɛ r t ɛ l y k,,wot,259,true,^ vertelük $,default

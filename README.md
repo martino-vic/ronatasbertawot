@@ -19,6 +19,8 @@ This dataset is licensed under a MIT license
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 81%](https://img.shields.io/badge/BIPA-81%25-yellowgreen.svg "BIPA: 81%")
+![CLTS SoundClass: 81%](https://img.shields.io/badge/CLTS%20SoundClass-81%25-yellowgreen.svg "CLTS SoundClass: 81%")
 
 - **Varieties:** 4
 - **Concepts:** 244
@@ -27,6 +29,10 @@ This dataset is licensed under a MIT license
 - **Synonymy:** 1.04
 - **Cognacy:** 642 cognates in 259 cognate sets (13 singletons)
 - **Cognate Diversity:** 0.04
+- **Invalid lexemes:** 0
+- **Tokens:** 3,044
+- **Segments:** 57 (11 BIPA errors, 11 CTLS sound class errors, 46 CLTS modified)
+- **Inventory size (avg):** 43.50
 
 ## CLDF Datasets
 
