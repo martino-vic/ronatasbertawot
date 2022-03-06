@@ -9,7 +9,8 @@ from pylexibank import FormSpec
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "ronatasbertawot"
-    form_spec = FormSpec(separators=",", first_form_only=True)
+    form_spec = FormSpec(separators=",", first_form_only=True,
+                         replacements= [(" ", "")])
 
     def cmd_makecldf(self, args):
         # add bib
@@ -45,7 +46,6 @@ class Dataset(BaseDataset):
             words = dict(zip(header, data[i]))
             cognates = dict(zip(header, data[i+1]))
             concept = data[i][5]
-            print(cognates)
             for language in languages:
                 entry = words.get(language).strip()
                 cog = cognates.get(language).strip()
