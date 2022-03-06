@@ -58,6 +58,7 @@ class Dataset(BaseDataset):
                         Parameter_ID=concepts[concept],
                         Value=entry,
                         Source="wot",
+                        Loan=True,
                         Cognacy=cogid
                         ):
                     args.writer.add_cognate(
