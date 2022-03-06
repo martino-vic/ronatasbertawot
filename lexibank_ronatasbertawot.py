@@ -49,7 +49,7 @@ class Dataset(BaseDataset):
             for language in languages:
                 entry = words.get(language).strip()
                 cog = cognates.get(language).strip()
-                if concept+'-'+cog not in cognates:
+                if concept not in cognates:
                     cognates[concept] = cogidx
                     cogidx += 1
                 cogid = cognates[concept]

@@ -25,8 +25,8 @@ This dataset is licensed under a MIT license
 - **Lexemes:** 642
 - **Sources:** 1
 - **Synonymy:** 1.04
-- **Cognacy:** 642 cognates in 642 cognate sets (642 singletons)
-- **Cognate Diversity:** 1.00
+- **Cognacy:** 642 cognates in 259 cognate sets (13 singletons)
+- **Cognate Diversity:** 0.04
 
 ## CLDF Datasets
 
