@@ -2,22 +2,33 @@
     "by_language": {
         "EAH": {
             "bipa_errors": [
-                "d\u02b9",
                 "\u03b3"
             ],
-            "general_errors": 142,
+            "general_errors": 138,
             "replacements": {
+                "a": [
+                    "a"
+                ],
+                "a\u0308": [
+                    "a\u0308"
+                ],
                 "b": [
                     "b"
+                ],
+                "c": [
+                    "c"
                 ],
                 "d": [
                     "d"
                 ],
-                "d\u0361z": [
-                    "dz"
-                ],
                 "e": [
                     "e"
+                ],
+                "e\u0308": [
+                    "e\u0308"
+                ],
+                "g": [
+                    "g"
                 ],
                 "h": [
                     "h"
@@ -37,23 +48,17 @@
                 "l": [
                     "l"
                 ],
-                "l\u02d0": [
-                    "l\u02d0"
-                ],
                 "m": [
                     "m"
-                ],
-                "m\u02d0": [
-                    "m\u02d0"
                 ],
                 "n": [
                     "n"
                 ],
-                "n\u02d0": [
-                    "n\u02d0"
-                ],
                 "o": [
                     "o"
+                ],
+                "o\u0308": [
+                    "o\u0308"
                 ],
                 "p": [
                     "p"
@@ -67,14 +72,11 @@
                 "t": [
                     "t"
                 ],
-                "t\u02d0": [
-                    "t\u02d0"
-                ],
-                "t\u0361s": [
-                    "ts"
-                ],
                 "u": [
                     "u"
+                ],
+                "u\u0308": [
+                    "u\u0308"
                 ],
                 "u\u032f": [
                     "u\u032f"
@@ -85,41 +87,20 @@
                 "v": [
                     "v"
                 ],
+                "x": [
+                    "x"
+                ],
                 "y": [
                     "y"
                 ],
                 "z": [
                     "z"
                 ],
-                "z\u02d0": [
-                    "z\u02d0"
-                ],
-                "\u00f8": [
-                    "\u00f8"
-                ],
                 "\u014b": [
                     "\u014b"
                 ],
-                "\u0252": [
-                    "\u0252"
-                ],
-                "\u0252\u0308": [
-                    "\u0252\u0308"
-                ],
-                "\u0252\u030a": [
-                    "\u0252\u0325"
-                ],
-                "\u025b": [
-                    "\u025b"
-                ],
                 "\u0261": [
                     "g"
-                ],
-                "\u0283": [
-                    "\u0283"
-                ],
-                "\u0283\u02d0": [
-                    "\u0283\u02d0"
                 ],
                 "\u03b2": [
                     "\u03b2"
@@ -129,67 +110,71 @@
                 ]
             },
             "sclass_errors": [
-                "d\u02b9",
                 "\u03b3"
             ],
             "segments": {
+                "a": 261,
                 "b": 76,
+                "c": 102,
                 "d": 33,
-                "d\u02b9": 4,
-                "e": 4,
+                "e": 208,
+                "g": 4,
                 "h": 3,
-                "i": 184,
-                "j": 42,
-                "k": 184,
-                "l": 122,
-                "l\u02d0": 2,
-                "m": 49,
-                "m\u02d0": 1,
+                "i": 169,
+                "j": 57,
+                "k": 183,
+                "l": 126,
+                "m": 51,
                 "n": 117,
-                "o": 52,
+                "o": 53,
                 "p": 33,
                 "r": 182,
-                "s": 1,
-                "t": 113,
-                "t\u02d0": 2,
-                "t\u0361s": 102,
-                "u": 121,
+                "s": 201,
+                "t": 117,
+                "u": 124,
                 "v": 32,
-                "y": 96,
-                "z": 16,
+                "x": 1,
+                "y": 6,
+                "z": 88,
+                "\u00e4": 10,
+                "\u00eb": 4,
                 "\u00ef": 6,
-                "\u00f8": 32,
+                "\u00f6": 31,
+                "\u00fc": 93,
                 "\u00fc\u032f": 4,
                 "\u014b": 1,
-                "\u0252": 253,
-                "\u0252\u0308": 10,
-                "\u0252\u030a": 8,
-                "\u025b": 208,
                 "\u0261": 46,
-                "\u0283": 99,
                 "\u03b2": 1,
                 "\u03b3": 138
             }
         },
         "H": {
-            "bipa_errors": [
-                "d\u02b9",
-                "l\u02b9",
-                "t\u02b9"
-            ],
-            "general_errors": 68,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
+                "a": [
+                    "a"
+                ],
+                "a\u0308": [
+                    "a\u0308"
+                ],
                 "b": [
                     "b"
+                ],
+                "c": [
+                    "c"
                 ],
                 "d": [
                     "d"
                 ],
-                "d\u0361z": [
-                    "dz"
-                ],
                 "e": [
                     "e"
+                ],
+                "e\u0308": [
+                    "e\u0308"
+                ],
+                "g": [
+                    "g"
                 ],
                 "h": [
                     "h"
@@ -209,23 +194,17 @@
                 "l": [
                     "l"
                 ],
-                "l\u02d0": [
-                    "l\u02d0"
-                ],
                 "m": [
                     "m"
-                ],
-                "m\u02d0": [
-                    "m\u02d0"
                 ],
                 "n": [
                     "n"
                 ],
-                "n\u02d0": [
-                    "n\u02d0"
-                ],
                 "o": [
                     "o"
+                ],
+                "o\u0308": [
+                    "o\u0308"
                 ],
                 "p": [
                     "p"
@@ -239,14 +218,11 @@
                 "t": [
                     "t"
                 ],
-                "t\u02d0": [
-                    "t\u02d0"
-                ],
-                "t\u0361s": [
-                    "ts"
-                ],
                 "u": [
                     "u"
+                ],
+                "u\u0308": [
+                    "u\u0308"
                 ],
                 "u\u032f": [
                     "u\u032f"
@@ -257,41 +233,20 @@
                 "v": [
                     "v"
                 ],
+                "x": [
+                    "x"
+                ],
                 "y": [
                     "y"
                 ],
                 "z": [
                     "z"
                 ],
-                "z\u02d0": [
-                    "z\u02d0"
-                ],
-                "\u00f8": [
-                    "\u00f8"
-                ],
                 "\u014b": [
                     "\u014b"
                 ],
-                "\u0252": [
-                    "\u0252"
-                ],
-                "\u0252\u0308": [
-                    "\u0252\u0308"
-                ],
-                "\u0252\u030a": [
-                    "\u0252\u0325"
-                ],
-                "\u025b": [
-                    "\u025b"
-                ],
                 "\u0261": [
                     "g"
-                ],
-                "\u0283": [
-                    "\u0283"
-                ],
-                "\u0283\u02d0": [
-                    "\u0283\u02d0"
                 ],
                 "\u03b2": [
                     "\u03b2"
@@ -300,66 +255,65 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [
-                "d\u02b9",
-                "l\u02b9",
-                "t\u02b9"
-            ],
+            "sclass_errors": [],
             "segments": {
+                "a": 240,
                 "b": 80,
-                "d": 55,
-                "d\u02b9": 45,
-                "d\u0361z": 1,
-                "e": 4,
+                "c": 87,
+                "d": 56,
+                "e": 201,
+                "g": 45,
                 "h": 8,
-                "i": 111,
+                "i": 86,
+                "j": 25,
                 "k": 209,
-                "l": 105,
-                "l\u02b9": 20,
-                "l\u02d0": 9,
+                "l": 143,
                 "m": 47,
-                "n": 132,
-                "n\u02d0": 1,
-                "o": 172,
+                "n": 134,
+                "o": 214,
                 "p": 33,
                 "r": 195,
-                "s": 1,
-                "t": 124,
-                "t\u02b9": 3,
-                "t\u0361s": 87,
-                "u": 44,
+                "s": 215,
+                "t": 127,
+                "u": 74,
                 "v": 23,
-                "y": 65,
-                "z": 23,
-                "z\u02d0": 1,
-                "\u00f8": 145,
-                "\u0252": 97,
-                "\u0252\u030a": 143,
-                "\u025b": 201,
-                "\u0261": 54,
-                "\u0283": 133,
-                "\u0283\u02d0": 2
+                "y": 117,
+                "z": 98,
+                "\u00eb": 4,
+                "\u00f6": 103,
+                "\u00fc": 35,
+                "\u0261": 54
             }
         },
         "LAH": {
             "bipa_errors": [
-                "d\u02b9",
-                "l\u02b9",
                 "\u03b3"
             ],
-            "general_errors": 13,
+            "general_errors": 8,
             "replacements": {
+                "a": [
+                    "a"
+                ],
+                "a\u0308": [
+                    "a\u0308"
+                ],
                 "b": [
                     "b"
+                ],
+                "c": [
+                    "c"
                 ],
                 "d": [
                     "d"
                 ],
-                "d\u0361z": [
-                    "dz"
-                ],
                 "e": [
                     "e"
+                ],
+                "e\u0308": [
+                    "e\u0308"
+                ],
+                "g": [
+                    "g"
                 ],
                 "h": [
                     "h"
@@ -379,23 +333,17 @@
                 "l": [
                     "l"
                 ],
-                "l\u02d0": [
-                    "l\u02d0"
-                ],
                 "m": [
                     "m"
-                ],
-                "m\u02d0": [
-                    "m\u02d0"
                 ],
                 "n": [
                     "n"
                 ],
-                "n\u02d0": [
-                    "n\u02d0"
-                ],
                 "o": [
                     "o"
+                ],
+                "o\u0308": [
+                    "o\u0308"
                 ],
                 "p": [
                     "p"
@@ -409,14 +357,11 @@
                 "t": [
                     "t"
                 ],
-                "t\u02d0": [
-                    "t\u02d0"
-                ],
-                "t\u0361s": [
-                    "ts"
-                ],
                 "u": [
                     "u"
+                ],
+                "u\u0308": [
+                    "u\u0308"
                 ],
                 "u\u032f": [
                     "u\u032f"
@@ -427,41 +372,20 @@
                 "v": [
                     "v"
                 ],
+                "x": [
+                    "x"
+                ],
                 "y": [
                     "y"
                 ],
                 "z": [
                     "z"
                 ],
-                "z\u02d0": [
-                    "z\u02d0"
-                ],
-                "\u00f8": [
-                    "\u00f8"
-                ],
                 "\u014b": [
                     "\u014b"
                 ],
-                "\u0252": [
-                    "\u0252"
-                ],
-                "\u0252\u0308": [
-                    "\u0252\u0308"
-                ],
-                "\u0252\u030a": [
-                    "\u0252\u0325"
-                ],
-                "\u025b": [
-                    "\u025b"
-                ],
                 "\u0261": [
                     "g"
-                ],
-                "\u0283": [
-                    "\u0283"
-                ],
-                "\u0283\u02d0": [
-                    "\u0283\u02d0"
                 ],
                 "\u03b2": [
                     "\u03b2"
@@ -471,61 +395,67 @@
                 ]
             },
             "sclass_errors": [
-                "d\u02b9",
-                "l\u02b9",
                 "\u03b3"
             ],
             "segments": {
+                "a": 21,
                 "b": 9,
+                "c": 15,
                 "d": 5,
-                "d\u02b9": 3,
-                "i": 25,
-                "j": 6,
+                "e": 17,
+                "g": 3,
+                "i": 24,
+                "j": 7,
                 "k": 22,
-                "l": 10,
-                "l\u02b9": 2,
-                "l\u02d0": 1,
+                "l": 14,
                 "m": 7,
                 "n": 4,
-                "o": 8,
+                "o": 12,
                 "p": 7,
                 "r": 15,
+                "s": 21,
                 "t": 18,
-                "t\u0361s": 15,
-                "u": 20,
+                "u": 21,
                 "u\u032f": 7,
                 "v": 9,
-                "y": 13,
-                "z": 1,
-                "\u00f8": 17,
+                "y": 5,
+                "z": 8,
+                "\u00f6": 13,
+                "\u00fc": 12,
                 "\u00fc\u032f": 4,
-                "\u0252": 19,
-                "\u0252\u030a": 2,
-                "\u025b": 17,
                 "\u0261": 2,
-                "\u0283": 7,
                 "\u03b3": 8
             }
         },
         "OH": {
             "bipa_errors": [
-                "d\u02b9",
-                "l\u02b9",
                 "\u03b3"
             ],
-            "general_errors": 40,
+            "general_errors": 11,
             "replacements": {
+                "a": [
+                    "a"
+                ],
+                "a\u0308": [
+                    "a\u0308"
+                ],
                 "b": [
                     "b"
+                ],
+                "c": [
+                    "c"
                 ],
                 "d": [
                     "d"
                 ],
-                "d\u0361z": [
-                    "dz"
-                ],
                 "e": [
                     "e"
+                ],
+                "e\u0308": [
+                    "e\u0308"
+                ],
+                "g": [
+                    "g"
                 ],
                 "h": [
                     "h"
@@ -545,23 +475,17 @@
                 "l": [
                     "l"
                 ],
-                "l\u02d0": [
-                    "l\u02d0"
-                ],
                 "m": [
                     "m"
-                ],
-                "m\u02d0": [
-                    "m\u02d0"
                 ],
                 "n": [
                     "n"
                 ],
-                "n\u02d0": [
-                    "n\u02d0"
-                ],
                 "o": [
                     "o"
+                ],
+                "o\u0308": [
+                    "o\u0308"
                 ],
                 "p": [
                     "p"
@@ -575,14 +499,11 @@
                 "t": [
                     "t"
                 ],
-                "t\u02d0": [
-                    "t\u02d0"
-                ],
-                "t\u0361s": [
-                    "ts"
-                ],
                 "u": [
                     "u"
+                ],
+                "u\u0308": [
+                    "u\u0308"
                 ],
                 "u\u032f": [
                     "u\u032f"
@@ -593,41 +514,20 @@
                 "v": [
                     "v"
                 ],
+                "x": [
+                    "x"
+                ],
                 "y": [
                     "y"
                 ],
                 "z": [
                     "z"
                 ],
-                "z\u02d0": [
-                    "z\u02d0"
-                ],
-                "\u00f8": [
-                    "\u00f8"
-                ],
                 "\u014b": [
                     "\u014b"
                 ],
-                "\u0252": [
-                    "\u0252"
-                ],
-                "\u0252\u0308": [
-                    "\u0252\u0308"
-                ],
-                "\u0252\u030a": [
-                    "\u0252\u0325"
-                ],
-                "\u025b": [
-                    "\u025b"
-                ],
                 "\u0261": [
                     "g"
-                ],
-                "\u0283": [
-                    "\u0283"
-                ],
-                "\u0283\u02d0": [
-                    "\u0283\u02d0"
                 ],
                 "\u03b2": [
                     "\u03b2"
@@ -637,42 +537,37 @@
                 ]
             },
             "sclass_errors": [
-                "d\u02b9",
-                "l\u02b9",
                 "\u03b3"
             ],
             "segments": {
+                "a": 67,
                 "b": 32,
+                "c": 28,
                 "d": 13,
-                "d\u02b9": 16,
-                "e": 1,
+                "e": 83,
+                "g": 16,
                 "h": 1,
-                "i": 59,
-                "j": 15,
+                "i": 52,
+                "j": 22,
                 "k": 57,
-                "l": 43,
-                "l\u02b9": 13,
-                "l\u02d0": 4,
+                "l": 65,
                 "m": 19,
                 "n": 42,
-                "o": 50,
+                "o": 60,
                 "p": 19,
                 "r": 67,
+                "s": 78,
                 "t": 54,
-                "t\u0361s": 28,
-                "u": 55,
+                "u": 68,
                 "u\u032f": 11,
                 "v": 12,
-                "y": 43,
-                "z": 6,
-                "\u00f8": 37,
+                "y": 37,
+                "z": 26,
+                "\u00eb": 1,
+                "\u00f6": 27,
+                "\u00fc": 30,
                 "\u00fc\u032f": 13,
-                "\u0252": 55,
-                "\u0252\u030a": 12,
-                "\u025b": 83,
                 "\u0261": 13,
-                "\u0283": 51,
-                "\u0283\u02d0": 1,
                 "\u03b3": 11,
                 "\u03c7": 3
             }
@@ -685,70 +580,56 @@
                 "EAH",
                 "116_nettleurtica",
                 "\u010dala\u03b3an",
-                "t\u0361s \u0252 l \u0252 <s> \u03b3 </s> \u0252 n"
+                "c s a l a <s> \u03b3 </s> a n"
             ],
             [
                 "EAH-141_roughcoarseuglywildunbridled-1",
                 "EAH",
                 "141_roughcoarseuglywildunbridled",
                 "\u010duna\u03b3",
-                "t\u0361s u n \u0252 <s> \u03b3 </s>"
+                "c s u n a <s> \u03b3 </s>"
             ],
             [
                 "EAH-153_nutwalnutjuglans-1",
                 "EAH",
                 "153_nutwalnutjuglans",
                 "\u01f0i\u03b3a\u03b3",
-                "j i <s> \u03b3 </s> \u0252 <s> \u03b3 </s>"
+                "j i <s> \u03b3 </s> a <s> \u03b3 </s>"
             ],
             [
                 "EAH-153_nutwalnutjuglans-2",
                 "EAH",
                 "153_nutwalnutjuglans",
                 "\u01f0i\u03b3a\u03b3",
-                "j i <s> \u03b3 </s> \u0252 <s> \u03b3 </s>"
+                "j i <s> \u03b3 </s> a <s> \u03b3 </s>"
             ],
             [
                 "EAH-154_pigsusdomestica-1",
                 "EAH",
                 "154_pigsusdomestica",
                 "\u01f0isna\u03b3",
-                "j i \u0283 n \u0252 <s> \u03b3 </s>"
-            ],
-            [
-                "EAH-160_churchbuildingandorganisation-1",
-                "EAH",
-                "160_churchbuildingandorganisation",
-                "\u00ebd\u02b9",
-                "e <s> d\u02b9 </s>"
-            ],
-            [
-                "EAH-160_churchbuildingandorganisation-2",
-                "EAH",
-                "160_churchbuildingandorganisation",
-                "\u00ebd\u02b9",
-                "e <s> d\u02b9 </s>"
+                "j i s z n a <s> \u03b3 </s>"
             ],
             [
                 "EAH-162_plough-1",
                 "EAH",
                 "162_plough",
                 "eke\u03b3",
-                "\u025b k \u025b <s> \u03b3 </s>"
+                "e k e <s> \u03b3 </s>"
             ],
             [
                 "EAH-165_communityworkinagricultureakindofcorvee-1",
                 "EAH",
                 "165_communityworkinagricultureakindofcorvee",
                 "ine\u03b3",
-                "i n \u025b <s> \u03b3 </s>"
+                "i n e <s> \u03b3 </s>"
             ],
             [
                 "EAH-170_strengthpower-1",
                 "EAH",
                 "170_strengthpower",
                 "eri\u03b3",
-                "\u025b r i <s> \u03b3 </s>"
+                "e r i <s> \u03b3 </s>"
             ],
             [
                 "EAH-17_smalltiny-1",
@@ -762,35 +643,35 @@
                 "EAH",
                 "181_matchmaker",
                 "k\u00fcde\u03b3\u00fc",
-                "k y d \u025b <s> \u03b3 </s> y"
+                "k \u00fc d e <s> \u03b3 </s> \u00fc"
             ],
             [
                 "EAH-182_gleanermousemusspicilegus-1",
                 "EAH",
                 "182_gleanermousemusspicilegus",
                 "k\u00fcse\u03b3\u00fc",
-                "k y \u0283 \u025b <s> \u03b3 </s> y"
+                "k \u00fc s z e <s> \u03b3 </s> \u00fc"
             ],
             [
                 "EAH-185_suspicionmistrust-1",
                 "EAH",
                 "185_suspicionmistrust",
                 "\u01f0ona\u03b3",
-                "j o n \u0252 <s> \u03b3 </s>"
+                "j o n a <s> \u03b3 </s>"
             ],
             [
                 "EAH-186_wool-1",
                 "EAH",
                 "186_wool",
                 "\u01f0ap\u03b3u",
-                "j \u0252 p <s> \u03b3 </s> u"
+                "j a p <s> \u03b3 </s> u"
             ],
             [
                 "EAH-190_poorfrailfeeble-1",
                 "EAH",
                 "190_poorfrailfeeble",
                 "\u01f0arl\u00ef\u03b3",
-                "j \u0252 r l \u00ef <s> \u03b3 </s>"
+                "j a r l \u00ef <s> \u03b3 </s>"
             ],
             [
                 "EAH-195_rein-1",
@@ -804,70 +685,364 @@
                 "EAH",
                 "196_borderlandhedge",
                 "\u01f0epi\u03b3",
-                "j \u025b p i <s> \u03b3 </s>"
+                "j e p i <s> \u03b3 </s>"
             ],
             [
                 "EAH-1_cannoncatapult-1",
                 "EAH",
                 "1_cannoncatapult",
                 "alda\u03b3",
-                "\u0252 l d \u0252 <s> \u03b3 </s>"
+                "a l d a <s> \u03b3 </s>"
             ],
             [
                 "EAH-201_hornbeamcarpinusbetulus-1",
                 "EAH",
                 "201_hornbeamcarpinusbetulus",
                 "\u01f0arta\u03b3an",
-                "j \u0252 r t \u0252 <s> \u03b3 </s> \u0252 n"
+                "j a r t a <s> \u03b3 </s> a n"
             ],
             [
                 "EAH-203_weed-1",
                 "EAH",
                 "203_weed",
                 "ka\u03b3zu",
-                "k \u0252 <s> \u03b3 </s> z u"
+                "k a <s> \u03b3 </s> z u"
+            ],
+            [
+                "EAH-210_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1",
+                "EAH",
+                "210_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory",
+                "\u01f0e\u03b3\u00fcz",
+                "j e <s> \u03b3 </s> \u00fc z"
+            ],
+            [
+                "EAH-212_tokneadpug-1",
+                "EAH",
+                "212_tokneadpug",
+                "\u01f0u\u03b3ur",
+                "j u <s> \u03b3 </s> u r"
+            ],
+            [
+                "EAH-213_toassemblegather-1",
+                "EAH",
+                "213_toassemblegather",
+                "\u01f0i\u03b3il",
+                "j i <s> \u03b3 </s> i l"
+            ],
+            [
+                "EAH-215_tohate-1",
+                "EAH",
+                "215_tohate",
+                "\u01f0e\u03b3ile",
+                "j e <s> \u03b3 </s> i l e"
+            ],
+            [
+                "EAH-218_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea-1",
+                "EAH",
+                "218_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea",
+                "\u01f0ere\u03b3",
+                "j e r e <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-219_ring-1",
+                "EAH",
+                "219_ring",
+                "\u01f0\u00fcr\u00fc\u03b3",
+                "j \u00fc r \u00fc <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-220_thimble-1",
+                "EAH",
+                "220_thimble",
+                "\u01f0\u00fc\u03b3s\u00fc\u03b3",
+                "j \u00fc <s> \u03b3 </s> s z \u00fc <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-221_boatship-1",
+                "EAH",
+                "221_boatship",
+                "hayi\u03b3",
+                "h a j i <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-223_hawk-1",
+                "EAH",
+                "223_hawk",
+                "xir\u03b3uy",
+                "x i r <s> \u03b3 </s> u j"
+            ],
+            [
+                "EAH-226_timeweather-1",
+                "EAH",
+                "226_timeweather",
+                "\u00fcde\u03b3",
+                "\u00fc d e <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-236_buttermilk-1",
+                "EAH",
+                "236_buttermilk",
+                "ira\u03b3",
+                "i r a <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-252_measles-1",
+                "EAH",
+                "252_measles",
+                "karamu\u03b3",
+                "k a r a m u <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-254_gate-1",
+                "EAH",
+                "254_gate",
+                "kapu\u03b3",
+                "k a p u <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-261_stakepalestick-1",
+                "EAH",
+                "261_stakepalestick",
+                "karo\u03b3",
+                "k a r o <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-263_sparrowhawkaccipiternnisus-1",
+                "EAH",
+                "263_sparrowhawkaccipiternnisus",
+                "kar\u03b3ay",
+                "k a r <s> \u03b3 </s> a j"
+            ],
+            [
+                "EAH-269_trousseaudowrygiftgivenwiththebrideorbridegroom-1",
+                "EAH",
+                "269_trousseaudowrygiftgivenwiththebrideorbridegroom",
+                "k\u00e4lin\u010d\u00e4\u03b3",
+                "k \u00e4 l i n c s \u00e4 <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-273_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven-1",
+                "EAH",
+                "273_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven",
+                "kepe\u03b3",
+                "k e p e <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-276_cud-1",
+                "EAH",
+                "276_cud",
+                "kevere\u03b3",
+                "k e v e r e <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-278_vulturevultur-1",
+                "EAH",
+                "278_vulturevultur",
+                "k\u00fc\u010dele\u03b3",
+                "k \u00fc c s e l e <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-283_smalllittle-3",
+                "EAH",
+                "283_smalllittle",
+                "ki\u010di\u03b3",
+                "k i c s i <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-293_hopshumuluslupulus-1",
+                "EAH",
+                "293_hopshumuluslupulus",
+                "kumla\u03b3",
+                "k u m l a <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-297_coffin-1",
+                "EAH",
+                "297_coffin",
+                "kopur\u010da\u03b3",
+                "k o p u r c s a <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-299_tombsmallhillelevateddryplaceinamarsh-1",
+                "EAH",
+                "299_tombsmallhillelevateddryplaceinamarsh",
+                "kor\u03b3an",
+                "k o r <s> \u03b3 </s> a n"
+            ],
+            [
+                "EAH-300_drystalkofweed-1",
+                "EAH",
+                "300_drystalkofweed",
+                "kuro\u03b3",
+                "k u r o <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-303_burn-1",
+                "EAH",
+                "303_burn",
+                "kasma\u03b3",
+                "k a s z m a <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-310_pounderbeatersmallmortar-1",
+                "EAH",
+                "310_pounderbeatersmallmortar",
+                "keli\u03b3",
+                "k e l i <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-313_book-1",
+                "EAH",
+                "313_book",
+                "k\u00fc\u0144\u00fc\u03b3",
+                "k \u00fc n y \u00fc <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-313_book-2",
+                "EAH",
+                "313_book",
+                "k\u00fc\u0144\u00fc\u03b3",
+                "k \u00fc n y \u00fc <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-314_stumpyasmallthickman-1",
+                "EAH",
+                "314_stumpyasmallthickman",
+                "k\u00f6p\u010de\u03b3",
+                "k \u00f6 p c s e <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-317_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania-1",
+                "EAH",
+                "317_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania",
+                "k\u00fcp\u00fc\u03b3",
+                "k \u00fc p \u00fc <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-319_mellowpowderycrumblyrottenmouldy-1",
+                "EAH",
+                "319_mellowpowderycrumblyrottenmouldy",
+                "kevre\u03b3",
+                "k e v r e <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-321_pearpyruscommunis-2",
+                "EAH",
+                "321_pearpyruscommunis",
+                "kertmeli\u03b3",
+                "k e r t m e l i <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-326_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1",
+                "EAH",
+                "326_afishlivingatthebottomoftherivergudgeongobiofluviatilis",
+                "k\u00f6ligeli\u03b3",
+                "k \u00f6 l i \u0261 e l i <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-327_laughingbirdpicusviridis-1",
+                "EAH",
+                "327_laughingbirdpicusviridis",
+                "k\u00fclle\u03b3",
+                "k \u00fc l l e <s> \u03b3 </s>"
             ],
             [
                 "EAH-32_toregrettobesorry-1",
                 "EAH",
                 "32_toregrettobesorry",
                 "ba\u03b3in",
-                "b \u0252 <s> \u03b3 </s> i n"
+                "b a <s> \u03b3 </s> i n"
+            ],
+            [
+                "EAH-330_chaffhuskswinnowingstailingsrefuseofgrain-1",
+                "EAH",
+                "330_chaffhuskswinnowingstailingsrefuseofgrain",
+                "u\u010do\u03b3",
+                "u c s o <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-333_stycattlepensheepfold-1",
+                "EAH",
+                "333_stycattlepensheepfold",
+                "a\u03b3ul",
+                "a <s> \u03b3 </s> u l"
+            ],
+            [
+                "EAH-334_cheap-1",
+                "EAH",
+                "334_cheap",
+                "u\u010da\u03b3",
+                "u c s a <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-335_kidofagoat-1",
+                "EAH",
+                "335_kidofagoat",
+                "o\u03b3la\u03b3",
+                "o <s> \u03b3 </s> l a <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-336_spermseminalfluid-1",
+                "EAH",
+                "336_spermseminalfluid",
+                "unda\u03b3",
+                "u n d a <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-341_spindlewhorl-1",
+                "EAH",
+                "341_spindlewhorl",
+                "ur\u010du\u03b3",
+                "u r c s u <s> \u03b3 </s>"
+            ],
+            [
+                "EAH-342_thief-1",
+                "EAH",
+                "342_thief",
+                "u\u03b3ru",
+                "u <s> \u03b3 </s> r u"
+            ],
+            [
+                "EAH-347_hawkbuzzardbuteobuteo-1",
+                "EAH",
+                "347_hawkbuzzardbuteobuteo",
+                "eli\u03b3",
+                "e l i <s> \u03b3 </s>"
             ],
             [
                 "EAH-38_courageousbravevaliant-1",
                 "EAH",
                 "38_courageousbravevaliant",
                 "ba\u03b3atur",
-                "b \u0252 <s> \u03b3 </s> \u0252 t u r"
+                "b a <s> \u03b3 </s> a t u r"
             ],
             [
                 "EAH-41_hobbleshacklelegiron-1",
                 "EAH",
                 "41_hobbleshacklelegiron",
                 "bika\u03b3u",
-                "b i k \u0252 <s> \u03b3 </s> u"
+                "b i k a <s> \u03b3 </s> u"
             ],
             [
                 "EAH-41_hobbleshacklelegiron-2",
                 "EAH",
                 "41_hobbleshacklelegiron",
                 "bika\u03b3u",
-                "b i k \u0252 <s> \u03b3 </s> u"
+                "b i k a <s> \u03b3 </s> u"
             ],
             [
                 "EAH-46_grainorsmallglobuleofpreciousmetal-1",
                 "EAH",
                 "46_grainorsmallglobuleofpreciousmetal",
                 "b\u00fcrti\u03b3",
-                "b y r t i <s> \u03b3 </s>"
+                "b \u00fc r t i <s> \u03b3 </s>"
             ],
             [
                 "EAH-48_pechenegnameofatribe-1",
                 "EAH",
                 "48_pechenegnameofatribe",
                 "be\u0161ene\u03b3",
-                "b \u025b \u0283 \u025b n \u025b <s> \u03b3 </s>"
+                "b e s e n e <s> \u03b3 </s>"
             ],
             [
                 "EAH-49_letterofthealphabet-1",
@@ -895,7 +1070,7 @@
                 "EAH",
                 "62_burdockarctiumsp",
                 "baltur\u03b3an",
-                "b \u0252 l t u r <s> \u03b3 </s> \u0252 n"
+                "b a l t u r <s> \u03b3 </s> a n"
             ],
             [
                 "EAH-66_anthill-1",
@@ -909,21 +1084,21 @@
                 "EAH",
                 "70_calf",
                 "bura\u03b3u",
-                "b u r \u0252 <s> \u03b3 </s> u"
+                "b u r a <s> \u03b3 </s> u"
             ],
             [
                 "EAH-72_peapisumsativumbean-1",
                 "EAH",
                 "72_peapisumsativumbean",
                 "bur\u010da\u03b3",
-                "b u r t\u0361s \u0252 <s> \u03b3 </s>"
+                "b u r c s a <s> \u03b3 </s>"
             ],
             [
                 "EAH-76_revenge-1",
                 "EAH",
                 "76_revenge",
                 "bosu\u03b3",
-                "b o \u0283 u <s> \u03b3 </s>"
+                "b o s z u <s> \u03b3 </s>"
             ],
             [
                 "EAH-80_stickcane-1",
@@ -958,28 +1133,28 @@
                 "EAH",
                 "82_richabundantroomy",
                 "be\u03b3",
-                "b \u025b <s> \u03b3 </s>"
+                "b e <s> \u03b3 </s>"
             ],
             [
                 "EAH-84_fasting-1",
                 "EAH",
                 "84_fasting",
                 "b\u00fc\u03b3te",
-                "b y <s> \u03b3 </s> t \u025b"
+                "b \u00fc <s> \u03b3 </s> t e"
             ],
             [
                 "EAH-85_wise-1",
                 "EAH",
                 "85_wise",
                 "b\u00fc\u03b3\u00fc\u010di",
-                "b y <s> \u03b3 </s> y t\u0361s i"
+                "b \u00fc <s> \u03b3 </s> \u00fc c s i"
             ],
             [
                 "EAH-86_cradle-1",
                 "EAH",
                 "86_cradle",
                 "bel\u010de\u03b3",
-                "b \u025b l t\u0361s \u025b <s> \u03b3 </s>"
+                "b e l c s e <s> \u03b3 </s>"
             ],
             [
                 "EAH-89_sadbadtempered-1",
@@ -993,294 +1168,56 @@
                 "EAH",
                 "90_farewellindulgencededicationfestivalannualparishfeast",
                 "bul\u010du\u03b3",
-                "b u l t\u0361s u <s> \u03b3 </s>"
+                "b u l c s u <s> \u03b3 </s>"
             ],
             [
                 "EAH-94_wheattriticum-1",
                 "EAH",
                 "94_wheattriticum",
                 "bu\u03b3zai",
-                "b u <s> \u03b3 </s> z \u0252 i"
+                "b u <s> \u03b3 </s> z a i"
             ],
             [
                 "EAH-98_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1",
                 "EAH",
                 "98_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill",
                 "b\u00fct\u00fc\u03b3",
-                "b y t y <s> \u03b3 </s>"
+                "b \u00fc t \u00fc <s> \u03b3 </s>"
             ],
             [
                 "EAH-99_magical-1",
                 "EAH",
                 "99_magical",
                 "b\u00fc\u03b3\u00fc",
-                "b y <s> \u03b3 </s> y"
-            ],
-            [
-                "H-104_trapsnareforcatchingbirdsbirdcage-3",
-                "H",
-                "104_trapsnareforcatchingbirdsbirdcage",
-                "\u010dekl\u02b9e",
-                "t\u0361s \u025b k <s> l\u02b9 </s> \u025b"
-            ],
-            [
-                "H-105_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1",
-                "H",
-                "105_akindofwillowusedforbasketsandinviticulturesalixpurpurea",
-                "\u010digol\u02b9\u00e5",
-                "t\u0361s i \u0261 o <s> l\u02b9 </s> \u0252\u030a"
-            ],
-            [
-                "H-160_churchbuildingandorganisation-1",
-                "H",
-                "160_churchbuildingandorganisation",
-                "\u00ebd\u02b9h\u0101z",
-                "e <s> d\u02b9 </s> h \u0252 z"
-            ],
-            [
-                "H-160_churchbuildingandorganisation-2",
-                "H",
-                "160_churchbuildingandorganisation",
-                "\u00ebd\u02b9h\u0101z",
-                "e <s> d\u02b9 </s> h \u0252 z"
-            ],
-            [
-                "H-181_matchmaker-1",
-                "H",
-                "181_matchmaker",
-                "g\u00fcd\u02b9\u01d6",
-                "\u0261 y <s> d\u02b9 </s> y"
-            ],
-            [
-                "H-183_toabusecalumniate-1",
-                "H",
-                "183_toabusecalumniate",
-                "d\u02b9\u00e5l\u0101z",
-                "<s> d\u02b9 </s> \u0252\u030a l \u0252 z"
-            ],
-            [
-                "H-184_dragnetakindoffishingnet-1",
-                "H",
-                "184_dragnetakindoffishingnet",
-                "d\u02b9\u00e5lom",
-                "<s> d\u02b9 </s> \u0252\u030a l o m"
-            ],
-            [
-                "H-185_suspicionmistrust-1",
-                "H",
-                "185_suspicionmistrust",
-                "d\u02b9\u00e5n\u016b",
-                "<s> d\u02b9 </s> \u0252\u030a n u"
-            ],
-            [
-                "H-186_wool-1",
-                "H",
-                "186_wool",
-                "d\u02b9\u00e5py\u016b",
-                "<s> d\u02b9 </s> \u0252\u030a p i u"
-            ],
-            [
-                "H-187_cotton-1",
-                "H",
-                "187_cotton",
-                "d\u02b9\u00e5pot",
-                "<s> d\u02b9 </s> \u0252\u030a p o t"
-            ],
-            [
-                "H-189_toincreasetoputonweighttogrowstronger-1",
-                "H",
-                "189_toincreasetoputonweighttogrowstronger",
-                "d\u02b9\u00e5r\u00e5podik",
-                "<s> d\u02b9 </s> \u0252\u030a r \u0252\u030a p o d i k"
-            ],
-            [
-                "H-189_toincreasetoputonweighttogrowstronger-2",
-                "H",
-                "189_toincreasetoputonweighttogrowstronger",
-                "d\u02b9\u00e5r\u00e5psik",
-                "<s> d\u02b9 </s> \u0252\u030a r \u0252\u030a p \u0283 i k"
-            ],
-            [
-                "H-190_poorfrailfeeble-1",
-                "H",
-                "190_poorfrailfeeble",
-                "d\u02b9\u00e5rl\u014d",
-                "<s> d\u02b9 </s> \u0252\u030a r l o"
-            ],
-            [
-                "H-191_toproducebuildfabricate-1",
-                "H",
-                "191_toproducebuildfabricate",
-                "d\u02b9\u0101rt",
-                "<s> d\u02b9 </s> \u0252 r t"
-            ],
-            [
-                "H-192_mourningbereavement-1",
-                "H",
-                "192_mourningbereavement",
-                "d\u02b9\u0101s",
-                "<s> d\u02b9 </s> \u0252 \u0283"
-            ],
-            [
-                "H-193_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes-1",
-                "H",
-                "193_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes",
-                "d\u02b9\u0113k\u0113\u0144",
-                "<s> d\u02b9 </s> \u025b k \u025b n"
-            ],
-            [
-                "H-194_weakfeeble-1",
-                "H",
-                "194_weakfeeble",
-                "d\u02b9\u00ebnge",
-                "<s> d\u02b9 </s> e n \u0261 \u025b"
-            ],
-            [
-                "H-195_rein-1",
-                "H",
-                "195_rein",
-                "d\u02b9epl\u022b",
-                "<s> d\u02b9 </s> \u025b p l \u00f8"
-            ],
-            [
-                "H-196_borderlandhedge-1",
-                "H",
-                "196_borderlandhedge",
-                "d\u02b9ep\u01d6",
-                "<s> d\u02b9 </s> \u025b p y"
-            ],
-            [
-                "H-197_lawngrassplot-1",
-                "H",
-                "197_lawngrassplot",
-                "d\u02b9ep",
-                "<s> d\u02b9 </s> \u025b p"
-            ],
-            [
-                "H-199_child-1",
-                "H",
-                "199_child",
-                "d\u02b9ermek",
-                "<s> d\u02b9 </s> \u025b r m \u025b k"
-            ],
-            [
-                "H-199_child-2",
-                "H",
-                "199_child",
-                "d\u02b9ermek",
-                "<s> d\u02b9 </s> \u025b r m \u025b k"
-            ],
-            [
-                "H-1_cannoncatapult-1",
-                "H",
-                "1_cannoncatapult",
-                "\u0101d\u02b9\u016b",
-                "\u0252 <s> d\u02b9 </s> u"
-            ],
-            [
-                "H-200_candle-1",
-                "H",
-                "200_candle",
-                "d\u02b9ert\u02b9\u00e5",
-                "<s> d\u02b9 </s> \u025b r <s> t\u02b9 </s> \u0252\u030a"
-            ],
-            [
-                "H-201_hornbeamcarpinusbetulus-1",
-                "H",
-                "201_hornbeamcarpinusbetulus",
-                "d\u02b9ert\u02b9\u0101n",
-                "<s> d\u02b9 </s> \u025b r <s> t\u02b9 </s> \u0252 n"
-            ],
-            [
-                "H-202_murderkiller-1",
-                "H",
-                "202_murderkiller",
-                "d\u02b9ilko\u0161",
-                "<s> d\u02b9 </s> i l k o \u0283"
-            ],
-            [
-                "H-203_weed-2",
-                "H",
-                "203_weed",
-                "d\u02b9om",
-                "<s> d\u02b9 </s> o m"
-            ],
-            [
-                "H-204_stomach-1",
-                "H",
-                "204_stomach",
-                "d\u02b9omor",
-                "<s> d\u02b9 </s> o m o r"
-            ],
-            [
-                "H-41_hobbleshacklelegiron-2",
-                "H",
-                "41_hobbleshacklelegiron",
-                "b\u0113kl\u02b9\u014d",
-                "b \u025b k <s> l\u02b9 </s> o"
-            ],
-            [
-                "H-42_stampbondmark-1",
-                "H",
-                "42_stampbondmark",
-                "b\u0113l\u02b9eg",
-                "b \u025b <s> l\u02b9 </s> \u025b \u0261"
-            ],
-            [
-                "H-60_stackofhay-1",
-                "H",
-                "60_stackofhay",
-                "bogl\u02b9\u00e5",
-                "b o \u0261 <s> l\u02b9 </s> \u0252\u030a"
-            ],
-            [
-                "H-66_anthill-1",
-                "H",
-                "66_anthill",
-                "bol\u02b9",
-                "b o <s> l\u02b9 </s>"
-            ],
-            [
-                "H-83_horseflygadfly-1",
-                "H",
-                "83_horseflygadfly",
-                "b\u00f6g\u00f6l\u02b9",
-                "b \u00f8 \u0261 \u00f8 <s> l\u02b9 </s>"
+                "b \u00fc <s> \u03b3 </s> \u00fc"
             ],
             [
                 "LAH-153_nutwalnutjuglans-1",
                 "LAH",
                 "153_nutwalnutjuglans",
                 "\u01f0i\u03b3au\u032f",
-                "j i <s> \u03b3 </s> \u0252 u\u032f"
+                "j i <s> \u03b3 </s> a u\u032f"
             ],
             [
                 "LAH-153_nutwalnutjuglans-2",
                 "LAH",
                 "153_nutwalnutjuglans",
                 "\u01f0i\u03b3au\u032f",
-                "j i <s> \u03b3 </s> \u0252 u\u032f"
-            ],
-            [
-                "LAH-181_matchmaker-1",
-                "LAH",
-                "181_matchmaker",
-                "k\u00fcd\u02b9e\u00fc\u032f",
-                "k y <s> d\u02b9 </s> \u025b \u00fc\u032f"
+                "j i <s> \u03b3 </s> a u\u032f"
             ],
             [
                 "LAH-182_gleanermousemusspicilegus-1",
                 "LAH",
                 "182_gleanermousemusspicilegus",
                 "k\u00fcze\u03b3\u00fc",
-                "k y z \u025b <s> \u03b3 </s> y"
+                "k \u00fc z e <s> \u03b3 </s> \u00fc"
             ],
             [
-                "LAH-60_stackofhay-1",
+                "LAH-326_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1",
                 "LAH",
-                "60_stackofhay",
-                "bogul\u02b9a",
-                "b o \u0261 u <s> l\u02b9 </s> \u0252"
+                "326_afishlivingatthebottomoftherivergudgeongobiofluviatilis",
+                "k\u00f6lli\u03b3",
+                "k \u00f6 l l i <s> \u03b3 </s>"
             ],
             [
                 "LAH-61_tasselfringetuftnode-1",
@@ -1290,81 +1227,46 @@
                 "b u <s> \u03b3 </s> t"
             ],
             [
-                "LAH-83_horseflygadfly-1",
-                "LAH",
-                "83_horseflygadfly",
-                "b\u00f6g\u00f6l\u02b9\u00f6k",
-                "b \u00f8 \u0261 \u00f8 <s> l\u02b9 </s> \u00f8 k"
+                "OH-276_cud-1",
+                "OH",
+                "276_cud",
+                "kevre\u03b3",
+                "k e v r e <s> \u03b3 </s>"
             ],
             [
-                "OH-105_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1",
+                "OH-313_book-1",
                 "OH",
-                "105_akindofwillowusedforbasketsandinviticulturesalixpurpurea",
-                "\u010digol\u02b9a",
-                "t\u0361s i \u0261 o <s> l\u02b9 </s> \u0252"
+                "313_book",
+                "k\u00f6\u0144\u00fc\u03b3",
+                "k \u00f6 n y \u00fc <s> \u03b3 </s>"
             ],
             [
-                "OH-181_matchmaker-1",
+                "OH-313_book-2",
                 "OH",
-                "181_matchmaker",
-                "k\u00fcd\u02b9\u01d6",
-                "k y <s> d\u02b9 </s> y"
+                "313_book",
+                "k\u00f6\u0144\u00fc\u03b3",
+                "k \u00f6 n y \u00fc <s> \u03b3 </s>"
             ],
             [
-                "OH-183_toabusecalumniate-1",
+                "OH-326_afishlivingatthebottomoftherivergudgeongobiofluviatilis-1",
                 "OH",
-                "183_toabusecalumniate",
-                "d\u02b9ala",
-                "<s> d\u02b9 </s> \u0252 l \u0252"
+                "326_afishlivingatthebottomoftherivergudgeongobiofluviatilis",
+                "k\u00fclli\u03b3",
+                "k \u00fc l l i <s> \u03b3 </s>"
             ],
             [
-                "OH-189_toincreasetoputonweighttogrowstronger-1",
+                "OH-333_stycattlepensheepfold-1",
                 "OH",
-                "189_toincreasetoputonweighttogrowstronger",
-                "d\u02b9\u00e5r\u00e5p",
-                "<s> d\u02b9 </s> \u0252\u030a r \u0252\u030a p"
+                "333_stycattlepensheepfold",
+                "o\u03b3ul",
+                "o <s> \u03b3 </s> u l"
             ],
             [
-                "OH-189_toincreasetoputonweighttogrowstronger-2",
+                "OH-335_kidofagoat-1",
                 "OH",
-                "189_toincreasetoputonweighttogrowstronger",
-                "d\u02b9\u00e5r\u00e5p",
-                "<s> d\u02b9 </s> \u0252\u030a r \u0252\u030a p"
-            ],
-            [
-                "OH-191_toproducebuildfabricate-1",
-                "OH",
-                "191_toproducebuildfabricate",
-                "d\u02b9arat",
-                "<s> d\u02b9 </s> \u0252 r \u0252 t"
-            ],
-            [
-                "OH-1_cannoncatapult-1",
-                "OH",
-                "1_cannoncatapult",
-                "\u0101ld\u02b9\u016b",
-                "\u0252 l <s> d\u02b9 </s> u"
-            ],
-            [
-                "OH-42_stampbondmark-1",
-                "OH",
-                "42_stampbondmark",
-                "b\u0113l\u02b9eg",
-                "b \u025b <s> l\u02b9 </s> \u025b \u0261"
-            ],
-            [
-                "OH-60_stackofhay-1",
-                "OH",
-                "60_stackofhay",
-                "bogl\u02b9\u00e5",
-                "b o \u0261 <s> l\u02b9 </s> \u0252\u030a"
-            ],
-            [
-                "OH-66_anthill-1",
-                "OH",
-                "66_anthill",
-                "bol\u02b9",
-                "b o <s> l\u02b9 </s>"
+                "335_kidofagoat",
+                "o\u03b3lou\u032f",
+                "o <s> \u03b3 </s> l o u\u032f"
             ],
             [
                 "OH-70_calf-1",
@@ -1372,38 +1274,40 @@
                 "70_calf",
                 "bur\u03b3u",
                 "b u r <s> \u03b3 </s> u"
-            ],
-            [
-                "OH-83_horseflygadfly-1",
-                "OH",
-                "83_horseflygadfly",
-                "b\u00f6g\u00f6l\u02b9",
-                "b \u00f8 \u0261 \u00f8 <s> l\u02b9 </s>"
             ]
         ],
-        "bad_words_count": 256,
+        "bad_words_count": 153,
         "bipa_errors": [
-            "d\u02b9",
-            "l\u02b9",
-            "\u03b3",
-            "t\u02b9"
+            "\u03b3"
         ],
-        "general_errors": 263,
+        "general_errors": 157,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 32.75,
+        "inventory_size": 29.0,
         "replacements": {
+            "a": [
+                "a"
+            ],
+            "a\u0308": [
+                "a\u0308"
+            ],
             "b": [
                 "b"
+            ],
+            "c": [
+                "c"
             ],
             "d": [
                 "d"
             ],
-            "d\u0361z": [
-                "dz"
-            ],
             "e": [
                 "e"
+            ],
+            "e\u0308": [
+                "e\u0308"
+            ],
+            "g": [
+                "g"
             ],
             "h": [
                 "h"
@@ -1423,23 +1327,17 @@
             "l": [
                 "l"
             ],
-            "l\u02d0": [
-                "l\u02d0"
-            ],
             "m": [
                 "m"
-            ],
-            "m\u02d0": [
-                "m\u02d0"
             ],
             "n": [
                 "n"
             ],
-            "n\u02d0": [
-                "n\u02d0"
-            ],
             "o": [
                 "o"
+            ],
+            "o\u0308": [
+                "o\u0308"
             ],
             "p": [
                 "p"
@@ -1453,14 +1351,11 @@
             "t": [
                 "t"
             ],
-            "t\u02d0": [
-                "t\u02d0"
-            ],
-            "t\u0361s": [
-                "ts"
-            ],
             "u": [
                 "u"
+            ],
+            "u\u0308": [
+                "u\u0308"
             ],
             "u\u032f": [
                 "u\u032f"
@@ -1471,41 +1366,20 @@
             "v": [
                 "v"
             ],
+            "x": [
+                "x"
+            ],
             "y": [
                 "y"
             ],
             "z": [
                 "z"
             ],
-            "z\u02d0": [
-                "z\u02d0"
-            ],
-            "\u00f8": [
-                "\u00f8"
-            ],
             "\u014b": [
                 "\u014b"
             ],
-            "\u0252": [
-                "\u0252"
-            ],
-            "\u0252\u0308": [
-                "\u0252\u0308"
-            ],
-            "\u0252\u030a": [
-                "\u0252\u0325"
-            ],
-            "\u025b": [
-                "\u025b"
-            ],
             "\u0261": [
                 "g"
-            ],
-            "\u0283": [
-                "\u0283"
-            ],
-            "\u0283\u02d0": [
-                "\u0283\u02d0"
             ],
             "\u03b2": [
                 "\u03b2"
@@ -1515,53 +1389,41 @@
             ]
         },
         "sclass_errors": [
-            "d\u02b9",
-            "l\u02b9",
-            "\u03b3",
-            "t\u02b9"
+            "\u03b3"
         ],
         "segments": {
+            "a": 589,
             "b": 197,
-            "d": 106,
-            "d\u02b9": 68,
-            "d\u0361z": 1,
-            "e": 9,
+            "c": 232,
+            "d": 107,
+            "e": 509,
+            "g": 68,
             "h": 12,
-            "i": 379,
-            "j": 63,
-            "k": 472,
-            "l": 280,
-            "l\u02b9": 35,
-            "l\u02d0": 16,
-            "m": 122,
-            "m\u02d0": 1,
-            "n": 295,
-            "n\u02d0": 1,
-            "o": 282,
+            "i": 331,
+            "j": 111,
+            "k": 471,
+            "l": 348,
+            "m": 124,
+            "n": 297,
+            "o": 339,
             "p": 92,
             "r": 459,
-            "s": 2,
-            "t": 309,
-            "t\u02b9": 3,
-            "t\u02d0": 2,
-            "t\u0361s": 232,
-            "u": 240,
+            "s": 515,
+            "t": 316,
+            "u": 287,
             "u\u032f": 18,
             "v": 76,
-            "y": 217,
-            "z": 46,
-            "z\u02d0": 1,
+            "x": 1,
+            "y": 165,
+            "z": 220,
+            "\u00e4": 10,
+            "\u00eb": 9,
             "\u00ef": 6,
-            "\u00f8": 231,
+            "\u00f6": 174,
+            "\u00fc": 170,
             "\u00fc\u032f": 21,
             "\u014b": 1,
-            "\u0252": 424,
-            "\u0252\u0308": 10,
-            "\u0252\u030a": 165,
-            "\u025b": 509,
             "\u0261": 115,
-            "\u0283": 290,
-            "\u0283\u02d0": 3,
             "\u03b2": 1,
             "\u03b3": 157,
             "\u03c7": 3
