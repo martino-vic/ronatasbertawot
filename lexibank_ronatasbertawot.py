@@ -70,3 +70,15 @@ class Dataset(BaseDataset):
                             Cognateset_ID=cogid,
                             Source="wot"
                             )
+
+        with self.cldf_writer(args) as writer:
+
+            writer.cldf.add_component(
+                "BorrowingTable",
+                {"name": "lol", "datatype": "string"},
+                {"name": "Etymology", "datatype": "string"}
+            )
+            for fidx in ["a", "b", "c"]:
+                writer.objects["BorrowingTable"].append({
+                    "lol": fidx,
+                    })
