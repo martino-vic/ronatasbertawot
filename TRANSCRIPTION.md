@@ -47,7 +47,7 @@
 | h | 12 | ✓ | ✓ |
 | e | 9 | ✓ | ✓ |
 | ɯ | 6 | ✓ | ✓ |
-| tʹ | 3 | ? | ? |
+| c | 3 | ✓ | ✓ |
 | χ | 3 | ✓ | ✓ |
 | d͡z | 1 | ✓ | ✓ |
 | ŋ | 1 | ✓ | ✓ |
@@ -68,11 +68,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:--------------------------------|:-----------|:----------------------------|:---------|:-----------------------|
-| H-200_candle-1 | H | 200_candle | dʹertʹå | ɟ ɛ r <s> tʹ </s> ɒ |
-| H-201_hornbeamcarpinusbetulus-1 | H | 201_hornbeamcarpinusbetulus | dʹertʹān | ɟ ɛ r <s> tʹ </s> aː n |
-| H-495_hen-1 | H | 495_hen | tʹūk | <s> tʹ </s> uː k |
+|------|------------|-----------|--------|------------|
 
-(3 rows)
+(0 rows)
 
 

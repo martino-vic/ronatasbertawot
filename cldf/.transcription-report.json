@@ -13,6 +13,9 @@
                 "b": [
                     "b"
                 ],
+                "c": [
+                    "c"
+                ],
                 "d": [
                     "d"
                 ],
@@ -185,10 +188,8 @@
             }
         },
         "H": {
-            "bipa_errors": [
-                "t\u02b9"
-            ],
-            "general_errors": 3,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "a": [
                     "a"
@@ -198,6 +199,9 @@
                 ],
                 "b": [
                     "b"
+                ],
+                "c": [
+                    "c"
                 ],
                 "d": [
                     "d"
@@ -326,12 +330,11 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [
-                "t\u02b9"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "a\u02d0": 97,
                 "b": 80,
+                "c": 3,
                 "d": 55,
                 "d\u0361z": 1,
                 "e": 4,
@@ -350,7 +353,6 @@
                 "r": 195,
                 "s": 71,
                 "t": 124,
-                "t\u02b9": 3,
                 "t\u0361s": 11,
                 "t\u0361\u0283": 76,
                 "u": 23,
@@ -382,6 +384,9 @@
                 ],
                 "b": [
                     "b"
+                ],
+                "c": [
+                    "c"
                 ],
                 "d": [
                     "d"
@@ -564,6 +569,9 @@
                 "b": [
                     "b"
                 ],
+                "c": [
+                    "c"
+                ],
                 "d": [
                     "d"
                 ],
@@ -739,34 +747,10 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "H-200_candle-1",
-                "H",
-                "200_candle",
-                "d\u02b9ert\u02b9\u00e5",
-                "\u025f \u025b r <s> t\u02b9 </s> \u0252"
-            ],
-            [
-                "H-201_hornbeamcarpinusbetulus-1",
-                "H",
-                "201_hornbeamcarpinusbetulus",
-                "d\u02b9ert\u02b9\u0101n",
-                "\u025f \u025b r <s> t\u02b9 </s> a\u02d0 n"
-            ],
-            [
-                "H-495_hen-1",
-                "H",
-                "495_hen",
-                "t\u02b9\u016bk",
-                "<s> t\u02b9 </s> u\u02d0 k"
-            ]
-        ],
-        "bad_words_count": 3,
-        "bipa_errors": [
-            "t\u02b9"
-        ],
-        "general_errors": 3,
+        "bad_words": [],
+        "bad_words_count": 0,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
         "inventory_size": 39.25,
@@ -779,6 +763,9 @@
             ],
             "b": [
                 "b"
+            ],
+            "c": [
+                "c"
             ],
             "d": [
                 "d"
@@ -907,13 +894,12 @@
                 "\u03c7"
             ]
         },
-        "sclass_errors": [
-            "t\u02b9"
-        ],
+        "sclass_errors": [],
         "segments": {
             "a": 300,
             "a\u02d0": 124,
             "b": 197,
+            "c": 3,
             "d": 106,
             "d\u0361z": 1,
             "d\u0361\u0292": 62,
@@ -933,7 +919,6 @@
             "r": 459,
             "s": 171,
             "t": 313,
-            "t\u02b9": 3,
             "t\u0361s": 15,
             "t\u0361\u0283": 217,
             "u": 203,

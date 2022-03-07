@@ -20,7 +20,7 @@ def main():
     pd.read_csv(in_path, usecols=["Form", "Language_ID"])\
       .assign(IPA=lambda x: list(map(segment, x.Form)))\
       .rename(columns={"Form": "Grapheme"})\
-      .drop_duplicates()\
+      .drop_duplicates(subset=["Grapheme", "IPA"])\
       .to_csv(out_path, index=False, encoding="utf-8", sep="\t")
 
 if __name__ == "__main__":

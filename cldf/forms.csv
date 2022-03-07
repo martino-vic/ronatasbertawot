@@ -476,9 +476,9 @@ H-199_child-1,,H,199_child,dʹermek,dʹermek,ɟ ɛ r m ɛ k,,wot,198,true,^ dʹe
 EAH-199_child-1,,EAH,199_child,ǰärmäk,ǰärmäk,d͡ʒ ɛ r m ɛ k,,wot,198,true,^ ǰärmäk $,default
 H-199_child-2,,H,199_child,dʹermek,dʹermek,ɟ ɛ r m ɛ k,,wot,199,true,^ dʹermek $,default
 EAH-199_child-2,,EAH,199_child,ǰärmäk,ǰärmäk,d͡ʒ ɛ r m ɛ k,,wot,199,true,^ ǰärmäk $,default
-H-200_candle-1,,H,200_candle,dʹertʹå,dʹertʹå,ɟ ɛ r tʹ ɒ,,wot,200,true,^ dʹertʹå $,default
+H-200_candle-1,,H,200_candle,dʹertʹå,dʹertʹå,ɟ ɛ r c ɒ,,wot,200,true,^ dʹertʹå $,default
 EAH-200_candle-1,,EAH,200_candle,ǰarta,ǰarta,d͡ʒ a r t a,,wot,200,true,^ ǰarta $,default
-H-201_hornbeamcarpinusbetulus-1,,H,201_hornbeamcarpinusbetulus,dʹertʹān,dʹertʹān,ɟ ɛ r tʹ aː n,,wot,201,true,^ dʹertʹān $,default
+H-201_hornbeamcarpinusbetulus-1,,H,201_hornbeamcarpinusbetulus,dʹertʹān,dʹertʹān,ɟ ɛ r c aː n,,wot,201,true,^ dʹertʹān $,default
 OH-201_hornbeamcarpinusbetulus-1,,OH,201_hornbeamcarpinusbetulus,ǰartān,ǰartān,d͡ʒ a r t aː n,,wot,201,true,^ ǰartān $,default
 EAH-201_hornbeamcarpinusbetulus-1,,EAH,201_hornbeamcarpinusbetulus,ǰartaγan,ǰartaγan,d͡ʒ a r t a ɣ a n,,wot,201,true,^ ǰartaγan $,default
 H-202_murderkiller-1,,H,202_murderkiller,dʹilkoš,dʹilkoš,ɟ i l k o ʃ,,wot,202,true,^ dʹilkoš $,default
@@ -1215,7 +1215,7 @@ H-493_toenduresufferbearstand-1,,H,493_toenduresufferbearstand,tǖr,tǖr,t yː r
 EAH-493_toenduresufferbearstand-1,,EAH,493_toenduresufferbearstand,tür,tür,t y r,,wot,493,true,^ tür $,default
 H-494_torollupascrolloronessleeves-1,,H,494_torollupascrolloronessleeves,tǖr,tǖr,t yː r,,wot,494,true,^ tǖr $,default
 EAH-494_torollupascrolloronessleeves-1,,EAH,494_torollupascrolloronessleeves,tür,tür,t y r,,wot,494,true,^ tür $,default
-H-495_hen-1,,H,495_hen,tʹūk,tʹūk,tʹ uː k,,wot,495,true,^ tʹūk $,default
+H-495_hen-1,,H,495_hen,tʹūk,tʹūk,c uː k,,wot,495,true,^ tʹūk $,default
 OH-495_hen-1,,OH,495_hen,tiuk,tiuk,t i u k,,wot,495,true,^ tiuk $,default
 LAH-495_hen-1,,LAH,495_hen,tiwuk,tiwuk,t i w u k,,wot,495,true,^ tiwuk $,default
 EAH-495_hen-1,,EAH,495_hen,tiγuk,tiγuk,t i ɣ u k,,wot,495,true,^ tiγuk $,default
