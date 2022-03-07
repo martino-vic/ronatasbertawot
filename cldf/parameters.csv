@@ -1,245 +1,425 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
 1_cannoncatapult,"cannon, catapult",3202,CANNON
+2_tofondlepetcaress,"to fondle, pet, caress",3780,PET
 6_streamcurrent,"stream, current",2935,CURRENT (STREAM)
 7_falseimitation,"false, imitation",3069,FALSE
 11_piedofananimalscoat,pied (of an animals coat),,
+12_apple,apple,1320,APPLE
 14_barrelwoodencontainerandstandardquantity,barrel (wooden container andstandard quantity),2548,BARREL
 15_tonursetakecareof,"to nurse, take care of",2472,"SUCKLE (BREASTFEED, NURSE)"
+16_todecayputrifyturnstale,"to decay, putrify, turn stale",2907,ROT
 17_smalltiny,"small, tiny",1246,SMALL
 19_tomow,to mow,190,MOW
+20_todecayputrefygobadoffoodwater,"to decay, putrefy, go bad (of food, water)",2907,ROT
 21_toharm,to harm,44,INJURE
+22_atypeoflasso,a type of lasso,,
 23_ditchcanal,"ditch, canal",2002,DITCH
+24_barleyhordeum,"barley, Hordeum",932,BARLEY
 25_barrow,barrow,2565,CASTRATED BOAR
+26_gauntrygantryforsupportingbarrels,"gauntry, gantry (for supporting barrels)",,
 27_charm,charm,,
+28_soggyplacemoorswampmarsh,"soggy place, moor, swamp, marsh",1145,SWAMP
 29_hatchetaxe,"hatchet, axe",677,AXE
+30_paganidolstoneorwoodenpillarverticalbeamofdifferentwoodeninstrumentsstrongcorpulentperson,"pagan idol, stone or wooden pillar, vertical beam of different wooden instruments, strong, corpulent person",857,STONE
 31_governorofcroatiagovernorofthesouthernmarches,"governor of Croatia, governor of the southern marches",,
+32_toregrettobesorry,"to regret, to be sorry",1875,REGRET
 33_hairybushyofdogsabighairydogasnoun,"hairy, bushy (of dogs); a big hairy dog (as noun)",,
+34_labeltag,"label, tag",,
 35_cattlelivestock,"cattle, livestock",1153,CATTLE
+36_velvet,velvet,,
 37_tofuck,to fuck,,
+38_courageousbravevaliant,"courageous, brave, valiant",3,BRAVE
 39_frog,frog,503,FROG
-42_hobbleshacklelegiron,"hobble, shackle, leg-iron",,
-43_stampbondmark,"stamp, bond, mark",1720,SIGN
-46_togive,to give,1447,GIVE
-47_grainorsmallglobuleofpreciousmetal,grain or small globule of preciousmetal,605,GRAIN
-49_pechenegnameofatribe,"Pecheneg, name of a tribe",,
-53_pocketknife,pocket knife,3742,POCKETKNIFE
-55_shackles,shackles,,
-57_tobeforgivenbocsanat,"to be forgiven, bocsánat",,
-59_bucklerwithhandlehandleofdifferentarms,"buckler with handle, handle of different arms",,
-61_stackofhay,stack of hay,,
-63_burdockarctiumsp,"burdock, Arctium sp.",,
-66_ankleboot,ankle boot,,
-67_anthill,anthill,1873,ANTHILL
-70_tocovertooverturn,"to cover, to overturn",761,COVER
-71_calf,calf,1989,CALF
-73_peapisumsativumbean,"pea, Pisum sativum; bean",832,BEAN
-75_witchsorceress,"witch, sorceress",824,WITCH
-77_revenge,revenge,495,REVENGE
-81_stickcane,"stick, cane",1295,STICK
-83_richabundantroomy,"rich; abundant, roomy",712,RICH
-85_fasting,fast(ing),1631,FAST
-87_cradle,cradle,2946,CRADLE
-89_prisonjail,"prison, jail",1281,PRISON
-91_farewellindulgencededicationfestivalannualparishfeast,"farewell, indulgence, dedication festival, annual parish-feast",3554,GOODBYE
-93_volgabulgar,Volga Bulgar,,
-95_wheattriticum,"wheat, Triticum",1077,WHEAT
-97_beech,beech,1950,BEECH
-99_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,"(blunt) end of something, a rod with an end cut, obtuse end of a field-strip, the shorter side or end of a piece of furniture, foot of the hill",,
-101_akindofwillowsalixelgnos,"a kind of willow, Salix elægnos",,
-105_trapsnareforcatchingbirdsbirdcage,trap; snare (for catching birds); bird cage,1075,TRAP (PITFALL)
-107_akindofwillow,a kind of willow,,
-111_akindofwolfsmilkeasterflowereuphorbia,"a kind of wolfs milk, Easter flower, Euphorbia",,
-113_onlyjust,"only, just",1580,ONLY
-117_nettleurtica,"nettle, Urtica",33,NETTLE
-119_thicketbrushwooddryfoliagegrovemeadow,"thicket, brushwood; dry foliage, grove, meadow",2819,GRASSLAND
-122_fightingtrooparmygroupbattlequarrelhubbubflock,"fighting, troop, army group, battle, quarrel, hubbub, flock",1848,QUARREL
-123_toaddtojointobuckleupsomething,"to add, to join; to buckle up something",1743,JOIN
-126_measlesmallpoxpocksskineruptiondecorativeembroidery,"measle, smallpox, pocks; skin eruption; decorative embroidery",1054,SMALLPOX
-127_tobindsomething,to bind (something),1917,TIE
-130_awineoflowqualityafruitwine,"a wine of low quality, a fruit wine",,
-131_secretionmucusdischargedfromtheeyes,"secretion, mucus discharged from the eyes",,
-133_acarpentersaxewithalonghelve,a carpenters axe with a long helve,,
-136_stallion,stallion,936,STALLION
-137_sexualorganoflargemaleanimalsofabullawhipmadefromit,"sexual organ of large male animals, of a bull; a whip made from it",,
-139_tobecomesmallerremainsmalltoswaytotottertosprain,"to become smaller, remain small, to sway, to totter, tosprain",573,SWAY
-141_fieldguardheraldturkishenvoy,field-guard; herald; Turkish envoy,,
-143_towindtoturntodistrortmisinterprettospinayarn,"to wind, to turn, to distrort, misinterpret, to spin a yarn",1588,TURN
-145_excellentworthless,excellent; worthless,,
-148_gristgroatssofthail,"grist, groats, soft hail",,
-152_noonsouth,"noon, south",12,MIDDAY
-154_nutwalnutjuglans,"nut; walnut, Juglans",2042,WALNUT
-155_pigsusdomestica,"pig, Sus domestica",1337,PIG
-157_toleantoppleoverstreamdown,"to lean, topple over, stream down",3619,LEAN
-159_tosqueezetothrustinto,"to squeeze, to thrust into",1414,SQUEEZE
-161_churchbuildingandorganisation,church (building and organisation),1349,CHURCH
-163_plough,plough,2154,PLOUGH (INSTRUMENT)
-165_topropitiate,to propitiate,,
-167_toarrivetoreachgetto,"to arrive, to reach, get to",1387,ARRIVE
-169_moralsmorality,"morals, morality",,
-171_strengthpower,"strength, power",2526,POWER
-173_oath,oath,1712,OATH
-176_rivernameofariver,"river, name of a river",666,RIVER
-179_pelicanpelicanus,"pelican, Pelicanus",472,PELICAN
-181_polecatputoriusfoetidus,"polecat, Putorius foetidus",,
-183_gleanermousemusspicilegus,"gleaner mouse, Mus spicilegus",,
-185_dragnetakindoffishingnet,"drag-net, a kind of fishing net",,
-187_wool,wool,964,WOOL
-190_toincreasetoputonweighttogrowstronger,"to increase, to put on weight, to grow stronger",1041,INCREASE
-191_poorfrailfeeble,"poor, frail, feeble",1674,POOR
-193_mourningbereavement,"mourning, bereavement",3673,MOURNING
-195_weakfeeble,"weak, feeble",1601,WEAK
-197_borderlandhedge,"borderland, hedge",,
-200_child,child,2099,CHILD
-201_candle,candle,1273,CANDLE
-203_murderkiller,"murder, killer",845,MURDER
-204_weed,weed,3288,WEED
-205_stomach,stomach,819,STOMACH
-207_toconfesssins,‘to confess (sins)’,,
-209_pearl,pearl,3325,PEARL
-211_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory,"to conquer (somebody, something), triumph (over somebody, something), gain victory",3849,TRIUMPH
-213_tokneadpug,"to knead, pug",274,KNEAD
-215_tocollectgathersomething,"to collect,gather something",,
-217_fruit,fruit,1507,FRUIT
-219_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea,"a kind of tree similar to the maple or cornel, Acer tataricum, Cornussanguinea",,
-221_thimble,thimble,,
-223_bell,bell,2246,BELL
-225_sand,sand,671,SAND
-227_timeweather,"time, weather",892,TIME
-230_tobefrightenedtotakefright,"to be frightened, to take fright",,
-231_twin,twin,1005,TWINS
-233_tosuitsomethingtobepropertofitinto,"to suit something, to be proper, to fit into",,
-235_shirt,shirt,1622,SHIRT
-237_buttermilk,buttermilk,,
-239_nameofanethnicgroupofiranianorigininhungary,name of an ethnic group of Iranian origin in Hungary,,
-241_bulrushclubrushdifferentplantslikeschoenoplectuscyperace,"bulrush, club-rush, different plants like Schoenoplectus (Cyperaceæ)",,
-243_guidepilotconductorticketinspector,"guide, pilot; conductor, ticket inspector",43,LEAD (GUIDE)
-247_awaterplantstratiotesaloides,"a water plant, Stratiotes aloides",,
-250_whiplash,"whip, lash",2630,WHIP
-251_saddlestrap,saddle strap,,
-253_measles,measles,3389,MEASLES
-255_gate,gate,2940,GATE
-257_damageloss,"damage, loss",2947,DAMAGE (INJURY)
-259_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,"sheepfold, cattlegrid, stockyard, a yard encircled by a fence, shedfor animals",,
-261_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,"pink, several kinds of pink, Danthus, D. caryophyllus, several members of the Caryophillaceæ",3446,PINK
-263_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,"a fishing water bird with black feathers, cormorant,Phalacrocorax carbo",840,CORMORANT
-265_chicorycichoriumspcichoriumintybus,"chicory, Cichorium sp., Cichorium intybus",,
-267_bosombreast,"bosom, breast",1402,BREAST
-269_blue,blue,837,BLUE
-271_hempcannabis,"hemp, Cannabis",2041,HEMP
-273_pictureshapeform,"picture, shape, form",2401,PICTURE
-275_akindofship,a kind of ship,,
-277_cud,cud,,
-279_vulturevultur,"vulture, Vultur",1185,VULTURE
-283_small,small,1246,SMALL
-284_smalllittle,"small, little",1246,SMALL
-285_felt,felt,325,FELT
-287_abirdsimilartoafalconakindofbirdofprey,"‘a bird similar to a falcon, a kind of bird of prey’",,
-289_gourdcalabashlagenariavulgarisheadbillycockhat,"gourd, calabash, Lagenaria vulgaris; head, billy-cock-hat",1256,HEAD
-291_tobegtomendicate,"to beg, to mendicate",3534,BEG
-293_beggar,beggar,1934,BEGGAR
-295_timothygrassphleumphleumsp,"timothy-grass, phleum, Phleum sp.",,
-297_gloomygravemorosesombredullcolourednotproperlycastrated,"gloomy, grave, morose, sombre, dull-coloured; not properly castrated",1773,GRAVE
-299_ageperiod,"age, period",1789,AGE
-301_drystalkofweed,dry stalk of weed,,
-303_ram,ram,1344,RAM
-306_frocksheepskinwaistcoat,"frock, sheepskin waistcoat",,
-307_blackthornprunusspinosa,"blackthorn, Prunus spinosa",,
-309_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre,"the navel; various parts of agricultural and other instruments,around which something turns or rotates or which is in the centre",1838,NAVEL
-311_pounderbeatersmallmortar,"pounder, beater, small mortar",2459,GRINDSTONE
-314_book,book,963,BOOK
-315_stumpyasmallthickman,"stumpy, a small, thick man",1246,SMALL
-317_cloakgownovercoat,"cloak, gown, overcoat",326,CLOAK
-319_ashtreefraxinussp,"ash tree, Fraxinus sp.",,
-322_pearpyruscommunis,"pear, Pyrus communis",922,PEAR
-323_togreettothank,"to greet, to thank",3552,GREET
-325_akindofdogahungarianbreedofsheepdog,"a kind of dog, a Hungarian breed of sheepdog",,
-327_afishlivingatthebottomoftherivergudgeongobiofluviatilis,"a fish living at the bottom of the river, gudgeon, Gobio fluviatilis",,
-329_drysummerfograinbow,"dry summer fog, rainbow",1733,RAINBOW
-331_chaffhuskswinnowingstailingsrefuseofgrain,"chaff, husks, winnowings, tailings, refuse of grain",2363,CHAFF (HUSK)
-333_toteach,to teach,709,TEACH
-335_cheap,cheap,1887,CHEAP
-337_spermseminalfluid,"sperm, seminal fluid",1505,SPERM
-339_crumbofbreadmorselasmallpieceofbread,"crumb (of bread), morsel, a small piece of bread",,
-341_lion,lion,1386,LION
-343_thief,thief,1160,THIEF
-345_cuneinplayinostabla,cune in play in ostábla,,
-347_tostitchtoputonadress,"to stitch, to put on a dress",,
-349_totakeroottogrowstrongerplantanimal,"to take root, to grow stronger (plant, animal)",619,ANIMAL
-351_millingproduct,milling product,,
-353_eternal,eternal,,
-355_tobecomemad,to become mad,,
-360_whirlpooleddy,"whirlpool, eddy",1982,WHIRLPOOL
-361_flooddelugestream,"flood, deluge, stream",947,STREAM
-363_cheese,cheese,1569,CHEESE
-366_yellow,yellow,1424,YELLOW
-367_dragon,dragon,2038,DRAGON
-369_atypeofwildonionornithogalum,"a type of wild onion, Ornithogalum",,
-371_tent,tent,1316,TENT
-373_tosweeptobroom,"to sweep, to broom",230,SWEEP
-376_draffleesdregsofwine,"draff, lees, dregs of wine",,
-377_toinjuretohurt,"to injure, to hurt",44,INJURE
-379_anit,a nit,267,NIT
-381_alsoshortsheavesusedtostrengthenathatchedroof,also short sheaves used to strengthen athatched roof,,
-383_smoothsimit,"smooth, simít",1234,SMOOTH
-385_springwellbrook,"spring, well, brook",1537,SPRINGTIME
-388_falcon,falcon,3258,FALCON
-390_dogwoodtreecornelcornus,"dogwood (tree), cornel, Cornus",,
-391_beer,beer,1639,BEER
-393_pikeperchzanderstizostedionlucioperca,"pike perch, zander, Stizostedion lucioperca",,
-395_densethickofwoodsorsoup,"dense, thick (of woods or soup)",2239,DENSE
-397_brotherinlaw,brother-in-law,2314,BROTHER-IN-LAW
-399_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken,"uvula, the recurved point of a fishing hook or a lance, red wattle on a chicken",2293,UVULA
-401_raft,raft,1664,RAFT
-403_tohavepityfortoregret,"to have pity for, to regret",1875,REGRET
-405_trousseaubox,trousseau box,,
-407_lightcolouredyellowishpalepartlybald,"light-coloured, yellowish, pale, (partly) bald",1125,BALD
-409_grocergrandhandler,"grocer, grand handler",,
-411_wind,wind,960,WIND
-419_toslumbertodoze,"to slumber, to doze",,
-421_frecklesunspotstain,"freckle, sun spot, stain",530,FRECKLE
-423_fumesvapourspiritsalcoholhumours,"fumes, vapour, spirits, alcohol, humours",404,ALCOHOL (FERMENTED DRINK)
-426_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,"thin hide rope, strap (used for embroidery or as a whip), refrozen thin layer after the melting of snow",2973,STRAP
-427_rockcliffocciputcrestofmountain,"rock, cliff, occiput, crest (of mountain)",992,CLIFF
-429_akindoffalconpielfalcusgyrfalco,"a kind of falcon, Pielfalcus, Gyrfalco",,
-431_grasshopper,grasshopper,607,GRASSHOPPER
-436_grapewinegrapevitisvinifer,"grape, wine grape, Vitis vinifer",920,GRAPE
-437_mosquitognatculexpipens,"mosquito, gnat, Culex pipens",1509,MOSQUITO
-439_toceasetostop,"to cease, to stop",1928,CEASE
-441_virginpure,"virgin, pure",1147,PURE
-443_advicecouncil,advice; council,,
-445_tofeedtonourish,"to feed, to nourish",739,FEED
-447_bald,bald,1125,BALD
-449_ploughfieldarablefieldstubblefield,"plough field, arable field, stubble field",,
-451_tatar,Tatar,,
-453_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind,"name of several kinds of plants, e.g. Anemosphoros, Buniasorientalis, Napus, Crambe tatarica; storm wind",,
-455_troughwashtubhutch,"trough, wash tub, hutch",205,TROUGH
-457_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,"a piece of land, field, parcel, patch, a higher place where animals rest and accumulate dung",212,FIELD
-459_axle,axle,1769,AXLE
-462_toturntochangetheoriginaldirection,"to turn, to change the original direction",1588,TURN
-463_knee,knee,1371,KNEE
-465_camel,camel,1871,CAMEL
-467_steeryoungbullockox,"steer, young bullock, ox",1169,OX
-469_tolayeggs,to lay eggs,2464,LAY EGGS
-471_oneyearoldlamb,one-year-old lamb,,
-473_horseradisharmoraciarusticana,"horseradish, Armoracia rusticana",,
-475_topileuptobecomeblocked,"to pile up, to become blocked",1576,PILE UP
-477_slovak,Slovak,,
-479_innumerable,innumerable,,
-481_snaretrap,"snare, trap",1075,TRAP (PITFALL)
-483_tohappentooccur,"to happen, to occur",248,HAPPEN
-485_peatturfdrieddung,"peat, turf, dried dung",,
-487_cottagecheesecheesecurds,"cottage cheese, cheese curds",,
-489_bustardotis,"bustard, Otis",,
-493_mirror,mirror,1171,MIRROR
-495_torollupascrolloronessleeves,to roll up (a scroll or ones sleeves),,
-497_owlstrix,"owl, Strix",735,OWL
-499_torefreshoneselftoresttobecomecured,"to refresh oneself, to rest, to become cured",168,REST
-501_heiferroedoe,"heifer, roe doe",,
-503_groundsquirrelcitelluscitellus,"ground squirrel, Citellus citellus",,
-505_wormwoodartemisiabitterness,"wormwood, Artemisia; bitterness",887,BITTER
-508_hotembersextinguishedembers,"hot embers, extinguished embers",,
-509_oneyearoldfemalesheep,one-year-old female sheep,,
-511_troughtray,"trough, tray",205,TROUGH
-514_aholeintheiceforfishing,a hole in the ice (for fishing),,
-515_guest,guest,1782,GUEST
-517_gablefrontispiece,"gable, frontispiece",,
+41_hobbleshacklelegiron,"hobble, shackle, leg-iron",,
+42_stampbondmark,"stamp, bond, mark",1720,SIGN
+43_wagerent,"wage, rent",,
+45_togive,to give,1447,GIVE
+46_grainorsmallglobuleofpreciousmetal,grain or small globule of preciousmetal,605,GRAIN
+47_abirdofprey,a bird of prey,,
+48_pechenegnameofatribe,"Pecheneg, name of a tribe",,
+49_letterofthealphabet,letter (of the alphabet),1612,LETTER
+52_pocketknife,pocket knife,3742,POCKETKNIFE
+53_bull,bull,1008,BULL
+54_shackles,shackles,,
+55_judge,judge,861,JUDGE
+56_tobeforgivenbocsanat,"to be forgiven, bocsánat",,
+57_toforgive,to forgive,1528,FORGIVE
+58_bucklerwithhandlehandleofdifferentarms,"buckler with handle, handle of different arms",,
+59_knotbend,"knot, bend",760,KNOT
+60_stackofhay,stack of hay,,
+61_tasselfringetuftnode,"tassel, fringe, tuft, node",2989,FRINGE
+62_burdockarctiumsp,"burdock, Arctium sp.",,
+63_ankle,ankle,803,ANKLE
+65_ankleboot,ankle boot,,
+66_anthill,anthill,1873,ANTHILL
+67_wine,wine,1524,WINE
+69_tocovertooverturn,"to cover, to overturn",761,COVER
+70_calf,calf,1989,CALF
+71_pepper,pepper,1385,PEPPER
+72_peapisumsativumbean,"pea, Pisum sativum; bean",832,BEAN
+73_badgermelesmeles,"badger, Meles meles",3717,BADGER
+74_witchsorceress,"witch, sorceress",824,WITCH
+75_toannoy,to annoy,2892,MAKE ANGRY (ANNOY)
+76_revenge,revenge,495,REVENGE
+80_stickcane,"stick, cane",1295,STICK
+81_akindofbeeralcoholicbeverage,"a kind of beer, alcoholic beverage",404,ALCOHOL (FERMENTED DRINK)
+82_richabundantroomy,"rich; abundant, roomy",712,RICH
+83_horseflygadfly,"horsefly, gadfly",3262,HORSEFLY
+84_fasting,fast(ing),1631,FAST
+85_wise,wise,698,WISE
+86_cradle,cradle,2946,CRADLE
+87_bison,bison,3142,BISON
+88_prisonjail,"prison, jail",1281,PRISON
+89_sadbadtempered,"sad, bad-tempered",699,SAD
+90_farewellindulgencededicationfestivalannualparishfeast,"farewell, indulgence, dedication festival, annual parish-feast",3554,GOODBYE
+91_oxalsooxgoatramwithoutorwithsmallorunusualhornsstupid,"ox; also ox, goat, ram without or with small or unusual horns;stupid",1502,GOAT
+92_volgabulgar,Volga Bulgar,,
+93_steamvapourfumesheat,"steam, vapour, fumes; heat",1193,STEAM
+94_wheattriticum,"wheat, Triticum",1077,WHEAT
+95_clubmacereedmace,"club, mace, reed-mace",1763,CLUB
+96_beech,beech,1950,BEECH
+97_sin,sin,2971,SIN
+98_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill,"(blunt) end of something, a rod with an end cut, obtuse end of a field-strip, the shorter side or end of a piece of furniture, foot of the hill",,
+99_magical,magical,,
+100_akindofwillowsalixelgnos,"a kind of willow, Salix elægnos",,
+104_trapsnareforcatchingbirdsbirdcage,trap; snare (for catching birds); bird cage,1075,TRAP (PITFALL)
+105_akindofwillowusedforbasketsandinviticulturesalixpurpurea,"a kind of willow, used for baskets and in viticulture, Salix purpurea",,
+106_akindofwillow,a kind of willow,,
+110_akindofwolfsmilkeasterflowereuphorbia,"a kind of wolfs milk, Easter flower, Euphorbia",,
+111_afishleuciscussouffiaagassizi,"a fish, Leuciscus souffia agassizi",227,FISH
+112_onlyjust,"only, just",1580,ONLY
+113_pickaxemaceasmallaxewarhammer,pick-axe; mace; a small axe; war hammer,,
+116_nettleurtica,"nettle, Urtica",33,NETTLE
+117_thicketbrushwooddryfoliagegrovemeadow,"thicket, brushwood, dry foliage, grove, meadow",2819,GRASSLAND
+118_thicketbrushwooddryfoliagegrovemeadow,"thicket, brushwood; dry foliage, grove, meadow",2819,GRASSLAND
+119_silvercupwoodenladleearthenwarebowl,"(silver) cup, wooden ladle, earthenware bowl",476,CUP
+121_fightingtrooparmygroupbattlequarrelhubbubflock,"fighting, troop, army group, battle, quarrel, hubbub, flock",1848,QUARREL
+122_toaddtojointobuckleupsomething,"to add, to join; to buckle up something",1743,JOIN
+123_clasp,clasp,,
+125_measlesmallpoxpocksskineruptiondecorativeembroidery,"measle, smallpox, pocks; skin eruption; decorative embroidery",1054,SMALLPOX
+126_tobindsomething,to bind (something),1917,TIE
+127_snailhelixsnailshellpulleyvertebra,"snail, Helix; snail-shell, pulley, vertebra",1543,SNAIL
+129_awineoflowqualityafruitwine,"a wine of low quality, a fruit wine",,
+130_secretionmucusdischargedfromtheeyes,"secretion, mucus discharged from the eyes",,
+131_squinteyedblindinoneeyeonearmedonelegged,"squint-eyed, blind in one eye, onearmed, one-legged",87,SQUINT-EYED
+132_acarpentersaxewithalonghelve,a carpenters axe with a long helve,,
+135_stallion,stallion,936,STALLION
+136_sexualorganoflargemaleanimalsofabullawhipmadefromit,"sexual organ of large male animals, of a bull; a whip made from it",,
+137_feastchristeningfeastatbaptism,"feast, christening feast (at baptism)",,
+138_tobecomesmallerremainsmalltoswaytotottertosprain,"to become smaller, remain small, to sway, to totter, tosprain",573,SWAY
+139_stubborn,stubborn,3634,STUBBORN
+140_fieldguardheraldturkishenvoy,field-guard; herald; Turkish envoy,,
+141_roughcoarseuglywildunbridled,"rough, coarse; ugly; wild, unbridled",1548,UGLY
+142_towindtoturntodistrortmisinterprettospinayarn,"to wind, to turn, to distrort, misinterpret, to spin a yarn",1588,TURN
+143_bobbinspindle,"bobbin, spindle",277,SPINDLE
+144_excellentworthless,excellent; worthless,,
+145_ashortfurcoat,a short fur coat,,
+147_gristgroatssofthail,"grist, groats, soft hail",,
+151_noonsouth,"noon, south",12,MIDDAY
+153_nutwalnutjuglans,"nut; walnut, Juglans",2042,WALNUT
+154_pigsusdomestica,"pig, Sus domestica",1337,PIG
+156_toleantoppleoverstreamdown,"to lean, topple over, stream down",3619,LEAN
+158_tosqueezetothrustinto,"to squeeze, to thrust into",1414,SQUEEZE
+160_churchbuildingandorganisation,church (building and organisation),1349,CHURCH
+161_wedge,wedge,,
+162_plough,plough,2154,PLOUGH (INSTRUMENT)
+163_toallowpermitconcedeyieldgiveway,"to allow, permit, concede; yield, give way",3238,ALLOW
+164_topropitiate,to propitiate,,
+165_communityworkinagricultureakindofcorvee,"community work in agriculture, a kind of corvée",,
+166_toarrivetoreachgetto,"to arrive, to reach, get to",1387,ARRIVE
+167_merit,merit,,
+168_moralsmorality,"morals, morality",,
+169_totirelosevitalityslackenrelax,"to tire, lose vitality, slacken, relax",168,REST
+170_strengthpower,"strength, power",2526,POWER
+172_oath,oath,1712,OATH
+173_reasonmind,"reason, mind",1562,MIND
+175_rivernameofariver,"river, name of a river",666,RIVER
+178_pelicanpelicanus,"pelican, Pelicanus",472,PELICAN
+180_polecatputoriusfoetidus,"polecat, Putorius foetidus",,
+181_matchmaker,matchmaker,,
+182_gleanermousemusspicilegus,"gleaner mouse, Mus spicilegus",,
+183_toabusecalumniate,"to abuse, calumniate",1953,ABUSE
+184_dragnetakindoffishingnet,"drag-net, a kind of fishing net",,
+185_suspicionmistrust,"suspicion, mistrust",3197,SUSPICION
+186_wool,wool,964,WOOL
+187_cotton,cotton,1850,COTTON
+189_toincreasetoputonweighttogrowstronger,"to increase, to put on weight, to grow stronger",1041,INCREASE
+190_poorfrailfeeble,"poor, frail, feeble",1674,POOR
+191_toproducebuildfabricate,"to produce, build, fabricate",2886,PRODUCE
+192_mourningbereavement,"mourning, bereavement",3673,MOURNING
+193_bulrushtyphalatifoliaangustifoliamattingmadeofbulrushes,"bulrush, Typha latifolia / angustifolia; matting made of bulrushes",,
+194_weakfeeble,"weak, feeble",1601,WEAK
+195_rein,rein,,
+196_borderlandhedge,"borderland, hedge",,
+197_lawngrassplot,"lawn,grass-(plot)",606,GRASS
+199_child,child,2099,CHILD
+200_candle,candle,1273,CANDLE
+201_hornbeamcarpinusbetulus,"hornbeam, Carpinus betulus",,
+202_murderkiller,"murder, killer",845,MURDER
+203_weed,weed,3288,WEED
+204_stomach,stomach,819,STOMACH
+206_toconfesssins,‘to confess (sins)’,,
+207_cudweedgnaphaliumedelweiss,"cudweed, Gnaphalium; Edelweiss",,
+208_pearl,pearl,3325,PEARL
+209_totorturetomakesuffer,"to torture, to make suffer",1952,TORTURE
+210_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory,"to conquer (somebody, something), triumph (over somebody, something), gain victory",3849,TRIUMPH
+211_tocatchfirebekindledtobeignited,"to catch fire, be kindled, to be ignited",,
+212_tokneadpug,"to knead, pug",274,KNEAD
+213_toassemblegather,"to assemble, gather",7,GATHER
+214_tocollectgathersomething,"to collect,gather something",,
+215_tohate,to hate,1607,HATE
+216_fruit,fruit,1507,FRUIT
+217_hawthornaplantsimilartothewhitethornorelder,"hawthorn, a plant similar to the whitethorn, or elder",1168,HAWTHORN
+218_akindoftreesimilartothemapleorcornelacertataricumcornussanguinea,"a kind of tree similar to the maple or cornel, Acer tataricum, Cornussanguinea",,
+219_ring,ring,1374,RING
+220_thimble,thimble,,
+221_boatship,"boat, ship",1844,BOAT
+222_bell,bell,2246,BELL
+223_hawk,hawk,307,HAWK
+224_sand,sand,671,SAND
+225_nooseloopsnare,"noose, loop, snare",2604,NOOSE
+226_timeweather,"time, weather",892,TIME
+227_yesaffirmativeparticlevery,"yes; affirmative particle, very",1268,YES
+229_tobefrightenedtotakefright,"to be frightened, to take fright",,
+230_twin,twin,1005,TWINS
+231_properbehaviour,proper behaviour,,
+232_tosuitsomethingtobepropertofitinto,"to suit something, to be proper, to fit into",,
+233_toadoreworship,"to adore, worship",257,WORSHIP
+234_shirt,shirt,1622,SHIRT
+235_towrite,to write,1672,WRITE
+236_buttermilk,buttermilk,,
+237_toglowbehot,"to glow, be hot",1286,HOT
+238_nameofanethnicgroupofiranianorigininhungary,name of an ethnic group of Iranian origin in Hungary,,
+239_dolessdolittle,"do-less, do-little",,
+240_bulrushclubrushdifferentplantslikeschoenoplectuscyperace,"bulrush, club-rush, different plants like Schoenoplectus (Cyperaceæ)",,
+242_guidepilotconductorticketinspector,"guide, pilot; conductor, ticket inspector",43,LEAD (GUIDE)
+243_anethnicgroupofmuslimfaithinmediaevalhungary,an ethnic group of Muslim faith in Mediaeval Hungary,,
+246_awaterplantstratiotesaloides,"a water plant, Stratiotes aloides",,
+249_whiplash,"whip, lash",2630,WHIP
+250_saddlestrap,saddle strap,,
+251_bridlereins,"bridle, reins",,
+252_measles,measles,3389,MEASLES
+253_trapsnare,"trap, snare",1075,TRAP (PITFALL)
+254_gate,gate,2940,GATE
+255_arm,arm,1673,ARM
+256_damageloss,"damage, loss",2947,DAMAGE (INJURY)
+257_manofgritstoutfellow,"man of grit, stout fellow",,
+258_sheepfoldcattlegridstockyardayardencircledbyafenceshedforanimals,"sheepfold, cattlegrid, stockyard, a yard encircled by a fence, shedfor animals",,
+260_pinkseveralkindsofpinkdanthusdcaryophyllusseveralmembersofthecaryophillace,"pink, several kinds of pink, Danthus, D. caryophyllus, several members of the Caryophillaceæ",3446,PINK
+261_stakepalestick,"stake, pale, stick",1295,STICK
+262_afishingwaterbirdwithblackfeatherscormorantphalacrocoraxcarbo,"a fishing water bird with black feathers, cormorant,Phalacrocorax carbo",840,CORMORANT
+263_sparrowhawkaccipiternnisus,"sparrow hawk, Accipiter n. nisus",,
+264_chicorycichoriumspcichoriumintybus,"chicory, Cichorium sp., Cichorium intybus",,
+265_anethnicnamekazar,"an ethnic name, Kazar",,
+266_bosombreast,"bosom, breast",1402,BREAST
+267_goatcaprahircus,"goat, Capra hircus",1502,GOAT
+268_blue,blue,837,BLUE
+269_trousseaudowrygiftgivenwiththebrideorbridegroom,"trousseau, dowry, gift given with the bride or bridegroom",3168,DOWRY
+270_hempcannabis,"hemp, Cannabis",2041,HEMP
+271_mercury,mercury,,
+272_pictureshapeform,"picture, shape, form",2401,PICTURE
+273_shockshooksheavesplacedcrosswisealsoaunitofgrainpaidorgiven,"shock, shook, sheaves placed crosswise, also a unit of grain paid orgiven",,
+274_akindofship,a kind of ship,,
+275_toruminateofbovines,to ruminate (of bovines),3680,RUMINATE
+276_cud,cud,,
+277_gardenplaceforanimals,"garden, place for animals",586,GARDEN
+278_vulturevultur,"vulture, Vultur",1185,VULTURE
+279_tobebecomelate,"to be, become late",1579,BE
+282_small,small,1246,SMALL
+283_smalllittle,"small, little",1246,SMALL
+284_felt,felt,325,FELT
+285_wildmeadowsaffroncolchicumautumnalelionstoothtaraxacum,"wild/meadow saffron, Colchicum autumnale; lions tooth, Taraxacum",2230,UNTAMED OR WILD
+286_abirdsimilartoafalconakindofbirdofprey,"‘a bird similar to a falcon, a kind of bird of prey’",,
+287_pain,pain,1783,PAIN
+288_gourdcalabashlagenariavulgarisheadbillycockhat,"gourd, calabash, Lagenaria vulgaris; head, billy-cock-hat",1256,HEAD
+289_lutecittern,"lute, cittern",,
+290_tobegtomendicate,"to beg, to mendicate",3534,BEG
+292_beggar,beggar,1934,BEGGAR
+293_hopshumuluslupulus,"hops, Humulus lupulus",3316,HOPS
+294_timothygrassphleumphleumsp,"timothy-grass, phleum, Phleum sp.",,
+295_akindofhungariansheepdog,a kind of Hungarian sheepdog,,
+296_gloomygravemorosesombredullcolourednotproperlycastrated,"gloomy, grave, morose, sombre, dull-coloured; not properly castrated",1773,GRAVE
+297_coffin,coffin,2011,COFFIN
+298_ageperiod,"age, period",1789,AGE
+299_tombsmallhillelevateddryplaceinamarsh,"tomb, small hill, elevated, dry place in a marsh",1773,GRAVE
+300_drystalkofweed,dry stalk of weed,,
+301_soot,soot,830,SOOT
+302_ram,ram,1344,RAM
+303_burn,burn,2102,BURN
+305_frocksheepskinwaistcoat,"frock, sheepskin waistcoat",,
+306_blackthornprunusspinosa,"blackthorn, Prunus spinosa",,
+307_loan,loan,,
+308_thenavelvariouspartsofagriculturalandotherinstrumentsaroundwhichsomethingturnsorrotatesorwhichisinthecentre,"the navel; various parts of agricultural and other instruments,around which something turns or rotates or which is in the centre",1838,NAVEL
+309_youngofananimalkidpuppylad,"young of an animal, kid, puppy, lad",1972,KID
+310_pounderbeatersmallmortar,"pounder, beater, small mortar",2459,GRINDSTONE
+311_breaststrap,breast strap,,
+313_book,book,963,BOOK
+314_stumpyasmallthickman,"stumpy, a small, thick man",1246,SMALL
+315_akindofhungariansheepdogkomondor,"a kind of Hungarian sheepdog, komondor",,
+316_cloakgownovercoat,"cloak, gown, overcoat",326,CLOAK
+317_churnbeehiveanythingwithahollowpartinwhichsomethingcanbefittedinatroughtrayforchannellingwaterthesameusedasasmallbridgethelatterintranslyvania,"churn, beehive, anything with a hollow part in which something canbe fitted in, a trough, tray for channelling water, the same used as a small bridge (the latter in Translyvania)",88,BEEHIVE
+318_ashtreefraxinussp,"ash tree, Fraxinus sp.",,
+319_mellowpowderycrumblyrottenmouldy,"mellow, powdery, crumbly, rotten, mouldy",1728,ROTTEN
+321_pearpyruscommunis,"pear, Pyrus communis",922,PEAR
+322_togreettothank,"to greet, to thank",3552,GREET
+323_thecumanethnicgroupinhungary,the Cuman ethnic group in Hungary,,
+324_akindofdogahungarianbreedofsheepdog,"a kind of dog, a Hungarian breed of sheepdog",,
+326_afishlivingatthebottomoftherivergudgeongobiofluviatilis,"a fish living at the bottom of the river, gudgeon, Gobio fluviatilis",,
+327_laughingbirdpicusviridis,"laughing bird, Picus viridis",,
+328_drysummerfograinbow,"dry summer fog, rainbow",1733,RAINBOW
+329_thenameofagroupofmilitarypeopleinhungarythecumanbodyguardtothehungarianking,"the name of a group of military people in Hungary,the Cuman bodyguard to the Hungarian king",,
+330_chaffhuskswinnowingstailingsrefuseofgrain,"chaff, husks, winnowings, tailings, refuse of grain",2363,CHAFF (HUSK)
+331_causereason,"cause, reason",860,CAUSE
+332_toteach,to teach,709,TEACH
+333_stycattlepensheepfold,"sty, cattle pen, sheepfold",,
+334_cheap,cheap,1887,CHEAP
+335_kidofagoat,kid (of a goat),1972,KID
+336_spermseminalfluid,"sperm, seminal fluid",1505,SPERM
+338_crumbofbreadmorselasmallpieceofbread,"crumb (of bread), morsel, a small piece of bread",,
+339_russian,Russian,,
+340_lion,lion,1386,LION
+341_spindlewhorl,"spindle, whorl",277,SPINDLE
+342_thief,thief,1160,THIEF
+343_physician,physician,597,PHYSICIAN
+344_cuneinplayinostabla,cune in play in ostábla,,
+345_ox,ox,1169,OX
+346_tostitchtoputonadress,"to stitch, to put on a dress",,
+347_hawkbuzzardbuteobuteo,"hawk, buzzard, Buteo buteo",307,HAWK
+348_totakeroottogrowstrongerplantanimal,"to take root, to grow stronger (plant, animal)",619,ANIMAL
+349_togrindmill,"to grind, mill",1033,GRIND
+350_millingproduct,milling product,,
+351_armenian,Armenian,,
+352_eternal,eternal,,
+353_torejoicetobeglad,"to rejoice, to be glad",2192,REJOICE
+354_tobecomemad,to become mad,,
+359_whirlpooleddy,"whirlpool, eddy",1982,WHIRLPOOL
+360_flooddelugestream,"flood, deluge, stream",947,STREAM
+362_cheese,cheese,1569,CHEESE
+363_mudmarsh,"mud, marsh",640,MUD
+365_yellow,yellow,1424,YELLOW
+366_dragon,dragon,2038,DRAGON
+367_sickle,sickle,341,SICKLE
+368_atypeofwildonionornithogalum,"a type of wild onion, Ornithogalum",,
+369_footwearsandals,"footwear, sandals",,
+370_tent,tent,1316,TENT
+371_fastquick,"fast, quick",1631,FAST
+372_tosweeptobroom,"to sweep, to broom",230,SWEEP
+373_broom,broom,245,BROOM
+375_draffleesdregsofwine,"draff, lees, dregs of wine",,
+376_toinjuretohurt,"to injure, to hurt",44,INJURE
+377_armytroopscrowd,"army, troops, crowd",1561,ARMY
+378_anit,a nit,267,NIT
+379_cupgoblet,"cup, goblet",476,CUP
+380_alsoshortsheavesusedtostrengthenathatchedroof,also short sheaves used to strengthen athatched roof,,
+381_evenflatopenwater,"even, flat, open (water)",1633,FLAT
+382_smoothsimit,"smooth, simít",1234,SMOOTH
+383_runningwaterrunningchannelunderamill,"running water, running channel under a mill",,
+384_springwellbrook,"spring, well, brook",1537,SPRINGTIME
+385_muchmany,"much, many",1198,MANY
+387_falcon,falcon,3258,FALCON
+389_dogwoodtreecornelcornus,"dogwood (tree), cornel, Cornus",,
+390_beer,beer,1639,BEER
+391_sterletsturgeonacipenserstellatusruthenus,"sterlet, sturgeon, Acipenser stellatus, ruthenus",3606,STURGEON
+392_pikeperchzanderstizostedionlucioperca,"pike perch, zander, Stizostedion lucioperca",,
+393_scurvy,scurvy,,
+394_densethickofwoodsorsoup,"dense, thick (of woods or soup)",2239,DENSE
+396_brotherinlaw,brother-in-law,2314,BROTHER-IN-LAW
+397_mirage,mirage,,
+398_uvulatherecurvedpointofafishinghookoralanceredwattleonachicken,"uvula, the recurved point of a fishing hook or a lance, red wattle on a chicken",2293,UVULA
+399_beard,beard,678,BEARD
+400_raft,raft,1664,RAFT
+401_number,number,1356,NUMBER
+402_tohavepityfortoregret,"to have pity for, to regret",1875,REGRET
+403_towishtointendsomethingforsomebodysomethingtodevote,"to wish, to intend something for somebody/something, to devote",2117,DESIRE
+404_trousseaubox,trousseau box,,
+405_bucketwoodenpailwithahandle,"bucket, wooden pail (with a handle)",2052,BUCKET
+406_lightcolouredyellowishpalepartlybald,"light-coloured, yellowish, pale, (partly) bald",1125,BALD
+407_wing,wing,1257,WING
+408_grocergrandhandler,"grocer, grand handler",,
+409_chairseatbenchthrone,"chair, seat, bench, throne",1476,CHAIR
+410_wind,wind,960,WIND
+418_toslumbertodoze,"to slumber, to doze",,
+419_beautiful,beautiful,1427,BEAUTIFUL
+420_frecklesunspotstain,"freckle, sun spot, stain",530,FRECKLE
+421_partofavillagestreetgroupofpeoplerowlineorder,"part of a village, street, group of people; row, line, order",1362,STREET
+422_fumesvapourspiritsalcoholhumours,"fumes, vapour, spirits, alcohol, humours",404,ALCOHOL (FERMENTED DRINK)
+423_colourfaceexternalappearancethebestpartofsomethingtheupperpartofsomething,"colour, face, external appearance, the best part of something, the upperpart of something",1560,FACE
+425_thinhideropestrapusedforembroideryorasawhiprefrozenthinlayerafterthemeltingofsnow,"thin hide rope, strap (used for embroidery or as a whip), refrozen thin layer after the melting of snow",2973,STRAP
+426_rockcliffocciputcrestofmountain,"rock, cliff, occiput, crest (of mountain)",992,CLIFF
+427_word,word,1599,WORD
+428_akindoffalconpielfalcusgyrfalco,"a kind of falcon, Pielfalcus, Gyrfalco",,
+429_tospreadtoscattertowinnow,"to spread, to scatter, to winnow",3705,SCATTER
+430_grasshopper,grasshopper,607,GRASSHOPPER
+431_toleaptojumptoescapetoflee,"to leap, to jump, to escape, to flee",1829,JUMP
+435_grapewinegrapevitisvinifer,"grape, wine grape, Vitis vinifer",920,GRAPE
+436_mosquitognatculexpipens,"mosquito, gnat, Culex pipens",1509,MOSQUITO
+437_furrier,furrier,,
+438_toceasetostop,"to cease, to stop",1928,CEASE
+439_tostraintofilter,"to strain, to filter",940,STRAIN
+440_virginpure,"virgin, pure",1147,PURE
+441_sorcerermedicineman,"sorcerer, medicine man",823,SORCERER
+442_advicecouncil,advice; council,,
+443_witness,witness,1144,WITNESS
+444_tofeedtonourish,"to feed, to nourish",739,FEED
+445_tindertinderfungusfomesfomentarius,"tinder, tinder fungus, Fomes fomentarius",,
+446_bald,bald,1125,BALD
+447_depottarhaz,depot: tárház,,
+448_ploughfieldarablefieldstubblefield,"plough field, arable field, stubble field",,
+449_toholdcarrytolastvisszatart,"to hold, carry; to last, visszatart",1448,HOLD
+450_tatar,Tatar,,
+452_nameofseveralkindsofplantseganemosphorosbuniasorientalisnapuscrambetataricastormwind,"name of several kinds of plants, e.g. Anemosphoros, Buniasorientalis, Napus, Crambe tatarica; storm wind",,
+453_towindsomethingroundtotwist,"to wind something round, to twist",430,TWIST
+454_troughwashtubhutch,"trough, wash tub, hutch",205,TROUGH
+455_straponawhiporonakindofsandal,"strap (on a whip, or on a kind of sandal)",2973,STRAP
+456_apieceoflandfieldparcelpatchahigherplacewhereanimalsrestandaccumulatedung,"a piece of land, field, parcel, patch, a higher place where animals rest and accumulate dung",212,FIELD
+457_tovegetatetolingerinmisery,"to vegetate, to linger in misery",,
+458_axle,axle,1769,AXLE
+459_sea,sea,1474,SEA
+461_toturntochangetheoriginaldirection,"to turn, to change the original direction",1588,TURN
+462_knee,knee,1371,KNEE
+463_hallchambergreatroom,"hall, chamber, great room",,
+464_camel,camel,1871,CAMEL
+465_hempbreakerswinglescutch,"hemp breaker, swingle, scutch",,
+466_steeryoungbullockox,"steer, young bullock, ox",1169,OX
+468_tolayeggs,to lay eggs,2464,LAY EGGS
+469_sturgeonacipensersturio,"sturgeon, Acipenser sturio",3606,STURGEON
+470_oneyearoldlamb,one-year-old lamb,,
+471_interpreter,interpreter,3744,INTERPRETER
+472_horseradisharmoraciarusticana,"horseradish, Armoracia rusticana",,
+474_topileuptobecomeblocked,"to pile up, to become blocked",1576,PILE UP
+475_akindofsmallfalconfalcocolumbariusaescalon,"a kind of small falcon, Falco columbarius aescalon",,
+476_slovak,Slovak,,
+477_perfect,perfect,,
+478_innumerable,innumerable,,
+479_tobreakalsoeghempsaltpeppertoseparateintopiecestobreaktocrush,"to break (also e.g. hemp, salt, pepper), to separate into pieces, to break,to crush",1520,CRUSH
+480_snaretrap,"snare, trap",1075,TRAP (PITFALL)
+481_turkturkishturkicottoman,"Turk, Turkish, Turkic, Ottoman",,
+482_tohappentooccur,"to happen, to occur",248,HAPPEN
+483_law,law,1062,LAW
+484_peatturfdrieddung,"peat, turf, dried dung",,
+485_steeryoungbullockoxorcow,"steer, young bullock, ox or cow",1007,COW
+486_cottagecheesecheesecurds,"cottage cheese, cheese curds",,
+487_thetotembirdofthearpaddynastyabirdofprey,"the totem bird of the Árpád dynasty, a bird of prey",,
+488_bustardotis,"bustard, Otis",,
+492_mirror,mirror,1171,MIRROR
+493_toenduresufferbearstand,"to endure, suffer, bear, stand",833,ENDURE
+494_torollupascrolloronessleeves,to roll up (a scroll or ones sleeves),,
+495_hen,hen,1514,HEN
+496_owlstrix,"owl, Strix",735,OWL
+497_gentlemanlordsirhighdignitylordalsoofakingorofgod,"gentleman, lord, sir, high dignity, Lord (also of a king or of God)",3153,LORD
+498_torefreshoneselftoresttobecomecured,"to refresh oneself, to rest, to become cured",168,REST
+499_feastunnepnap,"feast, ünnepnap",,
+500_heiferroedoe,"heifer, roe doe",,
+502_groundsquirrelcitelluscitellus,"ground squirrel, Citellus citellus",,
+504_wormwoodartemisiabitterness,"wormwood, Artemisia; bitterness",887,BITTER
+505_wethersheep,"wether, sheep",1331,SHEEP
+507_hotembersextinguishedembers,"hot embers, extinguished embers",,
+508_oneyearoldfemalesheep,one-year-old female sheep,,
+509_tohollowouttoscoopout,"to hollow out, to scoop out",46,HOLLOW OUT
+510_troughtray,"trough, tray",205,TROUGH
+511_fishweir,fishweir,,
+513_aholeintheiceforfishing,a hole in the ice (for fishing),,
+514_guest,guest,1782,GUEST
+515_toplaittolaytherope,"to plait, to lay the rope",3295,BRAID (VERB)
+516_gablefrontispiece,"gable, frontispiece",,
+517_chamoisrupicaprarupicapra,"chamois, Rupicapra rupicapra",,

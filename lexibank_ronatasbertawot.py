@@ -6,6 +6,10 @@ from pylexibank import progressbar as pb
 from pylexibank import Language
 from pylexibank import FormSpec
 
+@attr.s
+class CustomLanguage(Language):
+    H_orth = attr.ib(default=None)
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "ronatasbertawot"
@@ -29,7 +33,7 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept["Concepticon_Gloss"],
                     )
         args.log.info("added concepts")
-
+        #print(concepts)
         # add language
         languages = args.writer.add_languages()
         args.log.info("added languages")
@@ -42,10 +46,10 @@ class Dataset(BaseDataset):
         cognates = {}
         cogidx = 1
 
-        for i in range(2, len(data), 2):
+        for i in range(2, len(data)):
             words = dict(zip(header, data[i]))
-            cognates = dict(zip(header, data[i+1]))
-            concept = data[i][5]
+            cognates = dict(zip(header, data[i]))
+            concept = data[i][6]
             for language in languages:
                 entry = words.get(language).strip()
                 cog = cognates.get(language).strip()

@@ -8,11 +8,8 @@ import pandas as pd
 from ipatok import tokenise
 
 # have 2 diff transcription files for Hungarian vs Pre-Hungarians
-epiH = epitran.Epitran("hun-Latn").transliterate
-epiPH = epitran.Epitran("hun-wot").transliterate
-def tkH(w): return ' '.join(tokenise(epiH(w)))
-def tkPH(w): return ' '.join(tokenise(epiPH(w)))
-def segment(w, lg): return tkH(w) if lg == "H" else tkPH(w)
+epi = epitran.Epitran("hun-Latn").transliterate
+def segment(w): return ' '.join(tokenise(epi(w)))
 
 def main():
     """creates othography.tsv with Graphemes 2 IPA mappings"""
@@ -21,7 +18,7 @@ def main():
     in_path = Path.cwd().parent.parent / "cldf" / "forms.csv"
     out_path = Path.cwd().parent.parent / "etc" / "orthography.tsv"
     pd.read_csv(in_path, usecols=["Form", "Language_ID"])\
-      .assign(IPA=lambda x: list(map(segment, x.Form, x.Language_ID)))\
+      .assign(IPA=lambda x: list(map(segment, x.Form)))\
       .rename(columns={"Form": "Grapheme"})\
       .drop_duplicates()\
       .to_csv(out_path, index=False, encoding="utf-8", sep="\t")
