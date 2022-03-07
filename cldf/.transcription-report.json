@@ -10,6 +10,9 @@
                 "a\u02d0": [
                     "a\u02d0"
                 ],
+                "a\u0306": [
+                    "a\u0306"
+                ],
                 "b": [
                     "b"
                 ],
@@ -30,6 +33,9 @@
                 ],
                 "e\u02d0": [
                     "e\u02d0"
+                ],
+                "f": [
+                    "f"
                 ],
                 "h": [
                     "h"
@@ -197,6 +203,9 @@
                 "a\u02d0": [
                     "a\u02d0"
                 ],
+                "a\u0306": [
+                    "a\u0306"
+                ],
                 "b": [
                     "b"
                 ],
@@ -217,6 +226,9 @@
                 ],
                 "e\u02d0": [
                     "e\u02d0"
+                ],
+                "f": [
+                    "f"
                 ],
                 "h": [
                     "h"
@@ -382,6 +394,9 @@
                 "a\u02d0": [
                     "a\u02d0"
                 ],
+                "a\u0306": [
+                    "a\u0306"
+                ],
                 "b": [
                     "b"
                 ],
@@ -402,6 +417,9 @@
                 ],
                 "e\u02d0": [
                     "e\u02d0"
+                ],
+                "f": [
+                    "f"
                 ],
                 "h": [
                     "h"
@@ -566,6 +584,9 @@
                 "a\u02d0": [
                     "a\u02d0"
                 ],
+                "a\u0306": [
+                    "a\u0306"
+                ],
                 "b": [
                     "b"
                 ],
@@ -586,6 +607,9 @@
                 ],
                 "e\u02d0": [
                     "e\u02d0"
+                ],
+                "f": [
+                    "f"
                 ],
                 "h": [
                     "h"
@@ -747,60 +771,20 @@
         },
         "WOT": {
             "bipa_errors": [
-                "<<o>>",
-                "<<\u0103>>",
-                "<<\u00ef>>",
-                "<<p>>",
-                "<<d>>",
-                "<<V>>",
-                "<<\u015b>>",
-                "<<\u00b0>>",
-                "<<w>>",
-                "<<k>>",
-                "<<b>>",
-                "<<\u022b>>",
-                "<<l>>",
-                "<<\u01df>>",
-                "<<\u01f0>>",
-                "<<u>>",
-                "<<t>>",
-                "<<\u00fc>>",
-                "<<\u00f6>>",
-                "<<m>>",
-                "<<\u010d>>",
-                "<<z>>",
-                "<<r>>",
-                "<<g>>",
-                "<<i>>",
-                "<<e>>",
-                "<<\u00e5>>",
-                "<<\u016b>>",
-                "<<n>>",
-                "<<\u03b4>>",
-                "<<\u0113>>",
-                "<<\u014b>>",
-                "<<v>>",
-                "<<B>>",
-                "<<\u01d6>>",
-                "<<\ue364>>",
-                "<<y>>",
-                "<<\u00e4>>",
-                "<<\u0161>>",
-                "<<\u0227>>",
-                "<<s>>",
-                "<<\u03c7>>",
-                "<<a>>",
-                "<<f>>",
-                "<<\u03b3>>",
-                "<<\u0457>>"
+                "\u0227",
+                "\u0457",
+                "\u03b4"
             ],
-            "general_errors": 1235,
+            "general_errors": 13,
             "replacements": {
                 "a": [
                     "a"
                 ],
                 "a\u02d0": [
                     "a\u02d0"
+                ],
+                "a\u0306": [
+                    "a\u0306"
                 ],
                 "b": [
                     "b"
@@ -822,6 +806,9 @@
                 ],
                 "e\u02d0": [
                     "e\u02d0"
+                ],
+                "f": [
+                    "f"
                 ],
                 "h": [
                     "h"
@@ -936,900 +923,169 @@
                 ]
             },
             "sclass_errors": [
-                "<<o>>",
-                "<<\u0103>>",
-                "<<\u00ef>>",
-                "<<p>>",
-                "<<d>>",
-                "<<V>>",
-                "<<\u015b>>",
-                "<<\u00b0>>",
-                "<<w>>",
-                "<<k>>",
-                "<<b>>",
-                "<<\u022b>>",
-                "<<l>>",
-                "<<\u01df>>",
-                "<<\u01f0>>",
-                "<<u>>",
-                "<<t>>",
-                "<<\u00fc>>",
-                "<<\u00f6>>",
-                "<<m>>",
-                "<<\u010d>>",
-                "<<z>>",
-                "<<r>>",
-                "<<g>>",
-                "<<i>>",
-                "<<e>>",
-                "<<\u00e5>>",
-                "<<\u016b>>",
-                "<<n>>",
-                "<<\u03b4>>",
-                "<<\u0113>>",
-                "<<\u014b>>",
-                "<<v>>",
-                "<<B>>",
-                "<<\u01d6>>",
-                "<<\ue364>>",
-                "<<y>>",
-                "<<\u00e4>>",
-                "<<\u0161>>",
-                "<<\u0227>>",
-                "<<s>>",
-                "<<\u03c7>>",
-                "<<a>>",
-                "<<f>>",
-                "<<\u03b3>>",
-                "<<\u0457>>"
+                "\u0227",
+                "\u0457",
+                "\u03b4"
             ],
             "segments": {
-                "<<B>>": 2,
-                "<<V>>": 2,
-                "<<a>>": 91,
-                "<<b>>": 27,
-                "<<d>>": 16,
-                "<<e>>": 23,
-                "<<f>>": 1,
-                "<<g>>": 45,
-                "<<i>>": 40,
-                "<<k>>": 104,
-                "<<l>>": 61,
-                "<<m>>": 25,
-                "<<n>>": 57,
-                "<<o>>": 20,
-                "<<p>>": 13,
-                "<<r>>": 63,
-                "<<s>>": 26,
-                "<<t>>": 61,
-                "<<u>>": 31,
-                "<<v>>": 22,
-                "<<w>>": 10,
-                "<<y>>": 10,
-                "<<z>>": 8,
-                "<<\u00b0>>": 4,
-                "<<\u00e4>>": 145,
-                "<<\u00e5>>": 2,
-                "<<\u00ef>>": 72,
-                "<<\u00f6>>": 21,
-                "<<\u00fc>>": 44,
-                "<<\u0103>>": 1,
-                "<<\u010d>>": 59,
-                "<<\u0113>>": 1,
-                "<<\u014b>>": 11,
-                "<<\u015b>>": 2,
-                "<<\u0161>>": 13,
-                "<<\u016b>>": 1,
-                "<<\u01d6>>": 1,
-                "<<\u01df>>": 1,
-                "<<\u01f0>>": 15,
-                "<<\u0227>>": 3,
-                "<<\u022b>>": 1,
-                "<<\u03b3>>": 65,
-                "<<\u03b4>>": 3,
-                "<<\u03c7>>": 4,
-                "<<\u0457>>": 7,
-                "<<\ue364>>": 1,
-                "a": 172,
+                "a": 263,
                 "a\u02d0": 5,
-                "b": 48,
-                "d": 20,
-                "d\u0361\u0292": 29,
-                "e\u02d0": 3,
-                "i": 103,
+                "b": 77,
+                "d": 36,
+                "d\u0361\u0292": 44,
+                "e\u02d0": 4,
+                "f": 1,
+                "i": 143,
                 "i\u02d0": 2,
-                "j": 10,
-                "k": 103,
-                "l": 67,
-                "m": 27,
-                "n": 51,
-                "o": 36,
-                "p": 21,
-                "r": 129,
-                "s": 41,
-                "t": 64,
-                "t\u0361\u0283": 57,
-                "u": 85,
-                "u\u02d0": 2,
-                "v": 9,
-                "w": 3,
-                "y": 40,
-                "y\u02d0": 1,
-                "z": 5,
-                "\u00f8": 15,
-                "\u00f8\u02d0": 1,
-                "\u0252": 2,
-                "\u025b": 46,
-                "\u0261": 11,
-                "\u0263": 63,
-                "\u026f": 4,
+                "j": 20,
+                "k": 207,
+                "l": 128,
+                "m": 52,
+                "n": 108,
+                "o": 56,
+                "p": 34,
+                "r": 192,
+                "s": 69,
+                "t": 125,
+                "t\u0361\u0283": 116,
+                "u": 116,
+                "u\u02d0": 3,
+                "v": 33,
+                "w": 13,
+                "y": 84,
+                "y\u02d0": 2,
+                "z": 13,
+                "\u00f8": 36,
+                "\u00f8\u02d0": 2,
+                "\u0103": 1,
+                "\u014b": 11,
+                "\u0227": 3,
+                "\u0252": 4,
+                "\u025b": 215,
+                "\u0261": 56,
+                "\u0263": 128,
+                "\u026f": 76,
                 "\u0272": 2,
-                "\u0283": 16
+                "\u0283": 29,
+                "\u03b4": 3,
+                "\u03c7": 4,
+                "\u0457": 7
             }
         }
     },
     "stats": {
         "bad_words": [
             [
-                "WOT-100_akindofwillowsalixelgnos-1",
-                "WOT",
-                "100_akindofwillowsalixelgnos",
-                "\u010digl\u00e4",
-                "<s> <<\u010d>> </s> <s> <<i>> </s> <s> <<g>> </s> <s> <<l>> </s> <s> <<\u00e4>> </s>"
-            ],
-            [
-                "WOT-104_trapsnareforcatchingbirdsbirdcage-1",
-                "WOT",
-                "104_trapsnareforcatchingbirdsbirdcage",
-                "\u010dikl\u00e4",
-                "t\u0361\u0283 i k <s> <<l>> </s> <s> <<\u00e4>> </s>"
-            ],
-            [
-                "WOT-104_trapsnareforcatchingbirdsbirdcage-2",
-                "WOT",
-                "104_trapsnareforcatchingbirdsbirdcage",
-                "\u010dikl\u00e4",
-                "t\u0361\u0283 i k <s> <<l>> </s> <s> <<\u00e4>> </s>"
-            ],
-            [
-                "WOT-104_trapsnareforcatchingbirdsbirdcage-3",
-                "WOT",
-                "104_trapsnareforcatchingbirdsbirdcage",
-                "\u010dikl\u00e4",
-                "t\u0361\u0283 i k <s> <<l>> </s> <s> <<\u00e4>> </s>"
-            ],
-            [
-                "WOT-104_trapsnareforcatchingbirdsbirdcage-4",
-                "WOT",
-                "104_trapsnareforcatchingbirdsbirdcage",
-                "\u010dikl\u00e4",
-                "t\u0361\u0283 i k <s> <<l>> </s> <s> <<\u00e4>> </s>"
-            ],
-            [
-                "WOT-105_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1",
-                "WOT",
-                "105_akindofwillowusedforbasketsandinviticulturesalixpurpurea",
-                "\u010d\u00efgla",
-                "<s> <<\u010d>> </s> <s> <<\u00ef>> </s> <s> <<g>> </s> <s> <<l>> </s> <s> <<a>> </s>"
-            ],
-            [
-                "WOT-106_akindofwillow-1",
-                "WOT",
-                "106_akindofwillow",
-                "\u010d\u00efgla",
-                "<s> <<\u010d>> </s> <s> <<\u00ef>> </s> <s> <<g>> </s> <s> <<l>> </s> <s> <<a>> </s>"
-            ],
-            [
-                "WOT-110_akindofwolfsmilkeasterflowereuphorbia-1",
-                "WOT",
-                "110_akindofwolfsmilkeasterflowereuphorbia",
-                "s\u00fctk\u00e4n",
-                "<s> <<s>> </s> <s> <<\u00fc>> </s> <s> <<t>> </s> <s> <<k>> </s> <s> <<\u00e4>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-110_akindofwolfsmilkeasterflowereuphorbia-2",
-                "WOT",
-                "110_akindofwolfsmilkeasterflowereuphorbia",
-                "s\u00fctt\u00e4g\u00e4n",
-                "<s> <<s>> </s> <s> <<\u00fc>> </s> <s> <<t>> </s> <s> <<t>> </s> <s> <<\u00e4>> </s> <s> <<g>> </s> <s> <<\u00e4>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-110_akindofwolfsmilkeasterflowereuphorbia-3",
-                "WOT",
-                "110_akindofwolfsmilkeasterflowereuphorbia",
-                "s\u00fctk\u00e4n",
-                "<s> <<s>> </s> <s> <<\u00fc>> </s> <s> <<t>> </s> <s> <<k>> </s> <s> <<\u00e4>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-110_akindofwolfsmilkeasterflowereuphorbia-4",
-                "WOT",
-                "110_akindofwolfsmilkeasterflowereuphorbia",
-                "s\u00fctt\u00e4g\u00e4n",
-                "<s> <<s>> </s> <s> <<\u00fc>> </s> <s> <<t>> </s> <s> <<t>> </s> <s> <<\u00e4>> </s> <s> <<g>> </s> <s> <<\u00e4>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-113_pickaxemaceasmallaxewarhammer-1",
-                "WOT",
-                "113_pickaxemaceasmallaxewarhammer",
-                "\u010dakkan",
-                "t\u0361\u0283 a k <s> <<k>> </s> <s> <<a>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-116_nettleurtica-1",
-                "WOT",
-                "116_nettleurtica",
-                "\u010dal\u00ef\u03b3an",
-                "<s> <<\u010d>> </s> <s> <<a>> </s> <s> <<l>> </s> <s> <<\u00ef>> </s> <s> <<\u03b3>> </s> <s> <<a>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-116_nettleurtica-2",
-                "WOT",
-                "116_nettleurtica",
-                "\u010dal\u00ef\u03b3an",
-                "<s> <<\u010d>> </s> <s> <<a>> </s> <s> <<l>> </s> <s> <<\u00ef>> </s> <s> <<\u03b3>> </s> <s> <<a>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-116_nettleurtica-3",
-                "WOT",
-                "116_nettleurtica",
-                "\u010dal\u00ef\u03b3an",
-                "<s> <<\u010d>> </s> <s> <<a>> </s> <s> <<l>> </s> <s> <<\u00ef>> </s> <s> <<\u03b3>> </s> <s> <<a>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-117_thicketbrushwooddryfoliagegrovemeadow-1",
-                "WOT",
-                "117_thicketbrushwooddryfoliagegrovemeadow",
-                "\u010dalt\u00ef",
-                "<s> <<\u010d>> </s> <s> <<a>> </s> <s> <<l>> </s> <s> <<t>> </s> <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-118_thicketbrushwooddryfoliagegrovemeadow-1",
-                "WOT",
-                "118_thicketbrushwooddryfoliagegrovemeadow",
-                "\u010dal\u00eft",
-                "<s> <<\u010d>> </s> <s> <<a>> </s> <s> <<l>> </s> <s> <<\u00ef>> </s> <s> <<t>> </s>"
-            ],
-            [
-                "WOT-11_piedofananimalscoat-1",
-                "WOT",
-                "11_piedofananimalscoat",
-                "ala\u010d\u00ef",
-                "a l a t\u0361\u0283 <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-11_piedofananimalscoat-2",
-                "WOT",
-                "11_piedofananimalscoat",
-                "ala\u010du",
-                "a l a t\u0361\u0283 <s> <<u>> </s>"
-            ],
-            [
-                "WOT-11_piedofananimalscoat-3",
-                "WOT",
-                "11_piedofananimalscoat",
-                "ala\u010do",
-                "a l a t\u0361\u0283 <s> <<o>> </s>"
-            ],
-            [
-                "WOT-121_fightingtrooparmygroupbattlequarrelhubbubflock-2",
-                "WOT",
-                "121_fightingtrooparmygroupbattlequarrelhubbubflock",
-                "\u010dat\u00ef",
-                "t\u0361\u0283 a t <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-123_clasp-1",
-                "WOT",
-                "123_clasp",
-                "\u010dat\u00ef",
-                "t\u0361\u0283 a t <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-125_measlesmallpoxpocksskineruptiondecorativeembroidery-1",
-                "WOT",
-                "125_measlesmallpoxpocksskineruptiondecorativeembroidery",
-                "\u010de\u010d",
-                "<s> <<\u010d>> </s> <s> <<e>> </s> <s> <<\u010d>> </s>"
-            ],
-            [
-                "WOT-129_awineoflowqualityafruitwine-1",
-                "WOT",
-                "129_awineoflowqualityafruitwine",
-                "\u010d\u00efg\u00efr",
-                "<s> <<\u010d>> </s> <s> <<\u00ef>> </s> <s> <<g>> </s> <s> <<\u00ef>> </s> <s> <<r>> </s>"
-            ],
-            [
                 "WOT-129_awineoflowqualityafruitwine-2",
                 "WOT",
                 "129_awineoflowqualityafruitwine",
                 "\u010d\u0227g\u00efr",
-                "<s> <<\u010d>> </s> <s> <<\u0227>> </s> <s> <<g>> </s> <s> <<\u00ef>> </s> <s> <<r>> </s>"
-            ],
-            [
-                "WOT-130_secretionmucusdischargedfromtheeyes-1",
-                "WOT",
-                "130_secretionmucusdischargedfromtheeyes",
-                "\u010dapa\u03b3",
-                "t\u0361\u0283 a p a <s> <<\u03b3>> </s>"
-            ],
-            [
-                "WOT-135_stallion-1",
-                "WOT",
-                "135_stallion",
-                "\u010de\u00fcd\u00fcr",
-                "<s> <<\u010d>> </s> <s> <<e>> </s> <s> <<\u00fc>> </s> <s> <<d>> </s> <s> <<\u00fc>> </s> <s> <<r>> </s>"
-            ],
-            [
-                "WOT-135_stallion-2",
-                "WOT",
-                "135_stallion",
-                "\u010d\u00e4\u00fcd\u00e4r",
-                "<s> <<\u010d>> </s> <s> <<\u00e4>> </s> <s> <<\u00fc>> </s> <s> <<d>> </s> <s> <<\u00e4>> </s> <s> <<r>> </s>"
-            ],
-            [
-                "WOT-135_stallion-3",
-                "WOT",
-                "135_stallion",
-                "\u010dewd\u00fcr",
-                "<s> <<\u010d>> </s> <s> <<e>> </s> <s> <<w>> </s> <s> <<d>> </s> <s> <<\u00fc>> </s> <s> <<r>> </s>"
-            ],
-            [
-                "WOT-136_sexualorganoflargemaleanimalsofabullawhipmadefromit-1",
-                "WOT",
-                "136_sexualorganoflargemaleanimalsofabullawhipmadefromit",
-                "\u010d\u00fckV",
-                "t\u0361\u0283 y k <s> <<V>> </s>"
-            ],
-            [
-                "WOT-139_stubborn-1",
-                "WOT",
-                "139_stubborn",
-                "\u010dikin",
-                "t\u0361\u0283 i k <s> <<i>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-140_fieldguardheraldturkishenvoy-1",
-                "WOT",
-                "140_fieldguardheraldturkishenvoy",
-                "\u010d\u00e4wi\u0161",
-                "<s> <<\u010d>> </s> <s> <<\u00e4>> </s> <s> <<w>> </s> <s> <<i>> </s> <s> <<\u0161>> </s>"
-            ],
-            [
-                "WOT-142_towindtoturntodistrortmisinterprettospinayarn-1",
-                "WOT",
-                "142_towindtoturntodistrortmisinterprettospinayarn",
-                "\u010d\u00e4w\u00fcr",
-                "<s> <<\u010d>> </s> <s> <<\u00e4>> </s> <s> <<w>> </s> <s> <<\u00fc>> </s> <s> <<r>> </s>"
-            ],
-            [
-                "WOT-143_bobbinspindle-1",
-                "WOT",
-                "143_bobbinspindle",
-                "\u010d\u00e4viri",
-                "<s> <<\u010d>> </s> <s> <<\u00e4>> </s> <s> <<v>> </s> i r <s> <<i>> </s>"
-            ],
-            [
-                "WOT-144_excellentworthless-1",
-                "WOT",
-                "144_excellentworthless",
-                "\u01f0ak\u0161\u00ef",
-                "<s> <<\u01f0>> </s> <s> <<a>> </s> <s> <<k>> </s> <s> <<\u0161>> </s> <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-147_gristgroatssofthail-1",
-                "WOT",
-                "147_gristgroatssofthail",
-                "tar\u00ef",
-                "t a r <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-147_gristgroatssofthail-2",
-                "WOT",
-                "147_gristgroatssofthail",
-                "dar\u00ef",
-                "<s> <<d>> </s> <s> <<a>> </s> <s> <<r>> </s> <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-14_barrelwoodencontainerandstandardquantity-1",
-                "WOT",
-                "14_barrelwoodencontainerandstandardquantity",
-                "alt\u00efl\u00efg",
-                "<s> <<a>> </s> <s> <<l>> </s> <s> <<t>> </s> <s> <<\u00ef>> </s> <s> <<l>> </s> <s> <<\u00ef>> </s> <s> <<g>> </s>"
-            ],
-            [
-                "WOT-14_barrelwoodencontainerandstandardquantity-2",
-                "WOT",
-                "14_barrelwoodencontainerandstandardquantity",
-                "alt\u00efl\u00efg",
-                "<s> <<a>> </s> <s> <<l>> </s> <s> <<t>> </s> <s> <<\u00ef>> </s> <s> <<l>> </s> <s> <<\u00ef>> </s> <s> <<g>> </s>"
-            ],
-            [
-                "WOT-151_noonsouth-1",
-                "WOT",
-                "151_noonsouth",
-                "t\u00fcli",
-                "<s> <<t>> </s> <s> <<\u00fc>> </s> <s> <<l>> </s> <s> <<i>> </s>"
-            ],
-            [
-                "WOT-151_noonsouth-2",
-                "WOT",
-                "151_noonsouth",
-                "d\u00fcli",
-                "d y l <s> <<i>> </s>"
-            ],
-            [
-                "WOT-151_noonsouth-3",
-                "WOT",
-                "151_noonsouth",
-                "t\u00fcli",
-                "<s> <<t>> </s> <s> <<\u00fc>> </s> <s> <<l>> </s> <s> <<i>> </s>"
-            ],
-            [
-                "WOT-151_noonsouth-4",
-                "WOT",
-                "151_noonsouth",
-                "d\u00fcli",
-                "d y l <s> <<i>> </s>"
-            ],
-            [
-                "WOT-153_nutwalnutjuglans-1",
-                "WOT",
-                "153_nutwalnutjuglans",
-                "\u01f0\u00ef\u03b3a\u03b3",
-                "<s> <<\u01f0>> </s> <s> <<\u00ef>> </s> <s> <<\u03b3>> </s> <s> <<a>> </s> <s> <<\u03b3>> </s>"
+                "t\u0361\u0283 <s> \u0227 </s> \u0261 \u026f r"
             ],
             [
                 "WOT-153_nutwalnutjuglans-2",
                 "WOT",
                 "153_nutwalnutjuglans",
                 "\u01f0\u0227\u03b3a\u03b3",
-                "<s> <<\u01f0>> </s> <s> <<\u0227>> </s> <s> <<\u03b3>> </s> <s> <<a>> </s> <s> <<\u03b3>> </s>"
+                "d\u0361\u0292 <s> \u0227 </s> \u0263 a \u0263"
             ],
             [
                 "WOT-154_pigsusdomestica-1",
                 "WOT",
                 "154_pigsusdomestica",
                 "\u01f0\u0227sna\u03b3",
-                "<s> <<\u01f0>> </s> <s> <<\u0227>> </s> <s> <<s>> </s> <s> <<n>> </s> <s> <<a>> </s> <s> <<\u03b3>> </s>"
+                "d\u0361\u0292 <s> \u0227 </s> s n a \u0263"
             ],
             [
-                "WOT-156_toleantoppleoverstreamdown-1",
+                "WOT-203_weed-1",
                 "WOT",
-                "156_toleantoppleoverstreamdown",
-                "t\u00fcl",
-                "<s> <<t>> </s> <s> <<\u00fc>> </s> <s> <<l>> </s>"
+                "203_weed",
+                "ka\u03b3\u03b4u",
+                "k a \u0263 <s> \u03b4 </s> u"
             ],
             [
-                "WOT-158_tosqueezetothrustinto-2",
+                "WOT-221_boatship-1",
                 "WOT",
-                "158_tosqueezetothrustinto",
-                "t\u00efk",
-                "<s> <<t>> </s> <s> <<\u00ef>> </s> <s> <<k>> </s>"
+                "221_boatship",
+                "\u03c7ay\u0457\u03b3",
+                "\u03c7 a j <s> \u0457 </s> \u0263"
             ],
             [
-                "WOT-160_churchbuildingandorganisation-2",
+                "WOT-223_hawk-1",
                 "WOT",
-                "160_churchbuildingandorganisation",
-                "edi",
-                "<s> <<e>> </s> <s> <<d>> </s> <s> <<i>> </s>"
+                "223_hawk",
+                "\u03c7\u0457r\u03b3uy",
+                "\u03c7 <s> \u0457 </s> r \u0263 u j"
             ],
             [
-                "WOT-162_plough-1",
+                "WOT-294_timothygrassphleumphleumsp-1",
                 "WOT",
-                "162_plough",
-                "\u00e4k\u00e4\u03b3",
-                "<s> <<\u00e4>> </s> <s> <<k>> </s> <s> <<\u00e4>> </s> <s> <<\u03b3>> </s>"
+                "294_timothygrassphleumphleumsp",
+                "kam\u0457\u010d\u00efn",
+                "k a m <s> \u0457 </s> t\u0361\u0283 \u026f n"
             ],
             [
-                "WOT-163_toallowpermitconcedeyieldgiveway-1",
+                "WOT-488_bustardotis-1",
                 "WOT",
-                "163_toallowpermitconcedeyieldgiveway",
-                "\u00e4\u014b",
-                "<s> <<\u00e4>> </s> <s> <<\u014b>> </s>"
-            ],
-            [
-                "WOT-164_topropitiate-1",
-                "WOT",
-                "164_topropitiate",
-                "\u00e4\u014b",
-                "<s> <<\u00e4>> </s> <s> <<\u014b>> </s>"
-            ],
-            [
-                "WOT-165_communityworkinagricultureakindofcorvee-1",
-                "WOT",
-                "165_communityworkinagricultureakindofcorvee",
-                "in\u00e4\u03b3",
-                "<s> <<i>> </s> <s> <<n>> </s> <s> <<\u00e4>> </s> <s> <<\u03b3>> </s>"
-            ],
-            [
-                "WOT-16_todecayputrifyturnstale-1",
-                "WOT",
-                "16_todecayputrifyturnstale",
-                "opura",
-                "o p <s> <<u>> </s> <s> <<r>> </s> <s> <<a>> </s>"
-            ],
-            [
-                "WOT-19_tomow-2",
-                "WOT",
-                "19_tomow",
-                "or",
-                "<s> <<o>> </s> <s> <<r>> </s>"
-            ],
-            [
-                "WOT-20_todecayputrefygobadoffoodwater-1",
-                "WOT",
-                "20_todecayputrefygobadoffoodwater",
-                "ar",
-                "<s> <<a>> </s> <s> <<r>> </s>"
-            ],
-            [
-                "WOT-21_toharm-1",
-                "WOT",
-                "21_toharm",
-                "artat",
-                "<s> <<a>> </s> <s> <<r>> </s> t a t"
-            ],
-            [
-                "WOT-23_ditchcanal-1",
-                "WOT",
-                "23_ditchcanal",
-                "aruk",
-                "<s> <<a>> </s> <s> <<r>> </s> u k"
-            ],
-            [
-                "WOT-25_barrow-1",
-                "WOT",
-                "25_barrow",
-                "ar\u00eftan",
-                "<s> <<a>> </s> <s> <<r>> </s> <s> <<\u00ef>> </s> <s> <<t>> </s> <s> <<a>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-26_gauntrygantryforsupportingbarrels-1",
-                "WOT",
-                "26_gauntrygantryforsupportingbarrels",
-                "ask\u00ef",
-                "a s k <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-31_governorofcroatiagovernorofthesouthernmarches-1",
-                "WOT",
-                "31_governorofcroatiagovernorofthesouthernmarches",
-                "bayan",
-                "b a j <s> <<a>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-32_toregrettobesorry-1",
-                "WOT",
-                "32_toregrettobesorry",
-                "bag\u00efn",
-                "<s> <<b>> </s> <s> <<a>> </s> <s> <<g>> </s> <s> <<\u00ef>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-34_labeltag-1",
-                "WOT",
-                "34_labeltag",
-                "baysa",
-                "b a j <s> <<s>> </s> <s> <<a>> </s>"
-            ],
-            [
-                "WOT-41_hobbleshacklelegiron-1",
-                "WOT",
-                "41_hobbleshacklelegiron",
-                "b\u00efka\u03b3u",
-                "<s> <<b>> </s> <s> <<\u00ef>> </s> <s> <<k>> </s> <s> <<a>> </s> <s> <<\u03b3>> </s> <s> <<u>> </s>"
-            ],
-            [
-                "WOT-41_hobbleshacklelegiron-2",
-                "WOT",
-                "41_hobbleshacklelegiron",
-                "b\u00efka\u03b3u",
-                "<s> <<b>> </s> <s> <<\u00ef>> </s> <s> <<k>> </s> <s> <<a>> </s> <s> <<\u03b3>> </s> <s> <<u>> </s>"
-            ],
-            [
-                "WOT-42_stampbondmark-1",
-                "WOT",
-                "42_stampbondmark",
-                "b\u00e4l\u00e4g",
-                "<s> <<b>> </s> <s> <<\u00e4>> </s> <s> <<l>> </s> <s> <<\u00e4>> </s> <s> <<g>> </s>"
-            ],
-            [
-                "WOT-43_wagerent-1",
-                "WOT",
-                "43_wagerent",
-                "ber\u00fc",
-                "<s> <<b>> </s> \u025b r <s> <<\u00fc>> </s>"
-            ],
-            [
-                "WOT-45_togive-1",
-                "WOT",
-                "45_togive",
-                "B\u00e4rsil",
-                "<s> <<B>> </s> <s> <<\u00e4>> </s> <s> <<r>> </s> <s> <<s>> </s> i l"
-            ],
-            [
-                "WOT-45_togive-2",
-                "WOT",
-                "45_togive",
-                "B\u00e4rsil",
-                "<s> <<B>> </s> <s> <<\u00e4>> </s> <s> <<r>> </s> <s> <<s>> </s> i l"
-            ],
-            [
-                "WOT-47_abirdofprey-1",
-                "WOT",
-                "47_abirdofprey",
-                "b\u00e4\u0161\u00e4",
-                "<s> <<b>> </s> <s> <<\u00e4>> </s> <s> <<\u0161>> </s> <s> <<\u00e4>> </s>"
-            ],
-            [
-                "WOT-48_pechenegnameofatribe-1",
-                "WOT",
-                "48_pechenegnameofatribe",
-                "b\u00e4\u010d\u00e4n\u00e4g",
-                "<s> <<b>> </s> <s> <<\u00e4>> </s> <s> <<\u010d>> </s> <s> <<\u00e4>> </s> <s> <<n>> </s> <s> <<\u00e4>> </s> <s> <<g>> </s>"
-            ],
-            [
-                "WOT-49_letterofthealphabet-1",
-                "WOT",
-                "49_letterofthealphabet",
-                "bitig",
-                "<s> <<b>> </s> <s> <<i>> </s> <s> <<t>> </s> <s> <<i>> </s> <s> <<g>> </s>"
-            ],
-            [
-                "WOT-52_pocketknife-1",
-                "WOT",
-                "52_pocketknife",
-                "b\u00ef\u010dak",
-                "<s> <<b>> </s> <s> <<\u00ef>> </s> t\u0361\u0283 a k"
-            ],
-            [
-                "WOT-52_pocketknife-2",
-                "WOT",
-                "52_pocketknife",
-                "b\u00ef\u010dk\u00ef",
-                "<s> <<b>> </s> <s> <<\u00ef>> </s> <s> <<\u010d>> </s> <s> <<k>> </s> <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-52_pocketknife-3",
-                "WOT",
-                "52_pocketknife",
-                "bi\u010dk\u00e4",
-                "<s> <<b>> </s> <s> <<i>> </s> <s> <<\u010d>> </s> <s> <<k>> </s> <s> <<\u00e4>> </s>"
-            ],
-            [
-                "WOT-53_bull-1",
-                "WOT",
-                "53_bull",
-                "b\u00efka",
-                "<s> <<b>> </s> <s> <<\u00ef>> </s> <s> <<k>> </s> <s> <<a>> </s>"
-            ],
-            [
-                "WOT-54_shackles-1",
-                "WOT",
-                "54_shackles",
-                "bil\u00e4\u010d\u00e4k",
-                "<s> <<b>> </s> i l <s> <<\u00e4>> </s> <s> <<\u010d>> </s> <s> <<\u00e4>> </s> <s> <<k>> </s>"
-            ],
-            [
-                "WOT-55_judge-1",
-                "WOT",
-                "55_judge",
-                "b\u00efrug",
-                "<s> <<b>> </s> <s> <<\u00ef>> </s> <s> <<r>> </s> u \u0261"
-            ],
-            [
-                "WOT-57_toforgive-1",
-                "WOT",
-                "57_toforgive",
-                "bol\u010dat",
-                "<s> <<b>> </s> <s> <<o>> </s> <s> <<l>> </s> t\u0361\u0283 a t"
-            ],
-            [
-                "WOT-61_tasselfringetuftnode-1",
-                "WOT",
-                "61_tasselfringetuftnode",
-                "bogut",
-                "b o \u0261 <s> <<u>> </s> <s> <<t>> </s>"
-            ],
-            [
-                "WOT-62_burdockarctiumsp-1",
-                "WOT",
-                "62_burdockarctiumsp",
-                "balturgan",
-                "<s> <<b>> </s> <s> <<a>> </s> <s> <<l>> </s> <s> <<t>> </s> <s> <<u>> </s> <s> <<r>> </s> <s> <<g>> </s> <s> <<a>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-66_anthill-1",
-                "WOT",
-                "66_anthill",
-                "bo\u03b3ul",
-                "<s> <<b>> </s> o \u0263 u l"
-            ],
-            [
-                "WOT-6_streamcurrent-1",
-                "WOT",
-                "6_streamcurrent",
-                "ak\u00ef\u0161",
-                "<s> <<a>> </s> <s> <<k>> </s> <s> <<\u00ef>> </s> <s> <<\u0161>> </s>"
-            ],
-            [
-                "WOT-6_streamcurrent-2",
-                "WOT",
-                "6_streamcurrent",
-                "ag\u00ef\u0161",
-                "<s> <<a>> </s> <s> <<g>> </s> <s> <<\u00ef>> </s> <s> <<\u0161>> </s>"
-            ],
-            [
-                "WOT-6_streamcurrent-3",
-                "WOT",
-                "6_streamcurrent",
-                "ak\u00ef\u0161",
-                "<s> <<a>> </s> <s> <<k>> </s> <s> <<\u00ef>> </s> <s> <<\u0161>> </s>"
-            ],
-            [
-                "WOT-6_streamcurrent-4",
-                "WOT",
-                "6_streamcurrent",
-                "ag\u00ef\u0161",
-                "<s> <<a>> </s> <s> <<g>> </s> <s> <<\u00ef>> </s> <s> <<\u0161>> </s>"
-            ],
-            [
-                "WOT-73_badgermelesmeles-1",
-                "WOT",
-                "73_badgermelesmeles",
-                "bors\u00ef",
-                "b o r <s> <<s>> </s> <s> <<\u00ef>> </s>"
-            ],
-            [
-                "WOT-7_falseimitation-1",
-                "WOT",
-                "7_falseimitation",
-                "al",
-                "<s> <<a>> </s> <s> <<l>> </s>"
+                "488_bustardotis",
+                "tog\u03b4ak",
+                "t o \u0261 <s> \u03b4 </s> a k"
             ],
             [
                 "WOT-80_stickcane-1",
                 "WOT",
                 "80_stickcane",
                 "but\u0457\u03b3",
-                "b u t <s> <<\u0457>> </s> <s> <<\u03b3>> </s>"
+                "b u t <s> \u0457 </s> \u0263"
             ],
             [
                 "WOT-80_stickcane-2",
                 "WOT",
                 "80_stickcane",
                 "but\u0457\u03b3",
-                "b u t <s> <<\u0457>> </s> <s> <<\u03b3>> </s>"
+                "b u t <s> \u0457 </s> \u0263"
             ],
             [
                 "WOT-80_stickcane-3",
                 "WOT",
                 "80_stickcane",
                 "but\u0457\u03b3",
-                "b u t <s> <<\u0457>> </s> <s> <<\u03b3>> </s>"
+                "b u t <s> \u0457 </s> \u0263"
             ],
             [
                 "WOT-80_stickcane-4",
                 "WOT",
                 "80_stickcane",
                 "but\u0457\u03b3",
-                "b u t <s> <<\u0457>> </s> <s> <<\u03b3>> </s>"
-            ],
-            [
-                "WOT-82_richabundantroomy-1",
-                "WOT",
-                "82_richabundantroomy",
-                "b\u00e4\u03b3",
-                "<s> <<b>> </s> <s> <<\u00e4>> </s> <s> <<\u03b3>> </s>"
-            ],
-            [
-                "WOT-83_horseflygadfly-1",
-                "WOT",
-                "83_horseflygadfly",
-                "b\u00f6g\u00f6l\u00e4k",
-                "<s> <<b>> </s> <s> <<\u00f6>> </s> <s> <<g>> </s> <s> <<\u00f6>> </s> <s> <<l>> </s> <s> <<\u00e4>> </s> <s> <<k>> </s>"
-            ],
-            [
-                "WOT-84_fasting-1",
-                "WOT",
-                "84_fasting",
-                "b\u00fc\u03b3t\u00e4",
-                "<s> <<b>> </s> <s> <<\u00fc>> </s> <s> <<\u03b3>> </s> <s> <<t>> </s> <s> <<\u00e4>> </s>"
-            ],
-            [
-                "WOT-86_cradle-1",
-                "WOT",
-                "86_cradle",
-                "bel\u010di\u03b3",
-                "<s> <<b>> </s> <s> <<e>> </s> <s> <<l>> </s> <s> <<\u010d>> </s> <s> <<i>> </s> <s> <<\u03b3>> </s>"
-            ],
-            [
-                "WOT-87_bison-1",
-                "WOT",
-                "87_bison",
-                "b\u00fcl\u00e4n",
-                "<s> <<b>> </s> <s> <<\u00fc>> </s> <s> <<l>> </s> <s> <<\u00e4>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-88_prisonjail-1",
-                "WOT",
-                "88_prisonjail",
-                "b\u00e4rt\u00e4n",
-                "<s> <<b>> </s> <s> <<\u00e4>> </s> <s> <<r>> </s> <s> <<t>> </s> <s> <<\u00e4>> </s> <s> <<n>> </s>"
-            ],
-            [
-                "WOT-90_farewellindulgencededicationfestivalannualparishfeast-1",
-                "WOT",
-                "90_farewellindulgencededicationfestivalannualparishfeast",
-                "bol\u010du\u03b3",
-                "<s> <<b>> </s> <s> <<o>> </s> <s> <<l>> </s> <s> <<\u010d>> </s> <s> <<u>> </s> <s> <<\u03b3>> </s>"
+                "b u t <s> \u0457 </s> \u0263"
             ],
             [
                 "WOT-94_wheattriticum-1",
                 "WOT",
                 "94_wheattriticum",
                 "bu\u03b3\u03b4ay",
-                "b u \u0263 <s> <<\u03b4>> </s> <s> <<a>> </s> <s> <<y>> </s>"
+                "b u \u0263 <s> \u03b4 </s> a j"
             ]
         ],
-        "bad_words_count": 294,
+        "bad_words_count": 13,
         "bipa_errors": [
-            "<<o>>",
-            "<<\u0103>>",
-            "<<\u00ef>>",
-            "<<p>>",
-            "<<d>>",
-            "<<V>>",
-            "<<\u015b>>",
-            "<<\u00b0>>",
-            "<<w>>",
-            "<<k>>",
-            "<<b>>",
-            "<<\u022b>>",
-            "<<l>>",
-            "<<\u01df>>",
-            "<<\u01f0>>",
-            "<<u>>",
-            "<<t>>",
-            "<<\u00fc>>",
-            "<<\u00f6>>",
-            "<<m>>",
-            "<<\u010d>>",
-            "<<z>>",
-            "<<r>>",
-            "<<g>>",
-            "<<i>>",
-            "<<e>>",
-            "<<\u00e5>>",
-            "<<\u016b>>",
-            "<<n>>",
-            "<<\u03b4>>",
-            "<<\u0113>>",
-            "<<\u014b>>",
-            "<<v>>",
-            "<<B>>",
-            "<<\u01d6>>",
-            "<<\ue364>>",
-            "<<y>>",
-            "<<\u00e4>>",
-            "<<\u0161>>",
-            "<<\u0227>>",
-            "<<s>>",
-            "<<\u03c7>>",
-            "<<a>>",
-            "<<f>>",
-            "<<\u03b3>>",
-            "<<\u0457>>"
+            "\u0227",
+            "\u0457",
+            "\u03b4"
         ],
-        "general_errors": 1235,
+        "general_errors": 13,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 47.599999999999994,
+        "inventory_size": 39.8,
         "replacements": {
             "a": [
                 "a"
             ],
             "a\u02d0": [
                 "a\u02d0"
+            ],
+            "a\u0306": [
+                "a\u0306"
             ],
             "b": [
                 "b"
@@ -1851,6 +1107,9 @@
             ],
             "e\u02d0": [
                 "e\u02d0"
+            ],
+            "f": [
+                "f"
             ],
             "h": [
                 "h"
@@ -1965,146 +1224,62 @@
             ]
         },
         "sclass_errors": [
-            "<<o>>",
-            "<<\u0103>>",
-            "<<\u00ef>>",
-            "<<p>>",
-            "<<d>>",
-            "<<V>>",
-            "<<\u015b>>",
-            "<<\u00b0>>",
-            "<<w>>",
-            "<<k>>",
-            "<<b>>",
-            "<<\u022b>>",
-            "<<l>>",
-            "<<\u01df>>",
-            "<<\u01f0>>",
-            "<<u>>",
-            "<<t>>",
-            "<<\u00fc>>",
-            "<<\u00f6>>",
-            "<<m>>",
-            "<<\u010d>>",
-            "<<z>>",
-            "<<r>>",
-            "<<g>>",
-            "<<i>>",
-            "<<e>>",
-            "<<\u00e5>>",
-            "<<\u016b>>",
-            "<<n>>",
-            "<<\u03b4>>",
-            "<<\u0113>>",
-            "<<\u014b>>",
-            "<<v>>",
-            "<<B>>",
-            "<<\u01d6>>",
-            "<<\ue364>>",
-            "<<y>>",
-            "<<\u00e4>>",
-            "<<\u0161>>",
-            "<<\u0227>>",
-            "<<s>>",
-            "<<\u03c7>>",
-            "<<a>>",
-            "<<f>>",
-            "<<\u03b3>>",
-            "<<\u0457>>"
+            "\u0227",
+            "\u0457",
+            "\u03b4"
         ],
         "segments": {
-            "<<B>>": 2,
-            "<<V>>": 2,
-            "<<a>>": 91,
-            "<<b>>": 27,
-            "<<d>>": 16,
-            "<<e>>": 23,
-            "<<f>>": 1,
-            "<<g>>": 45,
-            "<<i>>": 40,
-            "<<k>>": 104,
-            "<<l>>": 61,
-            "<<m>>": 25,
-            "<<n>>": 57,
-            "<<o>>": 20,
-            "<<p>>": 13,
-            "<<r>>": 63,
-            "<<s>>": 26,
-            "<<t>>": 61,
-            "<<u>>": 31,
-            "<<v>>": 22,
-            "<<w>>": 10,
-            "<<y>>": 10,
-            "<<z>>": 8,
-            "<<\u00b0>>": 4,
-            "<<\u00e4>>": 145,
-            "<<\u00e5>>": 2,
-            "<<\u00ef>>": 72,
-            "<<\u00f6>>": 21,
-            "<<\u00fc>>": 44,
-            "<<\u0103>>": 1,
-            "<<\u010d>>": 59,
-            "<<\u0113>>": 1,
-            "<<\u014b>>": 11,
-            "<<\u015b>>": 2,
-            "<<\u0161>>": 13,
-            "<<\u016b>>": 1,
-            "<<\u01d6>>": 1,
-            "<<\u01df>>": 1,
-            "<<\u01f0>>": 15,
-            "<<\u0227>>": 3,
-            "<<\u022b>>": 1,
-            "<<\u03b3>>": 65,
-            "<<\u03b4>>": 3,
-            "<<\u03c7>>": 4,
-            "<<\u0457>>": 7,
-            "<<\ue364>>": 1,
-            "a": 472,
+            "a": 563,
             "a\u02d0": 129,
-            "b": 245,
+            "b": 274,
             "c": 3,
-            "d": 126,
+            "d": 142,
             "d\u0361z": 1,
-            "d\u0361\u0292": 91,
+            "d\u0361\u0292": 106,
             "e": 9,
-            "e\u02d0": 81,
+            "e\u02d0": 82,
+            "f": 1,
             "h": 12,
-            "i": 418,
+            "i": 458,
             "i\u02d0": 18,
-            "j": 59,
-            "k": 575,
-            "l": 379,
-            "m": 151,
-            "n": 289,
-            "o": 262,
+            "j": 69,
+            "k": 679,
+            "l": 440,
+            "m": 176,
+            "n": 346,
+            "o": 282,
             "o\u02d0": 56,
-            "p": 113,
-            "r": 588,
-            "s": 212,
-            "t": 377,
+            "p": 126,
+            "r": 651,
+            "s": 240,
+            "t": 438,
             "t\u0361s": 15,
-            "t\u0361\u0283": 274,
-            "u": 288,
-            "u\u02d0": 39,
-            "v": 71,
-            "w": 36,
-            "y": 210,
-            "y\u02d0": 48,
-            "z": 53,
-            "\u00f8": 189,
-            "\u00f8\u02d0": 58,
-            "\u014b": 1,
-            "\u0252": 167,
-            "\u025b": 487,
+            "t\u0361\u0283": 333,
+            "u": 319,
+            "u\u02d0": 40,
+            "v": 95,
+            "w": 46,
+            "y": 254,
+            "y\u02d0": 49,
+            "z": 61,
+            "\u00f8": 210,
+            "\u00f8\u02d0": 59,
+            "\u0103": 1,
+            "\u014b": 12,
+            "\u0227": 3,
+            "\u0252": 169,
+            "\u025b": 656,
             "\u025f": 68,
-            "\u0261": 126,
-            "\u0263": 220,
+            "\u0261": 171,
+            "\u0263": 285,
             "\u0265": 21,
-            "\u026f": 10,
+            "\u026f": 82,
             "\u0272": 61,
-            "\u0283": 143,
+            "\u0283": 156,
             "\u028e": 35,
-            "\u03c7": 3
+            "\u03b4": 3,
+            "\u03c7": 7,
+            "\u0457": 7
         }
     }
 }
