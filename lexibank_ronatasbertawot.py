@@ -51,8 +51,8 @@ class Dataset(BaseDataset):
             cognates = dict(zip(header, data[i]))
             concept = data[i][6]
             for language in languages:
-                entry = words.get(language).strip()
-                cog = cognates.get(language).strip()
+                entry = words.get(language, "").strip()
+                cog = cognates.get(language, "").strip()
                 if concept not in cognates:
                     cognates[concept] = cogidx
                     cogidx += 1

@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronatasbertawot",
             "rdf:type": "prov:Entity",
-            "dc:created": "f46cc95",
+            "dc:created": "3d2838b",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 1791,
+            "dc:extent": 1274,
             "tableSchema": {
                 "columns": [
                     {
@@ -161,7 +161,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 5,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -259,7 +259,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 1791,
+            "dc:extent": 1274,
             "tableSchema": {
                 "columns": [
                     {
