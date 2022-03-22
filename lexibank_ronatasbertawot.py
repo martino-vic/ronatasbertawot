@@ -47,11 +47,9 @@ class Dataset(BaseDataset):
         cogidx = 1
 
         for i in range(2, len(data)):
-            words = dict(zip(header, data[i]))
             cognates = dict(zip(header, data[i]))
             concept = data[i][6]
             for language in languages:
-                entry = words.get(language, "").strip()
                 cog = cognates.get(language, "").strip()
                 if concept not in cognates:
                     cognates[concept] = cogidx
@@ -60,7 +58,7 @@ class Dataset(BaseDataset):
                 for lex in args.writer.add_forms_from_value(
                         Language_ID=language,
                         Parameter_ID=concepts[concept],
-                        Value=entry,
+                        Value=cog,
                         Source="wot",
                         Loan=True,
                         Cognacy=cogid
@@ -80,5 +78,8 @@ class Dataset(BaseDataset):
             )
             for fidx in ["a", "b", "c"]:
                 writer.objects["BorrowingTable"].append({
-                    "lol": fidx,
+                    "ID": fidx,
+                    "Target_Form_ID": "a",
+                    "Source_Form_ID": "a",
+                    "Source": "wot"
                     })
