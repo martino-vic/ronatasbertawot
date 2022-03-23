@@ -75,7 +75,6 @@ class Dataset(BaseDataset):
                             Source="wot"
                             )
 
-                    print(lex)
                     if lex["Language_ID"] == "EAH":
                         tgtid = lex["ID"]
                     if lex["Language_ID"] == "WOT":
