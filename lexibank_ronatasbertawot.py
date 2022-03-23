@@ -6,6 +6,8 @@ from pylexibank import progressbar as pb
 from pylexibank import Language
 from pylexibank import FormSpec
 
+stack = [""]
+
 @attr.s
 class CustomLanguage(Language):
     H_orth = attr.ib(default=None)
@@ -77,7 +79,12 @@ class Dataset(BaseDataset):
 
                     if lex["Language_ID"] == "EAH":
                         tgtid = lex["ID"]
+
                     if lex["Language_ID"] == "WOT":
+                        if stack[-1] == tgtid:
+                            continue
+                        stack.pop()
+                        stack.append(tgtid)
                         args.writer.objects["BorrowingTable"].append({
                             "ID": lex["Parameter_ID"],
                             "Target_Form_ID": tgtid,

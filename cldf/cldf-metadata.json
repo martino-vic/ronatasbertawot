@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronatasbertawot",
             "rdf:type": "prov:Entity",
-            "dc:created": "f8e0e94",
+            "dc:created": "813fa56",
             "dc:title": "Repository"
         },
         {
@@ -333,7 +333,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#BorrowingTable",
-            "dc:extent": 517,
+            "dc:extent": 493,
             "tableSchema": {
                 "columns": [
                     {
