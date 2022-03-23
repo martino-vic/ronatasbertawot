@@ -17,6 +17,12 @@ class Dataset(BaseDataset):
                          replacements= [(" ", "")])
 
     def cmd_makecldf(self, args):
+
+        #add borrowing table
+        args.writer.cldf.add_component(
+            "BorrowingTable"
+            #{"name": "lol", "datatype": "string"},
+        )
         # add bib
         args.writer.add_sources()
         args.log.info("added sources")
@@ -69,17 +75,18 @@ class Dataset(BaseDataset):
                             Source="wot"
                             )
 
-        with self.cldf_writer(args) as writer:
+                    print(lex)
+                    if lex["Language_ID"] == "EAH":
+                        tgtid = lex["ID"]
+                    if lex["Language_ID"] == "WOT":
+                        args.writer.objects["BorrowingTable"].append({
+                            "ID": lex["Parameter_ID"],
+                            "Target_Form_ID": tgtid,
+                            "Source_Form_ID": lex["ID"],
+                            "Source": lex["Source"]
+                            })
 
-            writer.cldf.add_component(
-                "BorrowingTable",
-                {"name": "lol", "datatype": "string"},
-                {"name": "Etymology", "datatype": "string"}
-            )
-            for fidx in ["a", "b", "c"]:
-                writer.objects["BorrowingTable"].append({
-                    "ID": fidx,
-                    "Target_Form_ID": "a",
-                    "Source_Form_ID": "a",
-                    "Source": "wot"
-                    })
+        #with self.cldf_writer(args) as writer:
+
+
+            ##for fidx in ["a", "b", "c"]:
