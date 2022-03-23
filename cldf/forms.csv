@@ -252,22 +252,22 @@ H-80_stickcane-1,,H,80_stickcane,bot,bot,b o t,,wot,77,true,^ bot $,default
 OH-80_stickcane-1,,OH,80_stickcane,buti,buti,b u t i,,wot,77,true,^ buti $,default
 LAH-80_stickcane-1,,LAH,80_stickcane,butī,butī,b u t iː,,wot,77,true,^ butī $,default
 EAH-80_stickcane-1,,EAH,80_stickcane,butiγ,butiγ,b u t i ɣ,,wot,77,true,^ butiγ $,default
-WOT-80_stickcane-1,,WOT,80_stickcane,butїγ,butїγ,b u t ї ɣ,,wot,77,true,^ butїγ $,default
+WOT-80_stickcane-1,,WOT,80_stickcane,butїγ,butїγ,b u t ɯ ɣ,,wot,77,true,^ butїγ $,default
 H-80_stickcane-2,,H,80_stickcane,bot,bot,b o t,,wot,78,true,^ bot $,default
 OH-80_stickcane-2,,OH,80_stickcane,buti,buti,b u t i,,wot,78,true,^ buti $,default
 LAH-80_stickcane-2,,LAH,80_stickcane,butu,butu,b u t u,,wot,78,true,^ butu $,default
 EAH-80_stickcane-2,,EAH,80_stickcane,butiγ,butiγ,b u t i ɣ,,wot,78,true,^ butiγ $,default
-WOT-80_stickcane-2,,WOT,80_stickcane,butїγ,butїγ,b u t ї ɣ,,wot,78,true,^ butїγ $,default
+WOT-80_stickcane-2,,WOT,80_stickcane,butїγ,butїγ,b u t ɯ ɣ,,wot,78,true,^ butїγ $,default
 H-80_stickcane-3,,H,80_stickcane,but,but,b u t,,wot,79,true,^ but $,default
 OH-80_stickcane-3,,OH,80_stickcane,buti,buti,b u t i,,wot,79,true,^ buti $,default
 LAH-80_stickcane-3,,LAH,80_stickcane,butī,butī,b u t iː,,wot,79,true,^ butī $,default
 EAH-80_stickcane-3,,EAH,80_stickcane,butiγ,butiγ,b u t i ɣ,,wot,79,true,^ butiγ $,default
-WOT-80_stickcane-3,,WOT,80_stickcane,butїγ,butїγ,b u t ї ɣ,,wot,79,true,^ butїγ $,default
+WOT-80_stickcane-3,,WOT,80_stickcane,butїγ,butїγ,b u t ɯ ɣ,,wot,79,true,^ butїγ $,default
 H-80_stickcane-4,,H,80_stickcane,but,but,b u t,,wot,80,true,^ but $,default
 OH-80_stickcane-4,,OH,80_stickcane,buti,buti,b u t i,,wot,80,true,^ buti $,default
 LAH-80_stickcane-4,,LAH,80_stickcane,butu,butu,b u t u,,wot,80,true,^ butu $,default
 EAH-80_stickcane-4,,EAH,80_stickcane,butiγ,butiγ,b u t i ɣ,,wot,80,true,^ butiγ $,default
-WOT-80_stickcane-4,,WOT,80_stickcane,butїγ,butїγ,b u t ї ɣ,,wot,80,true,^ butїγ $,default
+WOT-80_stickcane-4,,WOT,80_stickcane,butїγ,butїγ,b u t ɯ ɣ,,wot,80,true,^ butїγ $,default
 H-81_akindofbeeralcoholicbeverage-1,,H,81_akindofbeeralcoholicbeverage,bozå,bozå,b o z ɒ,,wot,81,true,^ bozå $,default
 EAH-81_akindofbeeralcoholicbeverage-1,,EAH,81_akindofbeeralcoholicbeverage,boza,boza,b o z a,,wot,81,true,^ boza $,default
 WOT-81_akindofbeeralcoholicbeverage-1,,WOT,81_akindofbeeralcoholicbeverage,boza,boza,b o z a,,wot,81,true,^ boza $,default
@@ -431,7 +431,7 @@ EAH-129_awineoflowqualityafruitwine-1,,EAH,129_awineoflowqualityafruitwine,čigi
 WOT-129_awineoflowqualityafruitwine-1,,WOT,129_awineoflowqualityafruitwine,čïgïr,čïgïr,t͡ʃ ɯ ɡ ɯ r,,wot,128,true,^ čïgïr $,default
 H-129_awineoflowqualityafruitwine-2,,H,129_awineoflowqualityafruitwine,čiger,čiger,t͡ʃ i ɡ ɛ r,,wot,129,true,^ čiger $,default
 EAH-129_awineoflowqualityafruitwine-2,,EAH,129_awineoflowqualityafruitwine,čigir,čigir,t͡ʃ i ɡ i r,,wot,129,true,^ čigir $,default
-WOT-129_awineoflowqualityafruitwine-2,,WOT,129_awineoflowqualityafruitwine,čȧgïr,čȧgïr,t͡ʃ ȧ ɡ ɯ r,,wot,129,true,^ čȧgïr $,default
+WOT-129_awineoflowqualityafruitwine-2,,WOT,129_awineoflowqualityafruitwine,čȧgïr,čȧgïr,t͡ʃ ɐ ɡ ɯ r,,wot,129,true,^ čȧgïr $,default
 H-130_secretionmucusdischargedfromtheeyes-1,,H,130_secretionmucusdischargedfromtheeyes,čipå,čipå,t͡ʃ i p ɒ,,wot,130,true,^ čipå $,default
 EAH-130_secretionmucusdischargedfromtheeyes-1,,EAH,130_secretionmucusdischargedfromtheeyes,čapa,čapa,t͡ʃ a p a,,wot,130,true,^ čapa $,default
 WOT-130_secretionmucusdischargedfromtheeyes-1,,WOT,130_secretionmucusdischargedfromtheeyes,čapaγ,čapaγ,t͡ʃ a p a ɣ,,wot,130,true,^ čapaγ $,default
@@ -511,10 +511,10 @@ H-153_nutwalnutjuglans-2,,H,153_nutwalnutjuglans,diō,diō,d i oː,,wot,153,true
 OH-153_nutwalnutjuglans-2,,OH,153_nutwalnutjuglans,ǰiwo,ǰiwo,d͡ʒ i w o,,wot,153,true,^ ǰiwo $,default
 LAH-153_nutwalnutjuglans-2,,LAH,153_nutwalnutjuglans,ǰiγau̯,ǰiγau̯,d͡ʒ i ɣ a w,,wot,153,true,^ ǰiγau̯ $,default
 EAH-153_nutwalnutjuglans-2,,EAH,153_nutwalnutjuglans,ǰiγaγ,ǰiγaγ,d͡ʒ i ɣ a ɣ,,wot,153,true,^ ǰiγaγ $,default
-WOT-153_nutwalnutjuglans-2,,WOT,153_nutwalnutjuglans,ǰȧγaγ,ǰȧγaγ,d͡ʒ ȧ ɣ a ɣ,,wot,153,true,^ ǰȧγaγ $,default
+WOT-153_nutwalnutjuglans-2,,WOT,153_nutwalnutjuglans,ǰȧγaγ,ǰȧγaγ,d͡ʒ ɐ ɣ a ɣ,,wot,153,true,^ ǰȧγaγ $,default
 H-154_pigsusdomestica-1,,H,154_pigsusdomestica,disnō,disnō,d i s n oː,,wot,154,true,^ disnō $,default
 EAH-154_pigsusdomestica-1,,EAH,154_pigsusdomestica,ǰisnaγ,ǰisnaγ,d͡ʒ i s n a ɣ,,wot,154,true,^ ǰisnaγ $,default
-WOT-154_pigsusdomestica-1,,WOT,154_pigsusdomestica,ǰȧsnaγ,ǰȧsnaγ,d͡ʒ ȧ s n a ɣ,,wot,154,true,^ ǰȧsnaγ $,default
+WOT-154_pigsusdomestica-1,,WOT,154_pigsusdomestica,ǰȧsnaγ,ǰȧsnaγ,d͡ʒ ɐ s n a ɣ,,wot,154,true,^ ǰȧsnaγ $,default
 H-156_toleantoppleoverstreamdown-1,,H,156_toleantoppleoverstreamdown,dȫl,dȫl,d øː l,,wot,155,true,^ dȫl $,default
 OH-156_toleantoppleoverstreamdown-1,,OH,156_toleantoppleoverstreamdown,dǖl,dǖl,d yː l,,wot,155,true,^ dǖl $,default
 EAH-156_toleantoppleoverstreamdown-1,,EAH,156_toleantoppleoverstreamdown,dül,dül,d y l,,wot,155,true,^ dül $,default
@@ -757,13 +757,13 @@ EAH-220_thimble-1,,EAH,220_thimble,ǰüγsüγ,ǰüγsüγ,d͡ʒ y ɣ s y ɣ,,wo
 WOT-220_thimble-1,,WOT,220_thimble,ǰüγsüγ,ǰüγsüγ,d͡ʒ y ɣ s y ɣ,,wot,220,true,^ ǰüγsüγ $,default
 H-221_boatship-1,,H,221_boatship,håyō,håyō,h ɒ j oː,,wot,221,true,^ håyō $,default
 EAH-221_boatship-1,,EAH,221_boatship,hayiγ,hayiγ,h a j i ɣ,,wot,221,true,^ hayiγ $,default
-WOT-221_boatship-1,,WOT,221_boatship,χayїγ,χayїγ,χ a j ї ɣ,,wot,221,true,^ χayїγ $,default
+WOT-221_boatship-1,,WOT,221_boatship,χayїγ,χayїγ,χ a j ɯ ɣ,,wot,221,true,^ χayїγ $,default
 H-222_bell-1,,H,222_bell,hårång,hårång,h ɒ r ɒ n ɡ,,wot,222,true,^ hårång $,default
 EAH-222_bell-1,,EAH,222_bell,hangar,hangar,h a n ɡ a r,,wot,222,true,^ hangar $,default
 WOT-222_bell-1,,WOT,222_bell,χoŋar,χoŋar,χ o ŋ a r,,wot,222,true,^ χoŋar $,default
 H-223_hawk-1,,H,223_hawk,heryō,heryō,h ɛ r j oː,,wot,223,true,^ heryō $,default
 EAH-223_hawk-1,,EAH,223_hawk,xirγuy,xirγuy,k s i r ɣ u j,,wot,223,true,^ xirγuy $,default
-WOT-223_hawk-1,,WOT,223_hawk,χїrγuy,χїrγuy,χ ї r ɣ u j,,wot,223,true,^ χїrγuy $,default
+WOT-223_hawk-1,,WOT,223_hawk,χїrγuy,χїrγuy,χ ɯ r ɣ u j,,wot,223,true,^ χїrγuy $,default
 H-224_sand-1,,H,224_sand,homok,homok,h o m o k,,wot,224,true,^ homok $,default
 OH-224_sand-1,,OH,224_sand,humuki,humuki,h u m u k i,,wot,224,true,^ humuki $,default
 EAH-224_sand-1,,EAH,224_sand,humoki,humoki,h u m o k i,,wot,224,true,^ humoki $,default
@@ -867,7 +867,7 @@ H-255_arm-1,,H,255_arm,kår,kår,k ɒ r,,wot,255,true,^ kår $,default
 EAH-255_arm-1,,EAH,255_arm,kar,kar,k a r,,wot,255,true,^ kar $,default
 WOT-255_arm-1,,WOT,255_arm,kar,kar,k a r,,wot,255,true,^ kar $,default
 H-256_damageloss-1,,H,256_damageloss,kār,kār,k aː r,,wot,256,true,^ kār $,default
-WOT-256_damageloss-1,,WOT,256_damageloss,kăvar,kăvar,k ă v a r,,wot,256,true,^ kăvar $,default
+WOT-256_damageloss-1,,WOT,256_damageloss,kăvar,kăvar,k ɐ v a r,,wot,256,true,^ kăvar $,default
 H-257_manofgritstoutfellow-1,,H,257_manofgritstoutfellow,kåråkān,kåråkān,k ɒ r ɒ k aː n,,wot,257,true,^ kåråkān $,default
 EAH-257_manofgritstoutfellow-1,,EAH,257_manofgritstoutfellow,karakan,karakan,k a r a k a n,,wot,257,true,^ karakan $,default
 WOT-257_manofgritstoutfellow-1,,WOT,257_manofgritstoutfellow,karakan,karakan,k a r a k a n,,wot,257,true,^ karakan $,default
@@ -990,7 +990,7 @@ EAH-293_hopshumuluslupulus-1,,EAH,293_hopshumuluslupulus,kumlaγ,kumlaγ,k u m l
 WOT-293_hopshumuluslupulus-1,,WOT,293_hopshumuluslupulus,kumlaγ,kumlaγ,k u m l a ɣ,,wot,293,true,^ kumlaγ $,default
 H-294_timothygrassphleumphleumsp-1,,H,294_timothygrassphleumphleumsp,komōčin,komōčin,k o m oː t͡ʃ i n,,wot,294,true,^ komōčin $,default
 EAH-294_timothygrassphleumphleumsp-1,,EAH,294_timothygrassphleumphleumsp,kåmičin,kåmičin,k ɒ m i t͡ʃ i n,,wot,294,true,^ kåmičin $,default
-WOT-294_timothygrassphleumphleumsp-1,,WOT,294_timothygrassphleumphleumsp,kamїčïn,kamїčïn,k a m ї t͡ʃ ɯ n,,wot,294,true,^ kamїčïn $,default
+WOT-294_timothygrassphleumphleumsp-1,,WOT,294_timothygrassphleumphleumsp,kamїčïn,kamїčïn,k a m ɯ t͡ʃ ɯ n,,wot,294,true,^ kamїčïn $,default
 H-295_akindofhungariansheepdog-1,,H,295_akindofhungariansheepdog,komondor,komondor,k o m o n d o r,,wot,295,true,^ komondor $,default
 EAH-295_akindofhungariansheepdog-1,,EAH,295_akindofhungariansheepdog,kumandur,kumandur,k u m a n d u r,,wot,295,true,^ kumandur $,default
 WOT-295_akindofhungariansheepdog-1,,WOT,295_akindofhungariansheepdog,kumandur,kumandur,k u m a n d u r,,wot,295,true,^ kumandur $,default
