@@ -51,7 +51,7 @@
 | χ | 7 | ✓ | ✓ |
 | ɐ | 4 | ✓ | ✓ |
 | c | 3 | ✓ | ✓ |
-| δ | 3 | ? | ? |
+| ð | 3 | ✓ | ✓ |
 | d͡z | 1 | ✓ | ✓ |
 | f | 1 | ✓ | ✓ |
 
@@ -71,11 +71,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------|:-----------|:-----------------|:-------|:---------------------|
-| WOT-203_weed-1 | WOT | 203_weed | kaγδu | k a ɣ <s> δ </s> u |
-| WOT-488_bustardotis-1 | WOT | 488_bustardotis | togδak | t o ɡ <s> δ </s> a k |
-| WOT-94_wheattriticum-1 | WOT | 94_wheattriticum | buγδay | b u ɣ <s> δ </s> a j |
+|------|------------|-----------|--------|------------|
 
-(3 rows)
+(0 rows)
 
 

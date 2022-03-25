@@ -6,8 +6,6 @@ from pylexibank import progressbar as pb
 from pylexibank import Language
 from pylexibank import FormSpec
 
-stack = [""]
-
 @attr.s
 class CustomLanguage(Language):
     H_orth = attr.ib(default=None)
@@ -53,17 +51,20 @@ class Dataset(BaseDataset):
         header = data[0]
         cognates = {}
         cogidx = 1
+        borrid = 1
 
         for i in range(2, len(data)):
             cognates = dict(zip(header, data[i]))
             concept = data[i][6]
+            eah = ""
             for language in languages:
                 cog = cognates.get(language, "").strip()
+
                 if concept not in cognates:
                     cognates[concept] = cogidx
                     cogidx += 1
                 cogid = cognates[concept]
-                for lex in args.writer.add_forms_from_value(
+                for  lex in args.writer.add_forms_from_value(
                         Language_ID=language,
                         Parameter_ID=concepts[concept],
                         Value=cog,
@@ -71,26 +72,23 @@ class Dataset(BaseDataset):
                         Loan=True,
                         Cognacy=cogid
                         ):
-                    args.writer.add_cognate(
-                            lexeme=lex,
-                            Cognateset_ID=cogid,
-                            Source="wot"
-                            )
+                    if language == "EAH":
+                        eah = lex["ID"]
 
-                    if lex["Language_ID"] == "EAH":
-                        tgtid = lex["ID"]
-
-                    if lex["Language_ID"] == "WOT":
-                        if stack[-1] == tgtid:
-                            continue
-                        stack.pop()
-                        stack.append(tgtid)
+                    if language != "WOT":
+                        args.writer.add_cognate(
+                                lexeme=lex,
+                                Cognateset_ID=cogid,
+                                Source="wot"
+                                )
+                    elif eah:
                         args.writer.objects["BorrowingTable"].append({
-                            "ID": lex["Parameter_ID"],
-                            "Target_Form_ID": tgtid,
+                            "ID": f'{borrid}-{lex["Parameter_ID"]}',
+                            "Target_Form_ID": eah,
                             "Source_Form_ID": lex["ID"],
                             "Source": lex["Source"]
                             })
+                        borrid += 1
 
         #with self.cldf_writer(args) as writer:
 
