@@ -11,9 +11,8 @@ def main():
     in_path2 = Path.cwd().parent / "wot.tsv"
     out_path = Path.cwd().parent.parent / "etc" / "sc_vertical.tsv"
 
-    Test = qfysc.Qfy(dfetymology=(in_path1, in_path2, "EAH", "H"))
-    print(Test.align("lol", "lol"))
-    Test.dfetymology2dict()
+    Test = qfysc.Qfy(dfetymology=(in_path1, in_path2, "EAH", "H"), left="Target_Form", right="Source_Form")
+    Test.dfetymology2dict(write=True)
 
 if __name__ == "__main__":
     main()
