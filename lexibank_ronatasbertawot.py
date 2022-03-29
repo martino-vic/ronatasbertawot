@@ -53,7 +53,7 @@ class Dataset(BaseDataset):
         cogidx = 1
         borrid = 1
 
-        for i in range(2, len(data)):
+        for i in range(1, len(data)):
             cognates = dict(zip(header, data[i]))
             concept = data[i][6]
             eah = ""

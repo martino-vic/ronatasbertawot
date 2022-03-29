@@ -1,8 +1,13 @@
 {
     "by_language": {
         "EAH": {
-            "bipa_errors": [],
-            "general_errors": 0,
+            "bipa_errors": [
+                "<<a>>",
+                "<<i>>",
+                "<<\u010d>>",
+                "<<\u03b3>>"
+            ],
+            "general_errors": 5,
             "replacements": {
                 "a": [
                     "a"
@@ -152,8 +157,17 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [],
+            "sclass_errors": [
+                "<<a>>",
+                "<<i>>",
+                "<<\u010d>>",
+                "<<\u03b3>>"
+            ],
             "segments": {
+                "<<a>>": 2,
+                "<<i>>": 1,
+                "<<\u010d>>": 1,
+                "<<\u03b3>>": 1,
                 "a": 239,
                 "a\u02d0": 14,
                 "b": 76,
@@ -197,8 +211,11 @@
             }
         },
         "H": {
-            "bipa_errors": [],
-            "general_errors": 0,
+            "bipa_errors": [
+                "<<\u010d>>",
+                "<<\u0101>>"
+            ],
+            "general_errors": 2,
             "replacements": {
                 "a": [
                     "a"
@@ -348,8 +365,13 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [],
+            "sclass_errors": [
+                "<<\u010d>>",
+                "<<\u0101>>"
+            ],
             "segments": {
+                "<<\u0101>>": 1,
+                "<<\u010d>>": 1,
                 "a\u02d0": 97,
                 "b": 80,
                 "c": 3,
@@ -782,8 +804,13 @@
             }
         },
         "WOT": {
-            "bipa_errors": [],
-            "general_errors": 0,
+            "bipa_errors": [
+                "<<a>>",
+                "<<\u00ef>>",
+                "<<\u010d>>",
+                "<<\u03b3>>"
+            ],
+            "general_errors": 6,
             "replacements": {
                 "a": [
                     "a"
@@ -933,8 +960,17 @@
                     "\u03c7"
                 ]
             },
-            "sclass_errors": [],
+            "sclass_errors": [
+                "<<a>>",
+                "<<\u00ef>>",
+                "<<\u010d>>",
+                "<<\u03b3>>"
+            ],
             "segments": {
+                "<<a>>": 2,
+                "<<\u00ef>>": 1,
+                "<<\u010d>>": 2,
+                "<<\u03b3>>": 1,
                 "a": 263,
                 "a\u02d0": 5,
                 "b": 77,
@@ -979,13 +1015,42 @@
         }
     },
     "stats": {
-        "bad_words": [],
-        "bad_words_count": 0,
-        "bipa_errors": [],
-        "general_errors": 0,
+        "bad_words": [
+            [
+                "EAH-0_carpenter-1",
+                "EAH",
+                "0_carpenter",
+                "a\u03b3a\u010di",
+                "<s> <<a>> </s> <s> <<\u03b3>> </s> <s> <<a>> </s> <s> <<\u010d>> </s> <s> <<i>> </s>"
+            ],
+            [
+                "H-0_carpenter-1",
+                "H",
+                "0_carpenter",
+                "\u0101\u010d",
+                "<s> <<\u0101>> </s> <s> <<\u010d>> </s>"
+            ],
+            [
+                "WOT-0_carpenter-1",
+                "WOT",
+                "0_carpenter",
+                "a\u03b3a\u010d\u010d\u00ef",
+                "<s> <<a>> </s> <s> <<\u03b3>> </s> <s> <<a>> </s> <s> <<\u010d>> </s> <s> <<\u010d>> </s> <s> <<\u00ef>> </s>"
+            ]
+        ],
+        "bad_words_count": 3,
+        "bipa_errors": [
+            "<<\u0101>>",
+            "<<\u03b3>>",
+            "<<\u00ef>>",
+            "<<\u010d>>",
+            "<<a>>",
+            "<<i>>"
+        ],
+        "general_errors": 13,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 39.4,
+        "inventory_size": 41.4,
         "replacements": {
             "a": [
                 "a"
@@ -1135,8 +1200,21 @@
                 "\u03c7"
             ]
         },
-        "sclass_errors": [],
+        "sclass_errors": [
+            "<<\u0101>>",
+            "<<\u03b3>>",
+            "<<\u00ef>>",
+            "<<\u010d>>",
+            "<<a>>",
+            "<<i>>"
+        ],
         "segments": {
+            "<<a>>": 4,
+            "<<i>>": 1,
+            "<<\u00ef>>": 1,
+            "<<\u0101>>": 1,
+            "<<\u010d>>": 4,
+            "<<\u03b3>>": 2,
             "a": 563,
             "a\u02d0": 129,
             "b": 274,
