@@ -1,29 +1,29 @@
 Language_ID	Grapheme	IPA
 H	āč	aː t͡ʃ
-EAH	aγači	a ɣ a t͡ʃ i
-WOT	aγaččï	a ɣ a t͡ʃ t͡ʃ ɯ
+EAH	aγači	a γ a t͡ʃ i
+WOT	aγaččï	a γ a t͡ʃː ï
 H	ādʹū	aː ɟ uː
 OH	āldʹū	aː l ɟ uː
-LAH	aldau̯	a l d a w
-EAH	aldaγ	a l d a ɣ
+LAH	aldau̯	a l d a u̯
+EAH	aldaγ	a l d a γ
 H	åynāroz	ɒ j n aː r o z
 EAH	ayan	a j a n
 H	ākoš	aː k o ʃ
-WOT	akïš	a k ɯ ʃ
-WOT	agïš	a ɡ ɯ ʃ
+WOT	akïš	a k ï ʃ
+WOT	agïš	a ɡ ï ʃ
 H	āgoš	aː ɡ o ʃ
 H	āl	aː l
 WOT	al	a l
 H	ålåč	ɒ l ɒ t͡ʃ
 EAH	alač	a l a t͡ʃ
-WOT	alačï	a l a t͡ʃ ɯ
+WOT	alačï	a l a t͡ʃ ï
 WOT	alaču	a l a t͡ʃ u
 WOT	alačo	a l a t͡ʃ o
 H	ålmå	ɒ l m ɒ
 EAH	alma	a l m a
 H	āltålåg	aː l t ɒ l ɒ ɡ
 EAH	altalag	a l t a l a ɡ
-WOT	altïlïg	a l t ɯ l ɯ ɡ
+WOT	altïlïg	a l t ï l ï ɡ
 H	ātålåg	aː t ɒ l ɒ ɡ
 H	āpol	aː p o l
 OH	apol	a p o l
@@ -32,8 +32,8 @@ H	āporodik	aː p o r o d i k
 EAH	oporo	o p o r o
 WOT	opura	o p u r a
 H	åprō	ɒ p r oː
-OH	oprau̯	o p r a w
-EAH	opuruγ	o p u r u ɣ
+OH	oprau̯	o p r a u̯
+EAH	opuruγ	o p u r u γ
 H	åråt	ɒ r ɒ t
 EAH	orat	o r a t
 WOT	or	o r
@@ -52,11 +52,11 @@ H	ārpå	aː r p ɒ
 EAH	arpa	a r p a
 H	ārtāń	aː r t aː ɲ
 EAH	aritan	a r i t a n
-WOT	arïtan	a r ɯ t a n
+WOT	arïtan	a r ï t a n
 H	āsok	aː s o k
 OH	ask	a s k
 EAH	aski	a s k i
-WOT	askï	a s k ɯ
+WOT	askï	a s k ï
 H	bāy	b aː j
 EAH	bay	b a j
 H	bålkāń	b ɒ l k aː ɲ
@@ -67,8 +67,8 @@ H	bālvāń	b aː l v aː ɲ
 EAH	balvan	b a l v a n
 H	bān	b aː n
 WOT	bayan	b a j a n
-EAH	baγin	b a ɣ i n
-WOT	bagïn	b a ɡ ɯ n
+EAH	baγin	b a γ i n
+WOT	bagïn	b a ɡ ï n
 H	bårāg	b ɒ r aː ɡ
 EAH	barag	b a r a ɡ
 H	bārcå	b aː r t͡s ɒ
@@ -82,52 +82,52 @@ EAH	barčun	b a r t͡ʃ u n
 H	båsik	b ɒ s i k
 EAH	bas	b a s
 H	bātor	b aː t o r
-EAH	baγatur	b a ɣ a t u r
+EAH	baγatur	b a γ a t u r
 H	bēkå	b eː k ɒ
 EAH	baka	b a k a
 H	bēkō	b eː k oː
-EAH	bikaγu	b i k a ɣ u
-WOT	bïkaγu	b ɯ k a ɣ u
-H	bēklʹō	b eː k ʎ oː
-H	bēlʹeg	b eː ʎ ɛ ɡ
+EAH	bikaγu	b i k a γ u
+WOT	bïkaγu	b ï k a γ u
+H	bēklʹō	b eː k lʹ oː
+H	bēlʹeg	b eː lʹ ɛ ɡ
 EAH	beleg	b ɛ l ɛ ɡ
-WOT	bäläg	b ɛ l ɛ ɡ
+WOT	bäläg	b ä l ä ɡ
 H	bēr	b eː r
 EAH	bērü	b eː r y
 WOT	berü	b ɛ r y
 H	bercel	b ɛ r t͡s ɛ l
 EAH	bersil	b ɛ r s i l
-WOT	Bärsil	b ɛ r s i l
+WOT	Bärsil	b ä r s i l
 H	bertǖ	b ɛ r t yː
 OH	börtǖ	b ø r t yː
-LAH	börteü̯	b ø r t ɛ ɥ
-EAH	bürtiγ	b y r t i ɣ
+LAH	börteü̯	b ø r t ɛ ü̯
+EAH	bürtiγ	b y r t i γ
 H	beše	b ɛ ʃ ɛ
-WOT	bäšä	b ɛ ʃ ɛ
+WOT	bäšä	b ä ʃ ä
 H	bešeńȫ	b ɛ ʃ ɛ ɲ øː
-OH	bešeneü̯	b ɛ ʃ ɛ n ɛ ɥ
-EAH	bešeneγ	b ɛ ʃ ɛ n ɛ ɣ
-WOT	bäčänäg	b ɛ t͡ʃ ɛ n ɛ ɡ
+OH	bešeneü̯	b ɛ ʃ ɛ n ɛ ü̯
+EAH	bešeneγ	b ɛ ʃ ɛ n ɛ γ
+WOT	bäčänäg	b ä t͡ʃ ä n ä ɡ
 H	betǖ	b ɛ t yː
-OH	beteü̯	b ɛ t ɛ ɥ
-EAH	bitiγ	b i t i ɣ
+OH	beteü̯	b ɛ t ɛ ü̯
+EAH	bitiγ	b i t i γ
 WOT	bitig	b i t i ɡ
 H	bičåk	b i t͡ʃ ɒ k
 EAH	bičak	b i t͡ʃ a k
-WOT	bïčak	b ɯ t͡ʃ a k
-WOT	bïčkï	b ɯ t͡ʃ k ɯ
-WOT	bičkä	b i t͡ʃ k ɛ
+WOT	bïčak	b ï t͡ʃ a k
+WOT	bïčkï	b ï t͡ʃ k ï
+WOT	bičkä	b i t͡ʃ k ä
 H	bikå	b i k ɒ
 EAH	bika	b i k a
-WOT	bïka	b ɯ k a
+WOT	bïka	b ï k a
 H	bilinč	b i l i n t͡ʃ
 OH	bilinček	b i l i n t͡ʃ ɛ k
 EAH	bileček	b i l ɛ t͡ʃ ɛ k
-WOT	biläčäk	b i l ɛ t͡ʃ ɛ k
+WOT	biläčäk	b i l ä t͡ʃ ä k
 H	bīrō	b iː r oː
 OH	birō	b i r oː
-EAH	biruγ	b i r u ɣ
-WOT	bïrug	b ɯ r u ɡ
+EAH	biruγ	b i r u γ
+WOT	bïrug	b ï r u ɡ
 H	bočānik	b o t͡ʃ aː n i k
 OH	bočan	b o t͡ʃ a n
 EAH	bolčan	b o l t͡ʃ a n
@@ -137,87 +137,87 @@ EAH	bulčat	b u l t͡ʃ a t
 WOT	bolčat	b o l t͡ʃ a t
 H	bōdå	b oː d ɒ
 OH	boldå	b o l d ɒ
-EAH	baldaw	b a l d a w
+EAH	baldaw	b a l d a v
 H	bog	b o ɡ
-H	boglʹå	b o ɡ ʎ ɒ
-LAH	bogulʹa	b o ɡ u ʎ a
+H	boglʹå	b o ɡ lʹ ɒ
+LAH	bogulʹa	b o ɡ u lʹ a
 EAH	bogul	b o ɡ u l
 H	boyt	b o j t
 OH	buyt	b u j t
-LAH	buγt	b u ɣ t
-EAH	buγut	b u ɣ u t
+LAH	buγt	b u γ t
+EAH	buγut	b u γ u t
 WOT	bogut	b o ɡ u t
 H	boytoryān	b o j t o r j aː n
-EAH	balturγan	b a l t u r ɣ a n
+EAH	balturγan	b a l t u r γ a n
 WOT	balturgan	b a l t u r ɡ a n
 H	bokå	b o k ɒ
 H	båkånč	b ɒ k ɒ n t͡ʃ
 EAH	båkå	b ɒ k ɒ
-H	bolʹ	b o ʎ
-EAH	boγol	b o ɣ o l
-WOT	boγul	b o ɣ u l
+H	bolʹ	b o lʹ
+EAH	boγol	b o γ o l
+WOT	boγul	b o γ u l
 H	bor	b o r
 EAH	bur	b u r
 H	boryū	b o r j uː
-OH	burγu	b u r ɣ u
-EAH	buraγu	b u r a ɣ u
+OH	burγu	b u r γ u
+EAH	buraγu	b u r a γ u
 H	borš	b o r ʃ
 EAH	burč	b u r t͡ʃ
 H	boršō	b o r ʃ oː
-OH	buršau̯	b u r ʃ a w
-EAH	burčaγ	b u r t͡ʃ a ɣ
+OH	buršau̯	b u r ʃ a u̯
+EAH	burčaγ	b u r t͡ʃ a γ
 H	borz	b o r z
 EAH	borsi	b o r s i
-WOT	borsï	b o r s ɯ
+WOT	borsï	b o r s ï
 H	bosorkāń	b o s o r k aː ɲ
 EAH	basarkan	b a s a r k a n
 H	bossån	b o s s ɒ n
 EAH	busan	b u s a n
 H	bossū	b o s s uː
-OH	bossou̯	b o s s o w
-EAH	bosuγ	b o s u ɣ
+OH	bossou̯	b o s s o u̯
+EAH	bosuγ	b o s u γ
 H	bot	b o t
 OH	buti	b u t i
 LAH	butī	b u t iː
-EAH	butiγ	b u t i ɣ
-WOT	butїγ	b u t ɯ ɣ
+EAH	butiγ	b u t i γ
+WOT	butїγ	b u t ї γ
 LAH	butu	b u t u
 H	but	b u t
 H	bozå	b o z ɒ
 EAH	boza	b o z a
 H	bȫ	b øː
-OH	beü̯	b ɛ ɥ
-EAH	beγ	b ɛ ɣ
-WOT	bäγ	b ɛ ɣ
-H	bögölʹ	b ø ɡ ø ʎ
-LAH	bögölʹök	b ø ɡ ø ʎ ø k
+OH	beü̯	b ɛ ü̯
+EAH	beγ	b ɛ γ
+WOT	bäγ	b ä γ
+H	bögölʹ	b ø ɡ ø lʹ
+LAH	bögölʹök	b ø ɡ ø lʹ ø k
 EAH	bögölök	b ø ɡ ø l ø k
-WOT	bögöläk	b ø ɡ ø l ɛ k
+WOT	bögöläk	b ø ɡ ø l ä k
 H	böyt	b ø j t
 OH	büχt	b y χ t
-EAH	büγte	b y ɣ t ɛ
-WOT	büγtä	b y ɣ t ɛ
+EAH	büγte	b y γ t ɛ
+WOT	büγtä	b y γ t ä
 H	bölč	b ø l t͡ʃ
 OH	bȫč	b øː t͡ʃ
-EAH	büγüči	b y ɣ y t͡ʃ i
+EAH	büγüči	b y γ y t͡ʃ i
 H	bölčȫ	b ø l t͡ʃ øː
 OH	belčȫ	b ɛ l t͡ʃ øː
-EAH	belčeγ	b ɛ l t͡ʃ ɛ ɣ
-WOT	belčiγ	b ɛ l t͡ʃ i ɣ
+EAH	belčeγ	b ɛ l t͡ʃ ɛ γ
+WOT	belčiγ	b ɛ l t͡ʃ i γ
 H	bölēń	b ø l eː ɲ
 OH	belēń	b ɛ l eː ɲ
 EAH	belen	b ɛ l ɛ n
-WOT	bülän	b y l ɛ n
+WOT	bülän	b y l ä n
 H	börtön	b ø r t ø n
 EAH	berten	b ɛ r t ɛ n
-WOT	bärtän	b ɛ r t ɛ n
+WOT	bärtän	b ä r t ä n
 H	būš	b uː ʃ
 OH	bū	b uː
-EAH	buγ	b u ɣ
+EAH	buγ	b u γ
 H	būčū	b uː t͡ʃ uː
 OH	bulčū	b u l t͡ʃ uː
-EAH	bulčuγ	b u l t͡ʃ u ɣ
-WOT	bolčuγ	b o l t͡ʃ u ɣ
+EAH	bulčuγ	b u l t͡ʃ u γ
+WOT	bolčuγ	b o l t͡ʃ u γ
 H	bugå	b u ɡ ɒ
 EAH	buga	b u ɡ a
 H	bulår	b u l ɒ r
@@ -225,56 +225,56 @@ EAH	bular	b u l a r
 H	būs	b uː s
 H	būzå	b uː z ɒ
 OH	būza	b uː z a
-EAH	buγzai	b u ɣ z a i
-WOT	buγδay	b u ɣ ð a j
+EAH	buγzai	b u γ z a i
+WOT	buγδay	b u γ δ a j
 H	buzogāń	b u z o ɡ aː ɲ
 EAH	buzgan	b u z ɡ a n
 H	bük	b y k
 EAH	bik	b i k
 H	bǖn	b yː n
 H	bütü	b y t y
-EAH	bütüγ	b y t y ɣ
+EAH	bütüγ	b y t y γ
 H	bǖvös	b yː v ø s
 OH	bǖ	b yː
-EAH	büγü	b y ɣ y
+EAH	büγü	b y γ y
 H	cigle	t͡s i ɡ l ɛ
 EAH	čigle	t͡ʃ i ɡ l ɛ
-WOT	čiglä	t͡ʃ i ɡ l ɛ
+WOT	čiglä	t͡ʃ i ɡ l ä
 EAH	čikle	t͡ʃ i k l ɛ
-WOT	čiklä	t͡ʃ i k l ɛ
+WOT	čiklä	t͡ʃ i k l ä
 H	čëkle	t͡ʃ e k l ɛ
-H	čeklʹe	t͡ʃ ɛ k ʎ ɛ
-H	čigolʹå	t͡ʃ i ɡ o ʎ ɒ
-OH	čigolʹa	t͡ʃ i ɡ o ʎ a
+H	čeklʹe	t͡ʃ ɛ k lʹ ɛ
+H	čigolʹå	t͡ʃ i ɡ o lʹ ɒ
+OH	čigolʹa	t͡ʃ i ɡ o lʹ a
 EAH	čigla	t͡ʃ i ɡ l a
-WOT	čïgla	t͡ʃ ɯ ɡ l a
+WOT	čïgla	t͡ʃ ï ɡ l a
 H	čiglå	t͡ʃ i ɡ l ɒ
 H	cötkēń	t͡s ø t k eː ɲ
 EAH	sütken	s y t k ɛ n
-WOT	sütkän	s y t k ɛ n
-WOT	süttägän	s y t t ɛ ɡ ɛ n
-EAH	süttegen	s y t t ɛ ɡ ɛ n
+WOT	sütkän	s y t k ä n
+WOT	süttägän	s y tː ä ɡ ä n
+EAH	süttegen	s y tː ɛ ɡ ɛ n
 H	čåbåk	t͡ʃ ɒ b ɒ k
 EAH	čabak	t͡ʃ a b a k
 H	čåk	t͡ʃ ɒ k
 EAH	čak	t͡ʃ a k
 H	čākāń	t͡ʃ aː k aː ɲ
 EAH	čakan	t͡ʃ a k a n
-WOT	čakkan	t͡ʃ a k k a n
+WOT	čakkan	t͡ʃ a kː a n
 H	čålān	t͡ʃ ɒ l aː n
 EAH	čalān	t͡ʃ a l aː n
-WOT	čalïγan	t͡ʃ a l ɯ ɣ a n
+WOT	čalïγan	t͡ʃ a l ï γ a n
 EAH	čilān	t͡ʃ i l aː n
-EAH	čalaγan	t͡ʃ a l a ɣ a n
+EAH	čalaγan	t͡ʃ a l a γ a n
 H	čålit	t͡ʃ ɒ l i t
 EAH	čalit	t͡ʃ a l i t
-WOT	čaltï	t͡ʃ a l t ɯ
-WOT	čalït	t͡ʃ a l ɯ t
+WOT	čaltï	t͡ʃ a l t ï
+WOT	čalït	t͡ʃ a l ï t
 H	čånåk	t͡ʃ ɒ n ɒ k
 EAH	čanak	t͡ʃ a n a k
 H	čåtå	t͡ʃ ɒ t ɒ
 EAH	čata	t͡ʃ a t a
-WOT	čatï	t͡ʃ a t ɯ
+WOT	čatï	t͡ʃ a t ï
 H	čåtol	t͡ʃ ɒ t o l
 OH	čatol	t͡ʃ a t o l
 EAH	čat	t͡ʃ a t
@@ -287,23 +287,23 @@ H	čekēl	t͡ʃ ɛ k eː l
 OH	ček	t͡ʃ ɛ k
 EAH	čik	t͡ʃ i k
 H	čigå	t͡ʃ i ɡ ɒ
-EAH	čïga	t͡ʃ ɯ ɡ a
+EAH	čïga	t͡ʃ ï ɡ a
 H	čiger	t͡ʃ i ɡ ɛ r
 EAH	čigir	t͡ʃ i ɡ i r
-WOT	čïgïr	t͡ʃ ɯ ɡ ɯ r
-WOT	čȧgïr	t͡ʃ ɐ ɡ ɯ r
+WOT	čïgïr	t͡ʃ ï ɡ ï r
+WOT	čȧgïr	t͡ʃ ȧ ɡ ï r
 H	čipå	t͡ʃ i p ɒ
 EAH	čapa	t͡ʃ a p a
-WOT	čapaγ	t͡ʃ a p a ɣ
+WOT	čapaγ	t͡ʃ a p a γ
 H	čolāk	t͡ʃ o l aː k
 EAH	čolak	t͡ʃ o l a k
 H	čomåk	t͡ʃ o m ɒ k
 EAH	čomak	t͡ʃ o m a k
 H	čȫdör	t͡ʃ øː d ø r
-EAH	čeü̯dür	t͡ʃ ɛ ɥ d y r
+EAH	čeü̯dür	t͡ʃ ɛ ü̯ d y r
 WOT	čeüdür	t͡ʃ ɛ y d y r
-WOT	čäüdär	t͡ʃ ɛ y d ɛ r
-WOT	čewdür	t͡ʃ ɛ w d y r
+WOT	čäüdär	t͡ʃ ä y d ä r
+WOT	čewdür	t͡ʃ ɛ v d y r
 H	čök	t͡ʃ ø k
 EAH	čük	t͡ʃ y k
 WOT	čükV	t͡ʃ y k v
@@ -313,78 +313,78 @@ OH	čököń	t͡ʃ ø k ø ɲ
 EAH	čükün	t͡ʃ y k y n
 WOT	čikin	t͡ʃ i k i n
 H	čȫs	t͡ʃ øː s
-EAH	čäüš	t͡ʃ ɛ y ʃ
-WOT	čäwiš	t͡ʃ ɛ w i ʃ
+EAH	čäüš	t͡ʃ ä y ʃ
+WOT	čäwiš	t͡ʃ ä v i ʃ
 H	čūńå	t͡ʃ uː ɲ ɒ
 OH	čuńa	t͡ʃ u ɲ a
-EAH	čunaγ	t͡ʃ u n a ɣ
+EAH	čunaγ	t͡ʃ u n a γ
 H	čǖr	t͡ʃ yː r
 EAH	čevür	t͡ʃ ɛ v y r
-WOT	čäwür	t͡ʃ ɛ w y r
+WOT	čäwür	t͡ʃ ä v y r
 OH	čǖri	t͡ʃ yː r i
 EAH	čeviri	t͡ʃ ɛ v i r i
-WOT	čäviri	t͡ʃ ɛ v i r i
+WOT	čäviri	t͡ʃ ä v i r i
 H	dåkši	d ɒ k ʃ i
-EAH	ǰakši	d͡ʒ a k ʃ i
-WOT	ǰakšï	d͡ʒ a k ʃ ɯ
+EAH	ǰakši	j a k ʃ i
+WOT	ǰakšï	j a k ʃ ï
 H	dåku	d ɒ k u
 EAH	daku	d a k u
 H	dårå	d ɒ r ɒ
 EAH	dara	d a r a
-WOT	tarï	t a r ɯ
-WOT	darï	d a r ɯ
+WOT	tarï	t a r ï
+WOT	darï	d a r ï
 H	dēl	d eː l
 EAH	töli	t ø l i
 WOT	tüli	t y l i
 WOT	düli	d y l i
 EAH	döli	d ø l i
 H	diō	d i oː
-OH	ǰiwo	d͡ʒ i w o
-LAH	ǰiγau̯	d͡ʒ i ɣ a w
-EAH	ǰiγaγ	d͡ʒ i ɣ a ɣ
-WOT	ǰïγaγ	d͡ʒ ɯ ɣ a ɣ
-WOT	ǰȧγaγ	d͡ʒ ɐ ɣ a ɣ
+OH	ǰiwo	j i v o
+LAH	ǰiγau̯	j i γ a u̯
+EAH	ǰiγaγ	j i γ a γ
+WOT	ǰïγaγ	j ï γ a γ
+WOT	ǰȧγaγ	j ȧ γ a γ
 H	disnō	d i s n oː
-EAH	ǰisnaγ	d͡ʒ i s n a ɣ
-WOT	ǰȧsnaγ	d͡ʒ ɐ s n a ɣ
+EAH	ǰisnaγ	j i s n a γ
+WOT	ǰȧsnaγ	j ȧ s n a γ
 H	dȫl	d øː l
 OH	dǖl	d yː l
 EAH	dül	d y l
 WOT	tül	t y l
 H	dug	d u ɡ
-EAH	dïg	d ɯ ɡ
-WOT	tïk	t ɯ k
+EAH	dïg	d ï ɡ
+WOT	tïk	t ï k
 H	ëdʹhāz	e ɟ h aː z
 EAH	ëdʹ	e ɟ
 WOT	edü	ɛ d y
 WOT	edi	ɛ d i
 H	ēk	eː k
 H	eke	ɛ k ɛ
-EAH	ekeγ	ɛ k ɛ ɣ
-WOT	äkäγ	ɛ k ɛ ɣ
+EAH	ekeγ	ɛ k ɛ γ
+WOT	äkäγ	ä k ä γ
 H	enged	ɛ n ɡ ɛ d
 EAH	eng	ɛ n ɡ
-WOT	äŋ	ɛ ŋ
+WOT	äŋ	ä ŋ
 H	engestel	ɛ n ɡ ɛ s t ɛ l
 H	enȫ	ɛ n øː
-OH	eneü̯	ɛ n ɛ ɥ
-EAH	ineγ	i n ɛ ɣ
-WOT	inäγ	i n ɛ ɣ
+OH	eneü̯	ɛ n ɛ ü̯
+EAH	ineγ	i n ɛ γ
+WOT	inäγ	i n ä γ
 H	ēr	eː r
 EAH	er	ɛ r
 H	ērdem	eː r d ɛ m
 EAH	erdem	ɛ r d ɛ m
-WOT	ärdäm	ɛ r d ɛ m
+WOT	ärdäm	ä r d ä m
 H	erkölč	ɛ r k ø l t͡ʃ
 EAH	erkelč	ɛ r k ɛ l t͡ʃ
-WOT	ärkilč	ɛ r k i l t͡ʃ
+WOT	ärkilč	ä r k i l t͡ʃ
 H	erńed	ɛ r ɲ ɛ d
 EAH	erin	ɛ r i n
-WOT	ärin	ɛ r i n
+WOT	ärin	ä r i n
 H	erȫ	ɛ r øː
-OH	ereü̯	ɛ r ɛ ɥ
-EAH	eriγ	ɛ r i ɣ
-WOT	äriγ	ɛ r i ɣ
+OH	ereü̯	ɛ r ɛ ü̯
+EAH	eriγ	ɛ r i γ
+WOT	äriγ	ä r i γ
 H	eš	ɛ ʃ
 OH	ešü	ɛ ʃ y
 LAH	ečü	ɛ t͡ʃ y
@@ -397,196 +397,196 @@ EAH	es	ɛ s
 WOT	esV	ɛ s v
 H	etel	ɛ t ɛ l
 EAH	etil	ɛ t i l
-WOT	ätil	ɛ t i l
+WOT	ätil	ä t i l
 H	gåz	ɡ ɒ z
 OH	kāz	k aː z
-EAH	kaγzu	k a ɣ z u
-WOT	kaγδu	k a ɣ ð u
+EAH	kaγzu	k a γ z u
+WOT	kaγδu	k a γ δ u
 H	gödēń	ɡ ø d eː ɲ
 OH	güden	ɡ y d ɛ n
-WOT	güdän	ɡ y d ɛ n
-WOT	kütän	k y t ɛ n
+WOT	güdän	ɡ y d ä n
+WOT	kütän	k y t ä n
 H	görēń	ɡ ø r eː ɲ
 EAH	güren	ɡ y r ɛ n
-WOT	gürän	ɡ y r ɛ n
-WOT	kürän	k y r ɛ n
+WOT	gürän	ɡ y r ä n
+WOT	kürän	k y r ä n
 H	güdʹǖ	ɡ y ɟ yː
 OH	küdʹǖ	k y ɟ yː
-LAH	küdʹeü̯	k y ɟ ɛ ɥ
-EAH	küdeγü	k y d ɛ ɣ y
-WOT	küdägü	k y d ɛ ɡ y
+LAH	küdʹeü̯	k y ɟ ɛ ü̯
+EAH	küdeγü	k y d ɛ γ y
+WOT	küdägü	k y d ä ɡ y
 H	güzü	ɡ y z y
 OH	güzǖ	ɡ y z yː
-LAH	küzeγü	k y z ɛ ɣ y
-EAH	küseγü	k y s ɛ ɣ y
-WOT	küsäγü	k y s ɛ ɣ y
+LAH	küzeγü	k y z ɛ γ y
+EAH	küseγü	k y s ɛ γ y
+WOT	küsäγü	k y s ä γ y
 H	dʹålāz	ɟ ɒ l aː z
 OH	dʹala	ɟ a l a
-EAH	ǰala	d͡ʒ a l a
+EAH	ǰala	j a l a
 H	dʹålom	ɟ ɒ l o m
-EAH	ǰalum	d͡ʒ a l u m
-WOT	ǰalïm	d͡ʒ a l ɯ m
+EAH	ǰalum	j a l u m
+WOT	ǰalïm	j a l ï m
 H	dʹånū	ɟ ɒ n uː
-OH	ǰanau̯	d͡ʒ a n a w
-EAH	ǰonaγ	d͡ʒ o n a ɣ
+OH	ǰanau̯	j a n a u̯
+EAH	ǰonaγ	j o n a γ
 H	dʹåpyū	ɟ ɒ p j uː
-OH	ǰapyu	d͡ʒ a p j u
-EAH	ǰapγu	d͡ʒ a p ɣ u
-WOT	ǰapaγu	d͡ʒ a p a ɣ u
+OH	ǰapyu	j a p j u
+EAH	ǰapγu	j a p γ u
+WOT	ǰapaγu	j a p a γ u
 H	dʹåpot	ɟ ɒ p o t
-EAH	ǰaput	d͡ʒ a p u t
+EAH	ǰaput	j a p u t
 H	dʹåråpodik	ɟ ɒ r ɒ p o d i k
 OH	dʹåråp	ɟ ɒ r ɒ p
-LAH	ǰarap	d͡ʒ a r a p
-EAH	ǰarpa	d͡ʒ a r p a
+LAH	ǰarap	j a r a p
+EAH	ǰarpa	j a r p a
 H	dʹåråpsik	ɟ ɒ r ɒ p s i k
 H	dʹårlō	ɟ ɒ r l oː
-OH	ǰarlou̯	d͡ʒ a r l o w
-EAH	ǰarlïγ	d͡ʒ a r l ɯ ɣ
+OH	ǰarlou̯	j a r l o u̯
+EAH	ǰarlïγ	j a r l ï γ
 H	dʹārt	ɟ aː r t
 OH	dʹarat	ɟ a r a t
-EAH	ǰarat	d͡ʒ a r a t
+EAH	ǰarat	j a r a t
 H	dʹās	ɟ aː s
-OH	ǰās	d͡ʒ aː s
-EAH	ǰas	d͡ʒ a s
+OH	ǰās	j aː s
+EAH	ǰas	j a s
 H	dʹēkēń	ɟ eː k eː ɲ
-EAH	ǰeken	d͡ʒ ɛ k ɛ n
-WOT	ǰekän	d͡ʒ ɛ k ɛ n
+EAH	ǰeken	j ɛ k ɛ n
+WOT	ǰekän	j ɛ k ä n
 H	dʹënge	ɟ e n ɡ ɛ
-EAH	ǰenge	d͡ʒ ɛ n ɡ ɛ
-WOT	ǰeŋi	d͡ʒ ɛ ŋ i
+EAH	ǰenge	j ɛ n ɡ ɛ
+WOT	ǰeŋi	j ɛ ŋ i
 H	dʹeplȫ	ɟ ɛ p l øː
-OH	ǰepleü̯	d͡ʒ ɛ p l ɛ ɥ
-EAH	ǰipliγ	d͡ʒ i p l i ɣ
+OH	ǰepleü̯	j ɛ p l ɛ ü̯
+EAH	ǰipliγ	j i p l i γ
 H	dʹepǖ	ɟ ɛ p yː
-OH	ǰepeü̯	d͡ʒ ɛ p ɛ ɥ
-EAH	ǰepiγ	d͡ʒ ɛ p i ɣ
-WOT	ǰäpiγ	d͡ʒ ɛ p i ɣ
+OH	ǰepeü̯	j ɛ p ɛ ü̯
+EAH	ǰepiγ	j ɛ p i γ
+WOT	ǰäpiγ	j ä p i γ
 H	dʹep	ɟ ɛ p
-EAH	ǰepi	d͡ʒ ɛ p i
-WOT	ǰäpi	d͡ʒ ɛ p i
+EAH	ǰepi	j ɛ p i
+WOT	ǰäpi	j ä p i
 H	dʹermek	ɟ ɛ r m ɛ k
-EAH	ǰärmäk	d͡ʒ ɛ r m ɛ k
-WOT	ǰärmük	d͡ʒ ɛ r m y k
-H	dʹertʹå	ɟ ɛ r c ɒ
-EAH	ǰarta	d͡ʒ a r t a
-H	dʹertʹān	ɟ ɛ r c aː n
-OH	ǰartān	d͡ʒ a r t aː n
-EAH	ǰartaγan	d͡ʒ a r t a ɣ a n
+EAH	ǰärmäk	j ä r m ä k
+WOT	ǰärmük	j ä r m y k
+H	dʹertʹå	ɟ ɛ r tʹ ɒ
+EAH	ǰarta	j a r t a
+H	dʹertʹān	ɟ ɛ r tʹ aː n
+OH	ǰartān	j a r t aː n
+EAH	ǰartaγan	j a r t a γ a n
 H	dʹilkoš	ɟ i l k o ʃ
-EAH	ǰilkuš	d͡ʒ i l k u ʃ
-WOT	ǰulkučï	d͡ʒ u l k u t͡ʃ ɯ
+EAH	ǰilkuš	j i l k u ʃ
+WOT	ǰulkučï	j u l k u t͡ʃ ï
 H	dʹom	ɟ o m
-EAH	ǰom	d͡ʒ o m
+EAH	ǰom	j o m
 H	dʹomor	ɟ o m o r
 OH	dʹumur	ɟ u m u r
-EAH	ǰumur	d͡ʒ u m u r
+EAH	ǰumur	j u m u r
 H	dʹōn	ɟ oː n
 OH	dʹun	ɟ u n
-EAH	ǰūn	d͡ʒ uː n
+EAH	ǰūn	j uː n
 H	dʹovon	ɟ o v o n
 OH	dʹuvun	ɟ u v u n
-EAH	ǰuvun	d͡ʒ u v u n
+EAH	ǰuvun	j u v u n
 H	dʹopār	ɟ o p aː r
-OH	ǰupar	d͡ʒ u p a r
-EAH	ǰïpar	d͡ʒ ɯ p a r
+OH	ǰupar	j u p a r
+EAH	ǰïpar	j ï p a r
 H	dʹöndʹ	ɟ ø n ɟ
-OH	ǰünǰ	d͡ʒ y n d͡ʒ
-LAH	ǰünǰü	d͡ʒ y n d͡ʒ y
-EAH	ǰinǰü	d͡ʒ i n d͡ʒ y
+OH	ǰünǰ	j y n j
+LAH	ǰünǰü	j y n j y
+EAH	ǰinǰü	j i n j y
 H	dʹötör	ɟ ø t ø r
-OH	ǰütür	d͡ʒ y t y r
-EAH	ǰitür	d͡ʒ i t y r
+OH	ǰütür	j y t y r
+EAH	ǰitür	j i t y r
 H	dʹȫz	ɟ øː z
 OH	dʹēz	ɟ eː z
-EAH	ǰeγüz	d͡ʒ ɛ ɣ y z
-WOT	ǰäγüz	d͡ʒ ɛ ɣ y z
+EAH	ǰeγüz	j ɛ γ y z
+WOT	ǰäγüz	j ä γ y z
 H	dʹūl	ɟ uː l
-EAH	ǰul	d͡ʒ u l
+EAH	ǰul	j u l
 H	dʹūr	ɟ uː r
-EAH	ǰuγur	d͡ʒ u ɣ u r
+EAH	ǰuγur	j u γ u r
 H	dʹǖl	ɟ yː l
 OH	dʹīl	ɟ iː l
-EAH	ǰiγil	d͡ʒ i ɣ i l
-WOT	ǰigil	d͡ʒ i ɡ i l
+EAH	ǰiγil	j i γ i l
+WOT	ǰigil	j i ɡ i l
 H	dʹǖyt	ɟ yː j t
 H	dʹǖlöl	ɟ yː l ø l
 OH	dʹǖle	ɟ yː l ɛ
-LAH	dʹeü̯le	ɟ ɛ ɥ l ɛ
-EAH	ǰeγile	d͡ʒ ɛ ɣ i l ɛ
-WOT	ǰägilä	d͡ʒ ɛ ɡ i l ɛ
+LAH	dʹeü̯le	ɟ ɛ ü̯ l ɛ
+EAH	ǰeγile	j ɛ γ i l ɛ
+WOT	ǰägilä	j ä ɡ i l ä
 H	dʹümölč	ɟ y m ø l t͡ʃ
 OH	dʹömölč	ɟ ø m ø l t͡ʃ
 LAH	dʹemilč	ɟ ɛ m i l t͡ʃ
-EAH	ǰemilč	d͡ʒ ɛ m i l t͡ʃ
+EAH	ǰemilč	j ɛ m i l t͡ʃ
 H	dʹümölčēń	ɟ y m ø l t͡ʃ eː ɲ
 OH	dʹemilčen	ɟ ɛ m i l t͡ʃ ɛ n
-EAH	ǰemilčen	d͡ʒ ɛ m i l t͡ʃ ɛ n
+EAH	ǰemilčen	j ɛ m i l t͡ʃ ɛ n
 H	dʹǖrǖ	ɟ yː r yː
-OH	dʹereü̯	ɟ ɛ r ɛ ɥ
-EAH	ǰereγ	d͡ʒ ɛ r ɛ ɣ
-OH	dʹüreü̯	ɟ y r ɛ ɥ
-EAH	ǰürüγ	d͡ʒ y r y ɣ
+OH	dʹereü̯	ɟ ɛ r ɛ ü̯
+EAH	ǰereγ	j ɛ r ɛ γ
+OH	dʹüreü̯	ɟ y r ɛ ü̯
+EAH	ǰürüγ	j y r y γ
 H	dʹǖsǖ	ɟ yː s yː
-EAH	ǰüγsüγ	d͡ʒ y ɣ s y ɣ
+EAH	ǰüγsüγ	j y γ s y γ
 H	håyō	h ɒ j oː
-EAH	hayiγ	h a j i ɣ
-WOT	χayїγ	χ a j ɯ ɣ
+EAH	hayiγ	h a j i γ
+WOT	χayїγ	χ a j ї γ
 H	hårång	h ɒ r ɒ n ɡ
 EAH	hangar	h a n ɡ a r
 WOT	χoŋar	χ o ŋ a r
 H	heryō	h ɛ r j oː
-EAH	xirγuy	k s i r ɣ u j
-WOT	χїrγuy	χ ɯ r ɣ u j
+EAH	xirγuy	k s i r γ u j
+WOT	χїrγuy	χ ї r γ u j
 H	homok	h o m o k
 OH	humuki	h u m u k i
 EAH	humoki	h u m o k i
-WOT	χumakï	χ u m a k ɯ
+WOT	χumakï	χ u m a k ï
 H	hurok	h u r o k
 EAH	urok	u r o k
 H	idȫ	i d øː
 OH	üdȫ	y d øː
-LAH	üdeü̯	y d ɛ ɥ
-EAH	üdeγ	y d ɛ ɣ
-WOT	üdäγ	y d ɛ ɣ
+LAH	üdeü̯	y d ɛ ü̯
+EAH	üdeγ	y d ɛ γ
+WOT	üdäγ	y d ä γ
 H	igen	i ɡ ɛ n
 EAH	egen	ɛ ɡ ɛ n
-WOT	egän	ɛ ɡ ɛ n
+WOT	egän	ɛ ɡ ä n
 H	iyed	i j ɛ d
 OH	iye	i j ɛ
-EAH	äyi	ɛ j i
+EAH	äyi	ä j i
 H	iyest	i j ɛ s t
 H	iker	i k ɛ r
 EAH	ikir	i k i r
 H	ildom	i l d o m
 EAH	ildam	i l d a m
-WOT	ïldam	ɯ l d a m
-H	illik	i l l i k
+WOT	ïldam	ï l d a m
+H	illik	i lː i k
 EAH	il	i l
 H	imād	i m aː d
 OH	vimad	v i m a d
 EAH	vim	v i m
-WOT	vïm	v ɯ m
+WOT	vïm	v ï m
 H	ing	i n ɡ
 OH	ümeg	y m ɛ ɡ
-EAH	ümmeg	y m m ɛ ɡ
-WOT	öŋmäk	ø ŋ m ɛ k
+EAH	ümmeg	y mː ɛ ɡ
+WOT	öŋmäk	ø ŋ m ä k
 H	īr	iː r
 EAH	ir	i r
-WOT	ïr	ɯ r
+WOT	ïr	ï r
 H	īrō	iː r oː
 OH	irō	i r oː
-EAH	iraγ	i r a ɣ
-WOT	ïraγ	ɯ r a ɣ
-H	izzik	i z z i k
+EAH	iraγ	i r a γ
+WOT	ïraγ	ï r a γ
+H	izzik	i zː i k
 OH	izi	i z i
 EAH	isi	i s i
-WOT	ïsï	ɯ s ɯ
+WOT	ïsï	ï s ï
 H	yās	j aː s
 H	kåytār	k ɒ j t aː r
 WOT	kaytar	k a j t a r
 H	kākå	k aː k ɒ
-WOT	kakï	k a k ɯ
+WOT	kakï	k a k ï
 H	kålåuz	k ɒ l ɒ u z
 EAH	kalauz	k a l a u z
 WOT	kolavuz	k o l a v u z
@@ -604,23 +604,23 @@ H	kåmši	k ɒ m ʃ i
 H	kåmži	k ɒ m z i
 H	kåndʹīk	k ɒ n ɟ iː k
 EAH	kåndʹikå	k ɒ n ɟ i k ɒ
-WOT	kanǰïka	k a n d͡ʒ ɯ k a
+WOT	kanǰïka	k a n j ï k a
 H	kåntār	k ɒ n t aː r
 WOT	kantar	k a n t a r
 H	kåńårō	k ɒ ɲ ɒ r oː
 OH	kåråńō	k ɒ r ɒ ɲ oː
 LAH	kåråmō	k ɒ r ɒ m oː
-EAH	karamuγ	k a r a m u ɣ
+EAH	karamuγ	k a r a m u γ
 H	kåptāń	k ɒ p t aː ɲ
 OH	kåpkāń	k ɒ p k aː ɲ
 EAH	kapkan	k a p k a n
 H	kåpu	k ɒ p u
 OH	kapū	k a p uː
-EAH	kapuγ	k a p u ɣ
+EAH	kapuγ	k a p u γ
 H	kår	k ɒ r
 EAH	kar	k a r
 H	kār	k aː r
-WOT	kăvar	k ɐ v a r
+WOT	kăvar	k ă v a r
 H	kåråkān	k ɒ r ɒ k aː n
 EAH	karakan	k a r a k a n
 H	kårām	k ɒ r aː m
@@ -630,13 +630,13 @@ H	kårånbēl	k ɒ r ɒ n b eː l
 EAH	karampil	k a r a m p i l
 WOT	karamfil	k a r a m f i l
 H	kårō	k ɒ r oː
-OH	kårou̯	k ɒ r o w
-EAH	karoγ	k a r o ɣ
+OH	kårou̯	k ɒ r o u̯
+EAH	karoγ	k a r o γ
 H	kārōkåtonå	k aː r oː k ɒ t o n ɒ
 OH	karakatona	k a r a k a t o n a
 EAH	karakotan	k a r a k o t a n
-H	kårvålʹ	k ɒ r v ɒ ʎ
-EAH	karγay	k a r ɣ a j
+H	kårvålʹ	k ɒ r v ɒ lʹ
+EAH	karγay	k a r γ a j
 WOT	kargay	k a r ɡ a j
 H	kåtāng	k ɒ t aː n ɡ
 EAH	katāng	k a t aː n ɡ
@@ -644,43 +644,43 @@ WOT	kataŋ	k a t a ŋ
 H	kåzār	k ɒ z aː r
 EAH	kazar	k a z a r
 H	kebel	k ɛ b ɛ l
-WOT	käbäl	k ɛ b ɛ l
+WOT	käbäl	k ä b ä l
 H	kečke	k ɛ t͡ʃ k ɛ
 EAH	kečeke	k ɛ t͡ʃ ɛ k ɛ
-WOT	käčäkä	k ɛ t͡ʃ ɛ k ɛ
+WOT	käčäkä	k ä t͡ʃ ä k ä
 H	kēk	k eː k
 EAH	keyk	k ɛ j k
 WOT	kȫk	k øː k
 H	kelendʹe	k ɛ l ɛ n ɟ ɛ
-OH	kelinǰe	k ɛ l i n d͡ʒ ɛ
-EAH	kälinčäγ	k ɛ l i n t͡ʃ ɛ ɣ
+OH	kelinǰe	k ɛ l i n j ɛ
+EAH	kälinčäγ	k ä l i n t͡ʃ ä γ
 H	kender	k ɛ n d ɛ r
 EAH	kendir	k ɛ n d i r
-WOT	kändir	k ɛ n d i r
+WOT	kändir	k ä n d i r
 H	kēnesȫ	k eː n ɛ s øː
 EAH	kenešǖ	k ɛ n ɛ ʃ yː
-WOT	kenäšū	k ɛ n ɛ ʃ uː
+WOT	kenäšū	k ɛ n ä ʃ uː
 H	kēp	k eː p
-WOT	kǟp	k ɛ p
+WOT	kǟp	k ä p
 H	kepe	k ɛ p ɛ
-EAH	kepeγ	k ɛ p ɛ ɣ
-WOT	käpäγ	k ɛ p ɛ ɣ
+EAH	kepeγ	k ɛ p ɛ γ
+WOT	käpäγ	k ä p ä γ
 H	kerep	k ɛ r ɛ p
-WOT	käräp	k ɛ r ɛ p
+WOT	käräp	k ä r ä p
 H	kērȫdzik	k eː r øː d͡z i k
 EAH	kēr	k eː r
-WOT	käwir	k ɛ w i r
+WOT	käwir	k ä v i r
 H	kērȫ	k eː r øː
-OH	kevreγ	k ɛ v r ɛ ɣ
-EAH	kevereγ	k ɛ v ɛ r ɛ ɣ
-WOT	käwiräg	k ɛ w i r ɛ ɡ
+OH	kevreγ	k ɛ v r ɛ γ
+EAH	kevereγ	k ɛ v ɛ r ɛ γ
+WOT	käwiräg	k ä v i r ä ɡ
 H	kert	k ɛ r t
 EAH	kerte	k ɛ r t ɛ
-WOT	kärtä	k ɛ r t ɛ
-H	kešelʹǖ	k ɛ ʃ ɛ ʎ yː
-OH	kešeleü̯	k ɛ ʃ ɛ l ɛ ɥ
-EAH	küčeleγ	k y t͡ʃ ɛ l ɛ ɣ
-WOT	küčäläγ	k y t͡ʃ ɛ l ɛ ɣ
+WOT	kärtä	k ä r t ä
+H	kešelʹǖ	k ɛ ʃ ɛ lʹ yː
+OH	kešeleü̯	k ɛ ʃ ɛ l ɛ ü̯
+EAH	küčeleγ	k y t͡ʃ ɛ l ɛ γ
+WOT	küčäläγ	k y t͡ʃ ä l ä γ
 H	kēšik	k eː ʃ i k
 OH	kēš	k eː ʃ
 EAH	kēč	k eː t͡ʃ
@@ -690,17 +690,17 @@ EAH	küčün	k y t͡ʃ y n
 H	kiči	k i t͡ʃ i
 H	kiš	k i ʃ
 OH	kiši	k i ʃ i
-EAH	kičiγ	k i t͡ʃ i ɣ
+EAH	kičiγ	k i t͡ʃ i γ
 H	kīyc	k iː j t͡s
 LAH	kiyic	k i j i t͡s
 EAH	kiyiz	k i j i z
 H	kikerič	k i k ɛ r i t͡ʃ
 EAH	kükerilč	k y k ɛ r i l t͡ʃ
-WOT	kökärilč	k ø k ɛ r i l t͡ʃ
+WOT	kökärilč	k ø k ä r i l t͡ʃ
 H	kiköčēń	k i k ø t͡ʃ eː ɲ
 OH	kikörčen	k i k ø r t͡ʃ ɛ n
 EAH	kükerčen	k y k ɛ r t͡ʃ ɛ n
-WOT	kökärčän	k ø k ɛ r t͡ʃ ɛ n
+WOT	kökärčän	k ø k ä r t͡ʃ ä n
 H	kīn	k iː n
 H	kobåk	k o b ɒ k
 EAH	kåbåk	k ɒ b ɒ k
@@ -711,135 +711,135 @@ H	koldul	k o l d u l
 EAH	koldu	k o l d u
 H	kolduš	k o l d u ʃ
 H	komlō	k o m l oː
-OH	kumlau̯	k u m l a w
-EAH	kumlaγ	k u m l a ɣ
+OH	kumlau̯	k u m l a u̯
+EAH	kumlaγ	k u m l a γ
 H	komōčin	k o m oː t͡ʃ i n
 EAH	kåmičin	k ɒ m i t͡ʃ i n
-WOT	kamїčïn	k a m ɯ t͡ʃ ɯ n
+WOT	kamїčïn	k a m ї t͡ʃ ï n
 H	komondor	k o m o n d o r
 EAH	kumandur	k u m a n d u r
 H	komor	k o m o r
 EAH	komur	k o m u r
 H	koporšō	k o p o r ʃ oː
-EAH	kopurčaγ	k o p u r t͡ʃ a ɣ
-WOT	kapurčaγ	k a p u r t͡ʃ a ɣ
+EAH	kopurčaγ	k o p u r t͡ʃ a γ
+WOT	kapurčaγ	k a p u r t͡ʃ a γ
 H	kor	k o r
 EAH	kur	k u r
 H	korhāń	k o r h aː ɲ
-EAH	korγan	k o r ɣ a n
+EAH	korγan	k o r γ a n
 H	kōrō	k oː r oː
-OH	korou̯	k o r o w
-EAH	kuroγ	k u r o ɣ
-WOT	kowrog	k o w r o ɡ
+OH	korou̯	k o r o u̯
+EAH	kuroγ	k u r o γ
+WOT	kowrog	k o v r o ɡ
 H	korom	k o r o m
 EAH	kurum	k u r u m
 H	koš	k o ʃ
 EAH	koč	k o t͡ʃ
 H	kozmå	k o z m ɒ
 OH	kosmā	k o s m aː
-EAH	kasmaγ	k a s m a ɣ
+EAH	kasmaγ	k a s m a γ
 H	ködmön	k ø d m ø n
 EAH	kedmen	k ɛ d m ɛ n
-WOT	kädmän	k ɛ d m ɛ n
+WOT	kädmän	k ä d m ä n
 H	ködmen	k ø d m ɛ n
 H	kökēń	k ø k eː ɲ
 EAH	köken	k ø k ɛ n
-WOT	kökän	k ø k ɛ n
+WOT	kökän	k ø k ä n
 H	kölčön	k ø l t͡ʃ ø n
 EAH	külčen	k y l t͡ʃ ɛ n
 WOT	kölčen	k ø l t͡ʃ ɛ n
 H	köldök	k ø l d ø k
 OH	kildik	k i l d i k
 EAH	kindik	k i n d i k
-H	kölʹök	k ø ʎ ø k
+H	kölʹök	k ø lʹ ø k
 LAH	kölek	k ø l ɛ k
 EAH	külek	k y l ɛ k
-WOT	köläk	k ø l ɛ k
-H	kölʹǖ	k ø ʎ yː
+WOT	köläk	k ø l ä k
+H	kölʹǖ	k ø lʹ yː
 OH	kelǖ	k ɛ l yː
-EAH	keliγ	k ɛ l i ɣ
+EAH	keliγ	k ɛ l i γ
 H	kentreg	k ɛ n t r ɛ ɡ
 OH	köndrög	k ø n d r ø ɡ
 LAH	kömdörök	k ø m d ø r ø k
 EAH	kömöndörök	k ø m ø n d ø r ø k
 WOT	kömüldürük	k ø m y l d y r y k
 H	köńv	k ø ɲ v
-OH	köńüγ	k ø ɲ y ɣ
-EAH	küńüγ	k y ɲ y ɣ
+OH	köńüγ	k ø ɲ y γ
+EAH	küńüγ	k y ɲ y γ
 H	köńü	k ø ɲ y
 H	köpcöš	k ø p t͡s ø ʃ
 OH	köpčöš	k ø p t͡ʃ ø ʃ
 LAH	köpčȫ	k ø p t͡ʃ øː
-EAH	köpčeγ	k ø p t͡ʃ ɛ ɣ
-WOT	köpčäγ	k ø p t͡ʃ ɛ ɣ
+EAH	köpčeγ	k ø p t͡ʃ ɛ γ
+WOT	köpčäγ	k ø p t͡ʃ ä γ
 H	köpec	k ø p ɛ t͡s
 OH	köpečke	k ø p ɛ t͡ʃ k ɛ
 LAH	köpekče	k ø p ɛ k t͡ʃ ɛ
 EAH	köpek	k ø p ɛ k
-WOT	köpäk	k ø p ɛ k
+WOT	köpäk	k ø p ä k
 H	köpöńek	k ø p ø ɲ ɛ k
 EAH	kepenek	k ɛ p ɛ n ɛ k
 H	köpǖ	k ø p yː
 OH	küpǖ	k y p yː
-EAH	küpüγ	k y p y ɣ
+EAH	küpüγ	k y p y γ
 H	kȫriš	k øː r i ʃ
 OH	kǖriš	k yː r i ʃ
-EAH	kewrič	k ɛ w r i t͡ʃ
+EAH	kewrič	k ɛ v r i t͡ʃ
 WOT	kevrič	k ɛ v r i t͡ʃ
 H	kȫrȫ	k øː r øː
-WOT	kävräγ	k ɛ v r ɛ ɣ
-H	körtvēlʹ	k ø r t v eː ʎ
+WOT	kävräγ	k ä v r ä γ
+H	körtvēlʹ	k ø r t v eː lʹ
 OH	kërtveli	k e r t v ɛ l i
-EAH	kertβeli	k ɛ r t w ɛ l i
-WOT	kertweliγ	k ɛ r t w ɛ l i ɣ
+EAH	kertβeli	k ɛ r t β ɛ l i
+WOT	kertweliγ	k ɛ r t v ɛ l i γ
 OH	kertmeli	k ɛ r t m ɛ l i
-EAH	kertmeliγ	k ɛ r t m ɛ l i ɣ
+EAH	kertmeliγ	k ɛ r t m ɛ l i γ
 H	kösön	k ø s ø n
 EAH	küsen	k y s ɛ n
-WOT	küsän	k y s ɛ n
+WOT	küsän	k y s ä n
 H	kun	k u n
 OH	kūn	k uː n
-EAH	kuwan	k u w a n
+EAH	kuwan	k u v a n
 H	kuvås	k u v ɒ s
-EAH	kuwaz	k u w a z
-WOT	kowaz	k o w a z
-H	küllȫ	k y l l øː
-EAH	külleγ	k y l l ɛ ɣ
-WOT	külüläγ	k y l y l ɛ ɣ
-OH	külliγ	k y l l i ɣ
-LAH	kölliγ	k ø l l i ɣ
-EAH	köligeliγ	k ø l i ɡ ɛ l i ɣ
-WOT	köligäliγ	k ø l i ɡ ɛ l i ɣ
+EAH	kuwaz	k u v a z
+WOT	kowaz	k o v a z
+H	küllȫ	k y lː øː
+EAH	külleγ	k y lː ɛ γ
+WOT	külüläγ	k y l y l ä γ
+OH	külliγ	k y lː i γ
+LAH	kölliγ	k ø lː i γ
+EAH	köligeliγ	k ø l i ɡ ɛ l i γ
+WOT	köligäliγ	k ø l i ɡ ä l i γ
 OH	külȫ	k y l øː
 LAH	küvȫ	k y v øː
 EAH	küvey	k y v ɛ j
-WOT	küväy	k y v ɛ j
+WOT	küväy	k y v ä j
 H	mōnārköd	m oː n aː r k ø d
 OH	mōnār	m oː n aː r
 EAH	munar	m u n a r
 H	ńögēr	ɲ ø ɡ eː r
 EAH	nöger	n ø ɡ ɛ r
-WOT	nögär	n ø ɡ ɛ r
+WOT	nögär	n ø ɡ ä r
 H	očū	o t͡ʃ uː
 OH	učū	u t͡ʃ uː
-LAH	učou̯	u t͡ʃ o w
-EAH	učoγ	u t͡ʃ o ɣ
+LAH	učou̯	u t͡ʃ o u̯
+EAH	učoγ	u t͡ʃ o γ
 H	ok	o k
 EAH	uk	u k
 H	oktåt	o k t ɒ t
 H	ōl	oː l
-OH	oγul	o ɣ u l
-EAH	aγul	a ɣ u l
+OH	oγul	o γ u l
+EAH	aγul	a γ u l
 H	olčō	o l t͡ʃ oː
 OH	ōčō	oː t͡ʃ oː
-LAH	učau̯	u t͡ʃ a w
-EAH	učaγ	u t͡ʃ a ɣ
-H	ollō	o l l oː
-OH	oγlou̯	o ɣ l o w
-EAH	oγlaγ	o ɣ l a ɣ
+LAH	učau̯	u t͡ʃ a u̯
+EAH	učaγ	u t͡ʃ a γ
+H	ollō	o lː oː
+OH	oγlou̯	o γ l o u̯
+EAH	oγlaγ	o γ l a γ
 H	ondō	o n d oː
-OH	ondau̯	o n d a w
-EAH	undaγ	u n d a ɣ
+OH	ondau̯	o n d a u̯
+EAH	undaγ	u n d a γ
 H	ontok	o n t o k
 WOT	untak	u n t a k
 H	ontog	o n t o ɡ
@@ -850,16 +850,16 @@ EAH	uruslān	u r u s l aː n
 WOT	aruslan	a r u s l a n
 H	oršō	o r ʃ oː
 OH	uršū	u r ʃ uː
-EAH	určuγ	u r t͡ʃ u ɣ
+EAH	určuγ	u r t͡ʃ u γ
 H	orv	o r v
 OH	urvu	u r v u
 LAH	uvru	u v r u
-EAH	uγru	u ɣ r u
+EAH	uγru	u γ r u
 WOT	ogru	o ɡ r u
 H	orvoš	o r v o ʃ
 OH	urvoš	u r v o ʃ
 EAH	urvoči	u r v o t͡ʃ i
-WOT	orwučï	o r w u t͡ʃ ɯ
+WOT	orwučï	o r v u t͡ʃ ï
 H	oš	o ʃ
 OH	ošk	o ʃ k
 LAH	ačk	a t͡ʃ k
@@ -869,53 +869,53 @@ OH	ökür	ø k y r
 EAH	ükür	y k y r
 H	ölt	ø l t
 EAH	ilt	i l t
-H	ölʹv	ø ʎ v
-OH	ölʹü	ø ʎ y
-EAH	eliγ	ɛ l i ɣ
+H	ölʹv	ø lʹ v
+OH	ölʹü	ø lʹ y
+EAH	eliγ	ɛ l i γ
 H	önik	ø n i k
 OH	ön	ø n
 EAH	ün	y n
 WOT	ǖn	yː n
 H	ȫr	øː r
 EAH	evir	ɛ v i r
-WOT	ävir	ɛ v i r
+WOT	ävir	ä v i r
 H	örmēń	ø r m eː ɲ
-EAH	eü̯rmen	ɛ ɥ r m ɛ n
-WOT	ävirmän	ɛ v i r m ɛ n
+EAH	eü̯rmen	ɛ ü̯ r m ɛ n
+WOT	ävirmän	ä v i r m ä n
 EAH	ermeni	ɛ r m ɛ n i
-WOT	ärmäni	ɛ r m ɛ n i
+WOT	ärmäni	ä r m ä n i
 H	örök	ø r ø k
 EAH	ürük	y r y k
 H	örül	ø r y l
 OH	ör	ø r
-EAH	öγir	ø ɣ i r
+EAH	öγir	ø γ i r
 H	ȫrül	øː r y l
-OH	eü̯ril	ɛ ɥ r i l
+OH	eü̯ril	ɛ ü̯ r i l
 EAH	evril	ɛ v r i l
-WOT	ävril	ɛ v r i l
+WOT	ävril	ä v r i l
 H	örvēń	ø r v eː ɲ
-LAH	ewir	ɛ w i r
-EAH	eγir	ɛ ɣ i r
-WOT	äγir	ɛ ɣ i r
+LAH	ewir	ɛ v i r
+EAH	eγir	ɛ γ i r
+WOT	äγir	ä γ i r
 H	ȫrēm	øː r eː m
 OH	eürem	ɛ y r ɛ m
-EAH	eγrim	ɛ ɣ r i m
-WOT	ägirim	ɛ ɡ i r i m
+EAH	eγrim	ɛ γ r i m
+WOT	ägirim	ä ɡ i r i m
 EAH	örmen	ø r m ɛ n
-WOT	äγirmän	ɛ ɣ i r m ɛ n
-WOT	ägir	ɛ ɡ i r
+WOT	äγirmän	ä γ i r m ä n
+WOT	ägir	ä ɡ i r
 H	özön	ø z ø n
 EAH	üzen	y z ɛ n
-WOT	özän	ø z ɛ n
+WOT	özän	ø z ä n
 H	šåyt	ʃ ɒ j t
 OH	šaχt	ʃ a χ t
-EAH	čaγt	t͡ʃ a ɣ t
-WOT	čïγt	t͡ʃ ɯ ɣ t
-WOT	čïgït	t͡ʃ ɯ ɡ ɯ t
+EAH	čaγt	t͡ʃ a γ t
+WOT	čïγt	t͡ʃ ï γ t
+WOT	čïgït	t͡ʃ ï ɡ ï t
 H	šār	ʃ aː r
 EAH	šar	ʃ a r
 EAH	šari	ʃ a r i
-WOT	šarï	ʃ a r ɯ
+WOT	šarï	ʃ a r ï
 H	šārgå	ʃ aː r ɡ ɒ
 OH	šarog	ʃ a r o ɡ
 EAH	šarug	ʃ a r u ɡ
@@ -923,12 +923,12 @@ H	šārkāń	ʃ aː r k aː ɲ
 EAH	šārkān	ʃ aː r k aː n
 WOT	šarakan	ʃ a r a k a n
 H	šårlō	ʃ ɒ r l oː
-EAH	čarlaγ	t͡ʃ a r l a ɣ
+EAH	čarlaγ	t͡ʃ a r l a γ
 H	šārmå	ʃ aː r m ɒ
-EAH	šarmaγ	ʃ a r m a ɣ
+EAH	šarmaγ	ʃ a r m a γ
 H	šåru	ʃ ɒ r u
 OH	šarū	ʃ a r uː
-EAH	čaruγ	t͡ʃ a r u ɣ
+EAH	čaruγ	t͡ʃ a r u γ
 H	šātor	ʃ aː t o r
 OH	šatur	ʃ a t u r
 EAH	čatur	t͡ʃ a t u r
@@ -938,20 +938,20 @@ WOT	šip	ʃ i p
 H	šeper	ʃ ɛ p ɛ r
 EAH	šipir	ʃ i p i r
 H	šeprǖ	ʃ ɛ p r yː
-EAH	šipiriγ	ʃ i p i r i ɣ
+EAH	šipiriγ	ʃ i p i r i γ
 H	šeprȫ	ʃ ɛ p r øː
 OH	čeprȫ	t͡ʃ ɛ p r øː
-EAH	čöpreγ	t͡ʃ ø p r ɛ ɣ
-WOT	čöpräγ	t͡ʃ ø p r ɛ ɣ
+EAH	čöpreγ	t͡ʃ ø p r ɛ γ
+WOT	čöpräγ	t͡ʃ ø p r ä γ
 WOT	čöprök	t͡ʃ ø p r ø k
 H	šēr	ʃ eː r
 EAH	šir	ʃ i r
 H	šereg	ʃ ɛ r ɛ ɡ
 OH	šerig	ʃ ɛ r i ɡ
-EAH	čärig	t͡ʃ ɛ r i ɡ
+EAH	čärig	t͡ʃ ä r i ɡ
 H	šerke	ʃ ɛ r k ɛ
 EAH	širke	ʃ i r k ɛ
-WOT	širkä	ʃ i r k ɛ
+WOT	širkä	ʃ i r k ä
 H	šerleg	ʃ ɛ r l ɛ ɡ
 WOT	širlig	ʃ i r l i ɡ
 H	šerte	ʃ ɛ r t ɛ
@@ -959,30 +959,30 @@ OH	širte	ʃ i r t ɛ
 EAH	širt	ʃ i r t
 H	šīk	ʃ iː k
 EAH	šik	ʃ i k
-WOT	šïk	ʃ ɯ k
+WOT	šïk	ʃ ï k
 H	šimå	ʃ i m ɒ
 EAH	šima	ʃ i m a
-WOT	šïma	ʃ ɯ m a
+WOT	šïma	ʃ ï m a
 H	šiō	ʃ i oː
 EAH	šiu	ʃ i u
 H	šēd	ʃ eː d
 OH	šīd	ʃ iː d
-WOT	šiw	ʃ i w
+WOT	šiw	ʃ i v
 H	šok	ʃ o k
 WOT	čok	t͡ʃ o k
-H	šōlʹom	ʃ oː ʎ o m
-OH	šolʹom	ʃ o ʎ o m
-LAH	čawlim	t͡ʃ a w l i m
+H	šōlʹom	ʃ oː lʹ o m
+OH	šolʹom	ʃ o lʹ o m
+LAH	čawlim	t͡ʃ a v l i m
 EAH	čavli	t͡ʃ a v l i
-WOT	čavlï	t͡ʃ a v l ɯ
-WOT	čavlïm	t͡ʃ a v l ɯ m
+WOT	čavlï	t͡ʃ a v l ï
+WOT	čavlïm	t͡ʃ a v l ï m
 H	šom	ʃ o m
 OH	šum	ʃ u m
 EAH	čum	t͡ʃ u m
-H	šomlʹō	ʃ o m ʎ oː
+H	šomlʹō	ʃ o m lʹ oː
 OH	šomlyō	ʃ o m j oː
-EAH	šumluγ	ʃ u m l u ɣ
-WOT	čumluγ	t͡ʃ u m l u ɣ
+EAH	šumluγ	ʃ u m l u γ
+WOT	čumluγ	t͡ʃ u m l u γ
 H	šör	ʃ ø r
 OH	šer	ʃ ɛ r
 EAH	šere	ʃ ɛ r ɛ
@@ -990,54 +990,54 @@ WOT	šire	ʃ i r ɛ
 H	šȫreg	ʃ øː r ɛ ɡ
 EAH	ševrege	ʃ ɛ v r ɛ ɡ ɛ
 WOT	šivrigey	ʃ i v r i ɡ ɛ j
-H	šüllȫ	ʃ y l l øː
-OH	šilleü	ʃ i l l ɛ y
-EAH	šilleγ	ʃ i l l ɛ ɣ
-WOT	šilliγ	ʃ i l l i ɣ
+H	šüllȫ	ʃ y lː øː
+OH	šilleü	ʃ i lː ɛ y
+EAH	šilleγ	ʃ i lː ɛ γ
+WOT	šilliγ	ʃ i lː i γ
 H	šüy	ʃ y j
-OH	šǖlʹ	ʃ yː ʎ
-EAH	šiγül	ʃ i ɣ y l
+OH	šǖlʹ	ʃ yː lʹ
+EAH	šiγül	ʃ i γ y l
 H	šǖrǖ	ʃ yː r yː
-OH	šireü̯	ʃ i r ɛ ɥ
-EAH	čireγ	t͡ʃ i r ɛ ɣ
-WOT	čiräγ	t͡ʃ i r ɛ ɣ
+OH	šireü̯	ʃ i r ɛ ü̯
+EAH	čireγ	t͡ʃ i r ɛ γ
+WOT	čiräγ	t͡ʃ i r ä γ
 H	šǖ	ʃ yː
 OH	šiv	ʃ i v
-EAH	siγ	s i ɣ
+EAH	siγ	s i γ
 H	šüv	ʃ y v
 H	sāgom	s aː ɡ o m
 EAH	sagum	s a ɡ u m
-WOT	sagïm	s a ɡ ɯ m
+WOT	sagïm	s a ɡ ï m
 H	såkå	s ɒ k ɒ
-EAH	sakaγ	s a k a ɣ
-H	såkāll	s ɒ k aː l l
+EAH	sakaγ	s a k a γ
+H	såkāll	s ɒ k aː lː
 EAH	sakal	s a k a l
 H	sāl	s aː l
 EAH	sal	s a l
 H	sām	s aː m
 EAH	sam	s a m
 H	sān	s aː n
-EAH	saγin	s a ɣ i n
-WOT	saγïn	s a ɣ ɯ n
+EAH	saγin	s a γ i n
+WOT	saγïn	s a γ ï n
 H	sāndok	s aː n d o k
 WOT	sanduk	s a n d u k
 H	såpu	s ɒ p u
 OH	sapū	s a p uː
-LAH	sapau̯	s a p a w
-EAH	sapaγ	s a p a ɣ
+LAH	sapau̯	s a p a u̯
+EAH	sapaγ	s a p a γ
 H	sār	s aː r
 EAH	sar	s a r
 H	sārń	s aː r ɲ
 EAH	śārn	s aː r n
-WOT	čaγrïn	t͡ʃ a ɣ r ɯ n
+WOT	čaγrïn	t͡ʃ a γ r ï n
 H	såtōč	s ɒ t oː t͡ʃ
 OH	satōč	s a t oː t͡ʃ
-LAH	satiwči	s a t i w t͡ʃ i
-EAH	satiγči	s a t i ɣ t͡ʃ i
-WOT	satïγčï	s a t ɯ ɣ t͡ʃ ɯ
+LAH	satiwči	s a t i v t͡ʃ i
+EAH	satiγči	s a t i γ t͡ʃ i
+WOT	satïγčï	s a t ï γ t͡ʃ ï
 H	sēk	s eː k
 EAH	sekü	s ɛ k y
-WOT	säkü	s ɛ k y
+WOT	säkü	s ä k y
 H	sēl	s eː l
 WOT	śēl	s eː l
 H	sender	s ɛ n d ɛ r
@@ -1048,8 +1048,8 @@ H	söndör	s ø n d ø r
 H	sēp	s eː p
 EAH	sip	s i p
 H	seplȫ	s ɛ p l øː
-EAH	sepleγ	s ɛ p l ɛ ɣ
-WOT	säpliγ	s ɛ p l i ɣ
+EAH	sepleγ	s ɛ p l ɛ γ
+WOT	säpliγ	s ä p l i γ
 H	ser	s ɛ r
 EAH	śer	s ɛ r
 WOT	čer	t͡ʃ ɛ r
@@ -1061,18 +1061,18 @@ H	siroń	s i r o ɲ
 OH	siron	s i r o n
 LAH	sirum	s i r u m
 EAH	siyrum	s i j r u m
-WOT	sïyrum	s ɯ j r u m
+WOT	sïyrum	s ï j r u m
 OH	sirom	s i r o m
 H	sirt	s i r t
-WOT	sïrt	s ɯ r t
+WOT	sïrt	s ï r t
 H	sō	s oː
-EAH	saw	s a w
+EAH	saw	s a v
 WOT	sav	s a v
 H	songor	s o n ɡ o r
 EAH	sonkor	s o n k o r
 WOT	soŋkur	s o ŋ k u r
 H	sōr	s oː r
-EAH	sawur	s a w u r
+EAH	sawur	s a v u r
 H	söčke	s ø t͡ʃ k ɛ
 OH	sökče	s ø k t͡ʃ ɛ
 LAH	sökśȫ	s ø k s øː
@@ -1080,21 +1080,21 @@ EAH	sek	s ɛ k
 H	sökik	s ø k i k
 OH	sök	s ø k
 H	sȫlȫ	s øː l øː
-OH	selleγ	s ɛ l l ɛ ɣ
-EAH	śeleγ	s ɛ l ɛ ɣ
-WOT	čeleγ	t͡ʃ ɛ l ɛ ɣ
-OH	seleγ	s ɛ l ɛ ɣ
-WOT	čeleγ	t͡ʃ ɛ l ɛ ɣ
-H	söllȫ	s ø l l øː
+OH	selleγ	s ɛ lː ɛ γ
+EAH	śeleγ	s ɛ l ɛ γ
+WOT	čeleγ	t͡ʃ ɛ l ɛ γ
+OH	seleγ	s ɛ l ɛ γ
+WOT	čeleγ	t͡ʃ ɛ l ɛ γ
+H	söllȫ	s ø lː øː
 H	sūńog	s uː ɲ o ɡ
 OH	sunug	s u n u ɡ
 EAH	sinuk	s i n u k
 WOT	siŋuk	s i ŋ u k
 H	sǖč	s yː t͡ʃ
-OH	seü̯či	s ɛ ɥ t͡ʃ i
-LAH	siwči	s i w t͡ʃ i
-EAH	śiγči	s i ɣ t͡ʃ i
-WOT	čiγči	t͡ʃ i ɣ t͡ʃ i
+OH	seü̯či	s ɛ ü̯ t͡ʃ i
+LAH	siwči	s i v t͡ʃ i
+EAH	śiγči	s i γ t͡ʃ i
+WOT	čiγči	t͡ʃ i γ t͡ʃ i
 H	szǖnik	s yː n i k
 OH	sün	s y n
 H	sǖr	s yː r
@@ -1105,58 +1105,58 @@ EAH	süzök	s y z ø k
 H	tāltoš	t aː l t o ʃ
 OH	taltuš	t a l t u ʃ
 EAH	taltuči	t a l t u t͡ʃ i
-WOT	taltučï	t a l t u t͡ʃ ɯ
+WOT	taltučï	t a l t u t͡ʃ ï
 H	tånāč	t ɒ n aː t͡ʃ
 EAH	tanilč	t a n i l t͡ʃ
-WOT	tanïlč	t a n ɯ l t͡ʃ
+WOT	tanïlč	t a n ï l t͡ʃ
 H	tånū	t ɒ n uː
 EAH	tanu	t a n u
-WOT	tanuγ	t a n u ɣ
+WOT	tanuγ	t a n u γ
 H	tāplāl	t aː p l aː l
 OH	tāplā	t aː p l aː
-EAH	taplaγ	t a p l a ɣ
+EAH	taplaγ	t a p l a γ
 H	tåplō	t ɒ p l oː
-OH	tåplou̯	t ɒ p l o w
-LAH	toplau̯	t o p l a w
-EAH	topluγ	t o p l u ɣ
+OH	tåplou̯	t ɒ p l o u̯
+LAH	toplau̯	t o p l a u̯
+EAH	topluγ	t o p l u γ
 H	tår	t ɒ r
 EAH	tar	t a r
 H	tār	t aː r
 EAH	tavar	t a v a r
 H	tårlō	t ɒ r l oː
-EAH	tarlaγ	t a r l a ɣ
-WOT	tarïlaγ	t a r ɯ l a ɣ
+EAH	tarlaγ	t a r l a γ
+WOT	tarïlaγ	t a r ï l a γ
 H	tårt	t ɒ r t
 EAH	tart	t a r t
 H	tåtār	t ɒ t aː r
 EAH	tatar	t a t a r
 H	tātoryān	t aː t o r j aː n
 OH	tāturyan	t aː t u r j a n
-EAH	taturγan	t a t u r ɣ a n
+EAH	taturγan	t a t u r γ a n
 WOT	taturgan	t a t u r ɡ a n
 WOT	tåtrång	t ɒ t r ɒ n ɡ
 H	teker	t ɛ k ɛ r
-WOT	täkir	t ɛ k i r
+WOT	täkir	t ä k i r
 H	teknȫ	t ɛ k n øː
 OH	tekenȫ	t ɛ k ɛ n øː
-EAH	tekeneγ	t ɛ k ɛ n ɛ ɣ
-WOT	täkänäγ	t ɛ k ɛ n ɛ ɣ
+EAH	tekeneγ	t ɛ k ɛ n ɛ γ
+WOT	täkänäγ	t ä k ä n ä γ
 H	telek	t ɛ l ɛ k
 EAH	telük	t ɛ l y k
 WOT	tilök	t i l ø k
 H	tengȫdik	t ɛ n ɡ øː d i k
 OH	teng	t ɛ n ɡ
-WOT	täŋ	t ɛ ŋ
-H	tengelʹ	t ɛ n ɡ ɛ ʎ
+WOT	täŋ	t ä ŋ
+H	tengelʹ	t ɛ n ɡ ɛ lʹ
 EAH	tengel	t ɛ n ɡ ɛ l
-WOT	teŋäl	t ɛ ŋ ɛ l
+WOT	teŋäl	t ɛ ŋ ä l
 H	tenger	t ɛ n ɡ ɛ r
 EAH	teŋir	t ɛ ŋ i r
-WOT	täŋir	t ɛ ŋ i r
+WOT	täŋir	t ä ŋ i r
 H	tērül	t eː r y l
 OH	tēr	t eː r
 EAH	tevir	t ɛ v i r
-WOT	tävir	t ɛ v i r
+WOT	tävir	t ä v i r
 H	tērīt	t eː r iː t
 H	tērd	t eː r d
 EAH	tīr	t iː r
@@ -1164,19 +1164,19 @@ H	terem	t ɛ r ɛ m
 H	teve	t ɛ v ɛ
 H	tilō	t i l oː
 OH	talō	t a l oː
-EAH	talkiγ	t a l k i ɣ
-WOT	talkïγ	t a l k ɯ ɣ
+EAH	talkiγ	t a l k i γ
+WOT	talkïγ	t a l k ï γ
 H	tinō	t i n oː
 EAH	tana	t a n a
 H	toyik	t o j i k
 OH	tuik	t u i k
-LAH	tuγik	t u ɣ i k
-EAH	tuγ	t u ɣ
-WOT	toγ	t o ɣ
+LAH	tuγik	t u γ i k
+EAH	tuγ	t u γ
+WOT	toγ	t o γ
 H	tok	t o k
 EAH	toku	t o k u
-H	toklʹō	t o k ʎ oː
-OH	toklʹu	t o k ʎ u
+H	toklʹō	t o k lʹ oː
+OH	toklʹu	t o k lʹ u
 EAH	toklu	t o k l u
 H	tolmāč	t o l m aː t͡ʃ
 EAH	tolmač	t o l m a t͡ʃ
@@ -1188,7 +1188,7 @@ LAH	toro	t o r o
 WOT	turo	t u r o
 H	torlik	t o r l i k
 H	torontāl	t o r o n t aː l
-OH	turuntalʹ	t u r u n t a ʎ
+OH	turuntalʹ	t u r u n t a lʹ
 EAH	turuntay	t u r u n t a j
 H	tōt	t oː t
 OH	tat	t a t
@@ -1197,16 +1197,16 @@ H	tökēleteš	t ø k eː l ɛ t ɛ ʃ
 OH	tökēl	t ø k eː l
 LAH	tökē	t ø k eː
 EAH	tüke	t y k ɛ
-WOT	tükä	t y k ɛ
+WOT	tükä	t y k ä
 H	tömēntelen	t ø m eː n t ɛ l ɛ n
 OH	tömēń	t ø m eː ɲ
 EAH	tümen	t y m ɛ n
-WOT	tümän	t y m ɛ n
+WOT	tümän	t y m ä n
 H	tör	t ø r
 OH	tȫr	t øː r
 LAH	tǖr	t yː r
-EAH	tüγür	t y ɣ y r
-WOT	töγür	t ø ɣ y r
+EAH	tüγür	t y γ y r
+WOT	töγür	t ø γ y r
 H	török	t ø r ø k
 OH	türük	t y r y k
 LAH	türk	t y r k
@@ -1217,45 +1217,45 @@ EAH	törtün	t ø r t y n
 WOT	törütün	t ø r y t y n
 H	törvēń	t ø r v eː ɲ
 OH	türven	t y r v ɛ n
-LAH	türγen	t y r ɣ ɛ n
-EAH	türüγen	t y r y ɣ ɛ n
-WOT	törüγän	t ø r y ɣ ɛ n
+LAH	türγen	t y r γ ɛ n
+EAH	türüγen	t y r y γ ɛ n
+WOT	törüγän	t ø r y γ ä n
 H	tȫzeg	t øː z ɛ ɡ
 EAH	tözek	t ø z ɛ k
-WOT	tezäk	t ɛ z ɛ k
+WOT	tezäk	t ɛ z ä k
 H	tulok	t u l o k
 EAH	tukol	t u k o l
 WOT	tokol	t o k o l
 H	tūrō	t uː r oː
 OH	turō	t u r oː
-EAH	toraγ	t o r a ɣ
+EAH	toraγ	t o r a γ
 H	turul	t u r u l
 OH	tūrul	t uː r u l
-EAH	tuγrïl	t u ɣ r ɯ l
-WOT	toγrïl	t o ɣ r ɯ l
+EAH	tuγrïl	t u γ r ï l
+WOT	toγrïl	t o γ r ï l
 H	tūzok	t uː z o k
-EAH	toγzak	t o ɣ z a k
-WOT	togδak	t o ɡ ð a k
+EAH	toγzak	t o γ z a k
+WOT	togδak	t o ɡ δ a k
 H	tükör	t y k ø r
 EAH	tiker	t i k ɛ r
-WOT	tikär	t i k ɛ r
-WOT	tükär	t y k ɛ r
+WOT	tikär	t i k ä r
+WOT	tükär	t y k ä r
 EAH	tüker	t y k ɛ r
 EAH	tür	t y r
-H	tʹūk	c uː k
+H	tʹūk	tʹ uː k
 OH	tiuk	t i u k
-LAH	tiwuk	t i w u k
-EAH	tiγuk	t i ɣ u k
+LAH	tiwuk	t i v u k
+EAH	tiγuk	t i γ u k
 H	ug	u ɡ
 EAH	ugu	u ɡ u
-WOT	uγu	u ɣ u
+WOT	uγu	u γ u
 H	ūr	uː r
 EAH	uri	u r i
-WOT	urï	u r ɯ
+WOT	urï	u r ï
 H	üdül	y d y l
 OH	idül	i d y l
 LAH	edül	ɛ d y l
-H	ünnep	y n n ɛ p
+H	ünnep	y nː ɛ p
 OH	üdnep	y d n ɛ p
 LAH	idnep	i d n ɛ p
 EAH	idnap	i d n a p
@@ -1264,41 +1264,41 @@ OH	inȫ	i n øː
 LAH	ineü	i n ɛ y
 H	irge	i r ɡ ɛ
 EAH	ürge	y r ɡ ɛ
-WOT	örgä	ø r ɡ ɛ
+WOT	örgä	ø r ɡ ä
 H	üröm	y r ø m
 OH	ürim	y r i m
 EAH	erim	ɛ r i m
 OH	irim	i r i m
 H	ürü	y r y
 OH	irǖ	i r yː
-EAH	iriγ	i r i ɣ
+EAH	iriγ	i r i γ
 H	üsök	y s ø k
 EAH	isüg	i s y ɡ
 WOT	isig	i s i ɡ
 H	üsög	y s ø ɡ
 H	üveč	y v ɛ t͡ʃ
 EAH	öveč	ø v ɛ t͡ʃ
-WOT	öväč	ø v ɛ t͡ʃ
+WOT	öväč	ø v ä t͡ʃ
 H	vāy	v aː j
 EAH	vay	v a j
-H	vālʹū	v aː ʎ uː
-OH	valʹū	v a ʎ uː
+H	vālʹū	v aː lʹ uː
+OH	valʹū	v a lʹ uː
 LAH	vālū	v aː l uː
-EAH	valaγ	v a l a ɣ
+EAH	valaγ	v a l a γ
 H	veyse	v ɛ j s ɛ
-EAH	veyseγ	v ɛ j s ɛ ɣ
-WOT	väyśäγ	v ɛ j s ɛ ɣ
+EAH	veyseγ	v ɛ j s ɛ γ
+WOT	väyśäγ	v ä j s ä γ
 H	lēk	l eː k
 EAH	vekü	v ɛ k y
-WOT	väkü	v ɛ k y
+WOT	väkü	v ä k y
 H	vēk	v eː k
 H	vendēg	v ɛ n d eː ɡ
 EAH	vendeg	v ɛ n d ɛ ɡ
-WOT	vändäg	v ɛ n d ɛ ɡ
+WOT	vändäg	v ä n d ä ɡ
 H	ver	v ɛ r
 H	vērtelek	v eː r t ɛ l ɛ k
 EAH	vertelük	v ɛ r t ɛ l y k
 WOT	vertülük	v ɛ r t y l y k
 H	zerge	z ɛ r ɡ ɛ
 EAH	serge	s ɛ r ɡ ɛ
-WOT	särgä	s ɛ r ɡ ɛ
+WOT	särgä	s ä r ɡ ä

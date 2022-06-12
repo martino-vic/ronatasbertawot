@@ -4,16 +4,16 @@
     "dc:bibliographicCitation": "R\u00f3na-Tas, Andr\u00e1s, & Berta, \u00c1rp\u00e1d. (2011) West Old Turkic. Harrassowitz Verlag, Wiesbaden",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
-    "dc:license": "http://www.opensource.org/licenses/MIT",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from 'West Old Turkic' by Andr\u00e1s R\u00f3na-Tas and \u00c1rp\u00e1d Berta",
+    "dc:title": "CLDF dataset derived from 'West Old Turkic' by Andr\u00e1s R\u00f3na-Tas and \u00c1rp\u00e1d Berta from 2011",
     "dcat:accessURL": "https://github.com/martino-vic/ronatasbertawot",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/martino-vic/ronatasbertawot",
             "rdf:type": "prov:Entity",
-            "dc:created": "205ca41",
+            "dc:created": "027cc0f",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.12"
         },
         {
             "dc:title": "python-packages",

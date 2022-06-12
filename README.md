@@ -1,4 +1,4 @@
-# CLDF dataset derived from 'West Old Turkic' by András Róna-Tas and Árpád Berta
+# CLDF dataset derived from 'West Old Turkic' by András Róna-Tas and Árpád Berta from 2011
 
 ## How to cite
 
@@ -10,7 +10,13 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a MIT license
+This dataset is licensed under a CC-BY-4.0 license
+
+## Notes
+
+The data used here was extracted from a privately owned PDF-file that can not be shared for copyright reasons. It was converted by copy-and-pasting its content to a .txt-file (after the OCR and pypdf2 had failed). There were several scripts run over over this text-file, which are provided in raw/misc/create_raw. Sometimes, tedious manual editing steps were carried out in between two scripts, so the result can not be produced by simply running the scripts.
+
+
 
 ## Statistics
 
@@ -19,8 +25,8 @@ This dataset is licensed under a MIT license
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 90%](https://img.shields.io/badge/BIPA-90%25-yellowgreen.svg "BIPA: 90%")
+![CLTS SoundClass: 90%](https://img.shields.io/badge/CLTS%20SoundClass-90%25-yellowgreen.svg "CLTS SoundClass: 90%")
 
 - **Varieties:** 5
 - **Concepts:** 425
@@ -30,9 +36,9 @@ This dataset is licensed under a MIT license
 - **Cognacy:** 1,276 cognates in 518 cognate sets (24 singletons)
 - **Cognate Diversity:** 0.07
 - **Invalid lexemes:** 0
-- **Tokens:** 8,532
-- **Segments:** 49 (0 BIPA errors, 0 CTLS sound class errors, 49 CLTS modified)
-- **Inventory size (avg):** 39.40
+- **Tokens:** 8,506
+- **Segments:** 59 (6 BIPA errors, 6 CTLS sound class errors, 53 CLTS modified)
+- **Inventory size (avg):** 41.60
 
 ## CLDF Datasets
 
