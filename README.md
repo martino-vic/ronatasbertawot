@@ -25,8 +25,8 @@ The data used here was extracted from a privately owned PDF-file that can not be
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 67%](https://img.shields.io/badge/Concepticon-67%25-orange.svg "Concepticon: 67%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 90%](https://img.shields.io/badge/BIPA-90%25-yellowgreen.svg "BIPA: 90%")
+![CLTS SoundClass: 90%](https://img.shields.io/badge/CLTS%20SoundClass-90%25-yellowgreen.svg "CLTS SoundClass: 90%")
 
 - **Varieties:** 5
 - **Concepts:** 425
