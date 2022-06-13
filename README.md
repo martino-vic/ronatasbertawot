@@ -36,9 +36,9 @@ The data used here was extracted from a privately owned PDF-file that can not be
 - **Cognacy:** 1,276 cognates in 518 cognate sets (24 singletons)
 - **Cognate Diversity:** 0.07
 - **Invalid lexemes:** 0
-- **Tokens:** 8,506
-- **Segments:** 59 (6 BIPA errors, 6 CTLS sound class errors, 53 CLTS modified)
-- **Inventory size (avg):** 41.60
+- **Tokens:** 8,532
+- **Segments:** 49 (0 BIPA errors, 0 CLTS sound class errors, 49 CLTS modified)
+- **Inventory size (avg):** 39.40
 
 ## CLDF Datasets
 

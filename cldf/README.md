@@ -20,15 +20,6 @@ property | value
 
 ## <a name="table-formscsv"></a>Table [forms.csv](./forms.csv)
 
-
-Raw lexical data item as it can be pulled out of the original datasets.
-
-This is the basis for creating rows in CLDF representations of the data by
-- splitting the lexical item into forms
-- cleaning the forms
-- potentially tokenizing the form
-
-
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
@@ -52,6 +43,7 @@ Name/Property | Datatype | Description
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
 `Profile` | `string` | 
+`CV_Segments` | `string` | 
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -74,6 +66,7 @@ Name/Property | Datatype | Description
 [Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal` | 
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
 `Family` | `string` | 
+`H_orth` | `string` | 
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 
