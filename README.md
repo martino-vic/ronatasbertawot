@@ -1,4 +1,4 @@
-# CLDF dataset derived from 'West Old Turkic' by András Róna-Tas and Árpád Berta
+# CLDF dataset derived from 'West Old Turkic' by András Róna-Tas and Árpád Berta from 2011
 
 ## How to cite
 
@@ -10,7 +10,13 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a MIT license
+This dataset is licensed under a CC-BY-4.0 license
+
+## Notes
+
+The data used here was extracted from a privately owned PDF-file that can not be shared for copyright reasons. It was converted by copy-and-pasting its content to a .txt-file (after the OCR and pypdf2 had failed). There were several scripts run over over this text-file, which are provided in raw/misc/create_raw. Sometimes, tedious manual editing steps were carried out in between two scripts, so the result can not be produced by simply running the scripts.
+
+
 
 ## Statistics
 
@@ -31,7 +37,7 @@ This dataset is licensed under a MIT license
 - **Cognate Diversity:** 0.07
 - **Invalid lexemes:** 0
 - **Tokens:** 8,532
-- **Segments:** 49 (0 BIPA errors, 0 CTLS sound class errors, 49 CLTS modified)
+- **Segments:** 49 (0 BIPA errors, 0 CLTS sound class errors, 49 CLTS modified)
 - **Inventory size (avg):** 39.40
 
 ## CLDF Datasets

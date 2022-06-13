@@ -4,35 +4,35 @@
     "dc:bibliographicCitation": "R\u00f3na-Tas, Andr\u00e1s, & Berta, \u00c1rp\u00e1d. (2011) West Old Turkic. Harrassowitz Verlag, Wiesbaden",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
-    "dc:license": "http://www.opensource.org/licenses/MIT",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from 'West Old Turkic' by Andr\u00e1s R\u00f3na-Tas and \u00c1rp\u00e1d Berta",
+    "dc:title": "CLDF dataset derived from 'West Old Turkic' by Andr\u00e1s R\u00f3na-Tas and \u00c1rp\u00e1d Berta from 2011",
     "dcat:accessURL": "https://github.com/martino-vic/ronatasbertawot",
     "prov:wasDerivedFrom": [
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
             "rdf:about": "https://github.com/martino-vic/ronatasbertawot",
-            "rdf:type": "prov:Entity",
-            "dc:created": "205ca41",
-            "dc:title": "Repository"
+            "dc:created": "f627b5c"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
-            "dc:title": "Glottolog"
+            "dc:created": "v4.5"
         },
         {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
-            "dc:title": "Concepticon"
+            "dc:created": "v2.6.0"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.2.0",
-            "dc:title": "CLTS"
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v2.1.0-26-gb12a7df"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +57,6 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
             "dc:extent": 1794,
             "tableSchema": {
                 "columns": [
@@ -127,6 +126,10 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "CV_Segments"
                     }
                 ],
                 "foreignKeys": [
@@ -217,6 +220,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "H_orth"
                     }
                 ],
                 "primaryKey": [

@@ -3,16 +3,39 @@ import attr
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
-from pylexibank import Language
+from pylexibank import Language, Lexeme
 from pylexibank import FormSpec
+
+from lingpy.sequence.sound_classes import token2class
 
 @attr.s
 class CustomLanguage(Language):
     H_orth = attr.ib(default=None)
 
+
+@attr.s
+class CustomLexeme(Lexeme):
+    CV_Segments = attr.ib(default=None)
+
+
+def get_clusters(segments):
+    out = [segments[0]]
+    for i in range(1, len(segments)):
+        # can be optimized
+        prev, this = token2class(segments[i-1], "cv"), token2class(
+                segments[i], "cv")
+        if prev == this:
+            out[-1] += "."+segments[i]
+        else:
+            out += [segments[i]]
+    return " ".join(out)
+
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "ronatasbertawot"
+    language_class = CustomLanguage
+    lexeme_class = CustomLexeme
     form_spec = FormSpec(separators=",", first_form_only=True,
                          replacements= [(" ", "")])
 
@@ -72,6 +95,7 @@ class Dataset(BaseDataset):
                         Loan=True,
                         Cognacy=cogid
                         ):
+                    lex["CV_Segments"] = get_clusters(lex["Segments"])
                     if language == "EAH":
                         eah = lex["ID"]
 
@@ -90,7 +114,4 @@ class Dataset(BaseDataset):
                             })
                         borrid += 1
 
-        #with self.cldf_writer(args) as writer:
 
-
-            ##for fidx in ["a", "b", "c"]:
