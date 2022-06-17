@@ -1,6 +1,8 @@
 import pathlib
+
 import attr
 from clldutils.misc import slug
+from lingpy import prosodic_string
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme
@@ -16,6 +18,7 @@ class CustomLanguage(Language):
 @attr.s
 class CustomLexeme(Lexeme):
     CV_Segments = attr.ib(default=None)
+    ProsodicStructure = attr.ib(default=None)
 
 
 def get_clusters(segments):
@@ -87,7 +90,7 @@ class Dataset(BaseDataset):
                     cognates[concept] = cogidx
                     cogidx += 1
                 cogid = cognates[concept]
-                for  lex in args.writer.add_forms_from_value(
+                for lex in args.writer.add_forms_from_value(
                         Language_ID=language,
                         Parameter_ID=concepts[concept],
                         Value=cog,
@@ -96,6 +99,7 @@ class Dataset(BaseDataset):
                         Cognacy=cogid
                         ):
                     lex["CV_Segments"] = get_clusters(lex["Segments"])
+                    lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
                     if language == "EAH":
                         eah = lex["ID"]
 
@@ -113,5 +117,3 @@ class Dataset(BaseDataset):
                             "Source": lex["Source"]
                             })
                         borrid += 1
-
-

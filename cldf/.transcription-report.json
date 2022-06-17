@@ -217,8 +217,8 @@
         },
         "H": {
             "bipa_errors": [
-                "l\u02b9",
-                "t\u02b9"
+                "t\u02b9",
+                "l\u02b9"
             ],
             "general_errors": 23,
             "replacements": {
@@ -383,8 +383,8 @@
                 ]
             },
             "sclass_errors": [
-                "l\u02b9",
-                "t\u02b9"
+                "t\u02b9",
+                "l\u02b9"
             ],
             "segments": {
                 "a\u02d0": 98,
@@ -432,8 +432,8 @@
         },
         "LAH": {
             "bipa_errors": [
-                "l\u02b9",
-                "\u03b3"
+                "\u03b3",
+                "l\u02b9"
             ],
             "general_errors": 10,
             "replacements": {
@@ -598,8 +598,8 @@
                 ]
             },
             "sclass_errors": [
-                "l\u02b9",
-                "\u03b3"
+                "\u03b3",
+                "l\u02b9"
             ],
             "segments": {
                 "a": 18,
@@ -643,8 +643,8 @@
         },
         "OH": {
             "bipa_errors": [
-                "l\u02b9",
-                "\u03b3"
+                "\u03b3",
+                "l\u02b9"
             ],
             "general_errors": 24,
             "replacements": {
@@ -809,8 +809,8 @@
                 ]
             },
             "sclass_errors": [
-                "l\u02b9",
-                "\u03b3"
+                "\u03b3",
+                "l\u02b9"
             ],
             "segments": {
                 "a": 43,
@@ -859,10 +859,10 @@
         },
         "WOT": {
             "bipa_errors": [
-                "\u0457",
+                "\u03b3",
                 "\u03b4",
-                "\u0227",
-                "\u03b3"
+                "\u0457",
+                "\u0227"
             ],
             "general_errors": 142,
             "replacements": {
@@ -1027,10 +1027,10 @@
                 ]
             },
             "sclass_errors": [
-                "\u0457",
+                "\u03b3",
                 "\u03b4",
-                "\u0227",
-                "\u03b3"
+                "\u0457",
+                "\u0227"
             ],
             "segments": {
                 "a": 265,
@@ -1786,12 +1786,12 @@
         ],
         "bad_words_count": 320,
         "bipa_errors": [
-            "\u0457",
             "\u03b4",
-            "\u0227",
             "\u03b3",
+            "\u0457",
+            "t\u02b9",
             "l\u02b9",
-            "t\u02b9"
+            "\u0227"
         ],
         "general_errors": 338,
         "invalid_words": [],
@@ -1959,12 +1959,12 @@
             ]
         },
         "sclass_errors": [
-            "\u0457",
             "\u03b4",
-            "\u0227",
             "\u03b3",
+            "\u0457",
+            "t\u02b9",
             "l\u02b9",
-            "t\u02b9"
+            "\u0227"
         ],
         "segments": {
             "a": 567,

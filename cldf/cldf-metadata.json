@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronatasbertawot",
             "rdf:type": "prov:Entity",
-            "dc:created": "abb1179",
+            "dc:created": "047a527",
             "dc:title": "Repository"
         },
         {
@@ -130,6 +130,10 @@
                     {
                         "datatype": "string",
                         "name": "CV_Segments"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "ProsodicStructure"
                     }
                 ],
                 "foreignKeys": [
