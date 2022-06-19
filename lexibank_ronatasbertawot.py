@@ -19,6 +19,7 @@ class CustomLanguage(Language):
 class CustomLexeme(Lexeme):
     CV_Segments = attr.ib(default=None)
     ProsodicStructure = attr.ib(default=None)
+    FB_Segments = attr.ib(default=None)
 
 
 def get_clusters(segments):
@@ -33,6 +34,20 @@ def get_clusters(segments):
             out += [segments[i]]
     return " ".join(out)
 
+
+def get_front_back_vowels(segments):
+    out = []
+    for i in range(len(segments)):
+# https://en.wikipedia.org/wiki/Automated_Similarity_Judgment_Program#ASJPcode
+        asjp_class = token2class(segments[i], "asjp")
+        #exchange front vowels with "F" and back ones with "B".
+        if asjp_class in "ieE":  # front vowels
+            out.append("F")
+        elif asjp_class in "uo":  # back vowels
+            out.append("B")
+        else:
+            out.append(segments[i])
+    return " ".join(out)
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -100,6 +115,7 @@ class Dataset(BaseDataset):
                         ):
                     lex["CV_Segments"] = get_clusters(lex["Segments"])
                     lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
+                    lex["FB_Segments"] = get_front_back_vowels(lex["Segments"])
                     if language == "EAH":
                         eah = lex["ID"]
 
