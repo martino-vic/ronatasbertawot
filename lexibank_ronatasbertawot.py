@@ -7,6 +7,7 @@ from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar as pb
 from pylexibank import Language, Lexeme
 from pylexibank import FormSpec
+from re import sub
 
 from lingpy.sequence.sound_classes import token2class
 
@@ -20,6 +21,7 @@ class CustomLexeme(Lexeme):
     CV_Segments = attr.ib(default=None)
     ProsodicStructure = attr.ib(default=None)
     FB_Segments = attr.ib(default=None)
+    FB_Vowel_Harmony = attr.ib(default=None)
 
 
 def get_clusters(segments):
@@ -48,6 +50,10 @@ def get_front_back_vowels(segments):
         else:
             out.append(segments[i])
     return " ".join(out)
+
+def has_harmony(segments):
+    return not ("F" in segments and "B" in segments)
+    return not all(i in segments for i in "FB")
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -113,9 +119,11 @@ class Dataset(BaseDataset):
                         Loan=True,
                         Cognacy=cogid
                         ):
+                    front_back = get_front_back_vowels(lex["Segments"])
                     lex["CV_Segments"] = get_clusters(lex["Segments"])
                     lex["ProsodicStructure"] = prosodic_string(lex["Segments"], _output='cv')
-                    lex["FB_Segments"] = get_front_back_vowels(lex["Segments"])
+                    lex["FB_Segments"] = front_back
+                    lex["FB_Vowel_Harmony"] = not all(i in front_back for i in "FB")
                     if language == "EAH":
                         eah = lex["ID"]
 

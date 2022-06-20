@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronatasbertawot",
             "rdf:type": "prov:Entity",
-            "dc:created": "5363e89",
+            "dc:created": "dcf7937",
             "dc:title": "Repository"
         },
         {
@@ -138,6 +138,10 @@
                     {
                         "datatype": "string",
                         "name": "FB_Segments"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "FB_Vowel_Harmony"
                     }
                 ],
                 "foreignKeys": [

@@ -20,8 +20,8 @@
 | b | 274 | ✓ | ✓ |
 | y | 254 | ✓ | ✓ |
 | s | 234 | ✓ | ✓ |
+| j | 210 | ✓ | ✓ |
 | ø | 210 | ✓ | ✓ |
-| j | 175 | ✓ | ✓ |
 | m | 174 | ✓ | ✓ |
 | ɡ | 171 | ✓ | ✓ |
 | ɒ | 169 | ✓ | ✓ |
@@ -40,7 +40,6 @@
 | oː | 56 | ✓ | ✓ |
 | yː | 49 | ✓ | ✓ |
 | uː | 40 | ✓ | ✓ |
-| lʹ | 35 | ? | ? |
 | ü̯ | 21 | ✓ | ✓ |
 | iː | 18 | ✓ | ✓ |
 | u̯ | 18 | ✓ | ✓ |
@@ -66,7 +65,7 @@
 | ă | 1 | ✓ | ✓ |
 | β | 1 | ✓ | ✓ |
 
-(60 rows)
+(59 rows)
 
 
 
@@ -96,8 +95,14 @@
 | EAH-181_matchmaker-1 | EAH | 181_matchmaker | küdeγü | k y d ɛ <s> γ </s> y |
 | EAH-182_gleanermousemusspicilegus-1 | EAH | 182_gleanermousemusspicilegus | küseγü | k y s ɛ <s> γ </s> y |
 | EAH-185_suspicionmistrust-1 | EAH | 185_suspicionmistrust | ǰonaγ | j o n a <s> γ </s> |
+| EAH-186_wool-1 | EAH | 186_wool | ǰapγu | j a p <s> γ </s> u |
+| EAH-190_poorfrailfeeble-1 | EAH | 190_poorfrailfeeble | ǰarlïγ | j a r l ï <s> γ </s> |
+| EAH-195_rein-1 | EAH | 195_rein | ǰipliγ | j i p l i <s> γ </s> |
+| EAH-196_borderlandhedge-1 | EAH | 196_borderlandhedge | ǰepiγ | j ɛ p i <s> γ </s> |
 | EAH-1_cannoncatapult-1 | EAH | 1_cannoncatapult | aldaγ | a l d a <s> γ </s> |
+| EAH-201_hornbeamcarpinusbetulus-1 | EAH | 201_hornbeamcarpinusbetulus | ǰartaγan | j a r t a <s> γ </s> a n |
 | EAH-203_weed-1 | EAH | 203_weed | kaγzu | k a <s> γ </s> z u |
+| EAH-210_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1 | EAH | 210_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory | ǰeγüz | j ɛ <s> γ </s> y z |
 | EAH-32_toregrettobesorry-1 | EAH | 32_toregrettobesorry | baγin | b a <s> γ </s> i n |
 | EAH-38_courageousbravevaliant-1 | EAH | 38_courageousbravevaliant | baγatur | b a <s> γ </s> a t u r |
 | EAH-41_hobbleshacklelegiron-1 | EAH | 41_hobbleshacklelegiron | bikaγu | b i k a <s> γ </s> u |
@@ -125,25 +130,13 @@
 | EAH-94_wheattriticum-1 | EAH | 94_wheattriticum | buγzai | b u <s> γ </s> z a i |
 | EAH-98_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill-1 | EAH | 98_bluntendofsomethingarodwithanendcutobtuseendofafieldstriptheshortersideorendofapieceoffurniturefootofthehill | bütüγ | b y t y <s> γ </s> |
 | EAH-99_magical-1 | EAH | 99_magical | büγü | b y <s> γ </s> y |
-| H-104_trapsnareforcatchingbirdsbirdcage-3 | H | 104_trapsnareforcatchingbirdsbirdcage | čeklʹe | t͡ʃ ɛ k <s> lʹ </s> ɛ |
-| H-105_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1 | H | 105_akindofwillowusedforbasketsandinviticulturesalixpurpurea | čigolʹå | t͡ʃ i ɡ o <s> lʹ </s> ɒ |
-| H-41_hobbleshacklelegiron-2 | H | 41_hobbleshacklelegiron | bēklʹō | b eː k <s> lʹ </s> oː |
-| H-42_stampbondmark-1 | H | 42_stampbondmark | bēlʹeg | b eː <s> lʹ </s> ɛ ɡ |
-| H-60_stackofhay-1 | H | 60_stackofhay | boglʹå | b o ɡ <s> lʹ </s> ɒ |
-| H-66_anthill-1 | H | 66_anthill | bolʹ | b o <s> lʹ </s> |
-| H-83_horseflygadfly-1 | H | 83_horseflygadfly | bögölʹ | b ø ɡ ø <s> lʹ </s> |
+| H-200_candle-1 | H | 200_candle | dʹertʹå | ɟ ɛ r <s> tʹ </s> ɒ |
+| H-201_hornbeamcarpinusbetulus-1 | H | 201_hornbeamcarpinusbetulus | dʹertʹān | ɟ ɛ r <s> tʹ </s> aː n |
 | LAH-153_nutwalnutjuglans-1 | LAH | 153_nutwalnutjuglans | ǰiγau̯ | j i <s> γ </s> a u̯ |
 | LAH-153_nutwalnutjuglans-2 | LAH | 153_nutwalnutjuglans | ǰiγau̯ | j i <s> γ </s> a u̯ |
 | LAH-182_gleanermousemusspicilegus-1 | LAH | 182_gleanermousemusspicilegus | küzeγü | k y z ɛ <s> γ </s> y |
-| LAH-60_stackofhay-1 | LAH | 60_stackofhay | bogulʹa | b o ɡ u <s> lʹ </s> a |
 | LAH-61_tasselfringetuftnode-1 | LAH | 61_tasselfringetuftnode | buγt | b u <s> γ </s> t |
-| LAH-83_horseflygadfly-1 | LAH | 83_horseflygadfly | bögölʹök | b ø ɡ ø <s> lʹ </s> ø k |
-| OH-105_akindofwillowusedforbasketsandinviticulturesalixpurpurea-1 | OH | 105_akindofwillowusedforbasketsandinviticulturesalixpurpurea | čigolʹa | t͡ʃ i ɡ o <s> lʹ </s> a |
-| OH-42_stampbondmark-1 | OH | 42_stampbondmark | bēlʹeg | b eː <s> lʹ </s> ɛ ɡ |
-| OH-60_stackofhay-1 | OH | 60_stackofhay | boglʹå | b o ɡ <s> lʹ </s> ɒ |
-| OH-66_anthill-1 | OH | 66_anthill | bolʹ | b o <s> lʹ </s> |
 | OH-70_calf-1 | OH | 70_calf | burγu | b u r <s> γ </s> u |
-| OH-83_horseflygadfly-1 | OH | 83_horseflygadfly | bögölʹ | b ø ɡ ø <s> lʹ </s> |
 | WOT-0_carpenter-1 | WOT | 0_carpenter | aγaččï | a <s> γ </s> a t͡ʃː ï |
 | WOT-116_nettleurtica-1 | WOT | 116_nettleurtica | čalïγan | t͡ʃ a l ï <s> γ </s> a n |
 | WOT-116_nettleurtica-2 | WOT | 116_nettleurtica | čalïγan | t͡ʃ a l ï <s> γ </s> a n |
@@ -160,8 +153,14 @@
 | WOT-17_smalltiny-1 | WOT | 17_smalltiny | opuruγ | o p u r u <s> γ </s> |
 | WOT-182_gleanermousemusspicilegus-1 | WOT | 182_gleanermousemusspicilegus | küsäγü | k y s ä <s> γ </s> y |
 | WOT-185_suspicionmistrust-1 | WOT | 185_suspicionmistrust | ǰonaγ | j o n a <s> γ </s> |
+| WOT-186_wool-1 | WOT | 186_wool | ǰapaγu | j a p a <s> γ </s> u |
+| WOT-190_poorfrailfeeble-1 | WOT | 190_poorfrailfeeble | ǰarlïγ | j a r l ï <s> γ </s> |
+| WOT-195_rein-1 | WOT | 195_rein | ǰipliγ | j i p l i <s> γ </s> |
+| WOT-196_borderlandhedge-1 | WOT | 196_borderlandhedge | ǰäpiγ | j ä p i <s> γ </s> |
 | WOT-1_cannoncatapult-1 | WOT | 1_cannoncatapult | aldaγ | a l d a <s> γ </s> |
+| WOT-201_hornbeamcarpinusbetulus-1 | WOT | 201_hornbeamcarpinusbetulus | ǰartaγan | j a r t a <s> γ </s> a n |
 | WOT-203_weed-1 | WOT | 203_weed | kaγδu | k a <s> γ </s> <s> δ </s> u |
+| WOT-210_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory-1 | WOT | 210_toconquersomebodysomethingtriumphoversomebodysomethinggainvictory | ǰäγüz | j ä <s> γ </s> y z |
 | WOT-38_courageousbravevaliant-1 | WOT | 38_courageousbravevaliant | baγatur | b a <s> γ </s> a t u r |
 | WOT-41_hobbleshacklelegiron-1 | WOT | 41_hobbleshacklelegiron | bïkaγu | b ï k a <s> γ </s> u |
 | WOT-41_hobbleshacklelegiron-2 | WOT | 41_hobbleshacklelegiron | bïkaγu | b ï k a <s> γ </s> u |
