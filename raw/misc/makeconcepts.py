@@ -22,15 +22,15 @@ def main():
     write concepts.tsv
     """
     # read file and clean column "sense"
-    dfgot = pd.read_csv(in_path, sep="\t", usecols=["en"])
+    dfgot = pd.read_csv(in_path, sep="\t", usecols=["H_en"])
 
     # define list of dictionaries and plug into to_concepticon()
-    glo = [{"gloss": e} for e in dfgot.en]
+    glo = [{"gloss": e} for e in dfgot.H_en]
     G = gg(to_concepticon(glo, language="en", max_matches=1))
 
     # map dictionary to new columns
     newcols = ["Concepticon_ID", "Concepticon_Gloss"]
-    dfgot[newcols] = dfgot['en'].map(G).tolist()
+    dfgot[newcols] = dfgot['H_en'].map(G).tolist()
     dfgot.to_csv(out_path, index=False, encoding="utf-8", sep="\t")
 
 

@@ -29,16 +29,16 @@ The data used here was extracted from a privately owned PDF-file that can not be
 ![CLTS SoundClass: 93%](https://img.shields.io/badge/CLTS%20SoundClass-93%25-green.svg "CLTS SoundClass: 93%")
 
 - **Varieties:** 5
-- **Concepts:** 425
-- **Lexemes:** 1,794
+- **Concepts:** 431
+- **Lexemes:** 1,755
 - **Sources:** 1
-- **Synonymy:** 1.20
-- **Cognacy:** 1,276 cognates in 518 cognate sets (24 singletons)
-- **Cognate Diversity:** 0.07
+- **Synonymy:** 1.19
+- **Cognacy:** 1,275 cognates in 512 cognate sets (22 singletons)
+- **Cognate Diversity:** 0.06
 - **Invalid lexemes:** 0
-- **Tokens:** 8,503
-- **Segments:** 57 (4 BIPA errors, 4 CTLS sound class errors, 53 CLTS modified)
-- **Inventory size (avg):** 40.80
+- **Tokens:** 8,308
+- **Segments:** 59 (4 BIPA errors, 4 CTLS sound class errors, 55 CLTS modified)
+- **Inventory size (avg):** 41.80
 
 ## CLDF Datasets
 

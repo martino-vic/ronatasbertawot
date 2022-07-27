@@ -9,7 +9,8 @@ from ipatok import tokenise
 
 # have 2 diff transcription files for Hungarian vs Pre-Hungarians
 epi = epitran.Epitran("hun-wot").transliterate
-def segment(w): return ' '.join(tokenise(epi(w)))
+def segment(w):
+    return ' '.join(tokenise(epi(w)))
 
 def main():
     """creates othography.tsv with Graphemes 2 IPA mappings"""

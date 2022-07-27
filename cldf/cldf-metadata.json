@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/ronatasbertawot",
             "rdf:type": "prov:Entity",
-            "dc:created": "afc9676",
+            "dc:created": "df6718a",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.12"
+            "dc:description": "3.9.13"
         },
         {
             "dc:title": "python-packages",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 1794,
+            "dc:extent": 1755,
             "tableSchema": {
                 "columns": [
                     {
@@ -129,6 +129,10 @@
                     },
                     {
                         "datatype": "string",
+                        "name": "Orthography"
+                    },
+                    {
+                        "datatype": "string",
                         "name": "CV_Segments"
                     },
                     {
@@ -142,6 +146,10 @@
                     {
                         "datatype": "string",
                         "name": "FB_Vowel_Harmony"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Year"
                     }
                 ],
                 "foreignKeys": [
@@ -246,7 +254,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 425,
+            "dc:extent": 431,
             "tableSchema": {
                 "columns": [
                     {
@@ -278,7 +286,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 1276,
+            "dc:extent": 1275,
             "tableSchema": {
                 "columns": [
                     {
@@ -352,7 +360,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#BorrowingTable",
-            "dc:extent": 494,
+            "dc:extent": 463,
             "tableSchema": {
                 "columns": [
                     {

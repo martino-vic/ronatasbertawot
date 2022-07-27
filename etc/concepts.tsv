@@ -1,9 +1,7 @@
-en	Concepticon_ID	Concepticon_Gloss
+H_en	Concepticon_ID	Concepticon_Gloss
 carpenter	1042	CARPENTER
 cannon, catapult	3202	CANNON
 to fondle, pet, caress	3780	PET
-stream, current	2935	CURRENT (STREAM)
-stream, current	2935	CURRENT (STREAM)
 stream, current	2935	CURRENT (STREAM)
 stream, current	2935	CURRENT (STREAM)
 false, imitation	3069	FALSE
@@ -38,13 +36,13 @@ cattle, livestock	1153	CATTLE
 velvet		
 to fuck		
 courageous, brave, valiant	3	BRAVE
+to estimate, to esteem, to appreciate		
 frog	503	FROG
 hobble, shackle, leg-iron		
 hobble, shackle, leg-iron		
 stamp, bond, mark	1720	SIGN
 wage, rent		
-to give	1447	GIVE
-to give	1447	GIVE
+name of a people		
 grain or small globule of preciousmetal	605	GRAIN
 a bird of prey		
 Pecheneg, name of a tribe		
@@ -68,7 +66,7 @@ ankle boot
 anthill	1873	ANTHILL
 wine	1524	WINE
 to cover, to overturn	761	COVER
-to cover, to overturn	761	COVER
+cover	761	COVER
 calf	1989	CALF
 pepper	1385	PEPPER
 pea, Pisum sativum; bean	832	BEAN
@@ -88,6 +86,7 @@ wise	698	WISE
 cradle	2946	CRADLE
 bison	3142	BISON
 prison, jail	1281	PRISON
+Ismaelite, name of an ethnic group in Medieval Hungary		
 sad, bad-tempered	699	SAD
 farewell, indulgence, dedication festival, annual parish-feast	3554	GOODBYE
 ox; also ox, goat, ram without or with small or unusual horns;stupid	1502	GOAT
@@ -108,8 +107,6 @@ a kind of willow, used for baskets and in viticulture, Salix purpurea
 a kind of willow		
 a kind of wolfs milk, Easter flower, Euphorbia		
 a kind of wolfs milk, Easter flower, Euphorbia		
-a kind of wolfs milk, Easter flower, Euphorbia		
-a kind of wolfs milk, Easter flower, Euphorbia		
 a fish, Leuciscus souffia agassizi	227	FISH
 only, just	1580	ONLY
 pick-axe; mace; a small axe; war hammer		
@@ -126,6 +123,10 @@ clasp
 measle, smallpox, pocks; skin eruption; decorative embroidery	1054	SMALLPOX
 measle, smallpox, pocks; skin eruption; decorative embroidery	1054	SMALLPOX
 to bind (something)	1917	TIE
+impurities, tow, chaff	2363	CHAFF (HUSK)
+impurities, tow, chaff	2363	CHAFF (HUSK)
+impurities, tow, chaff	2363	CHAFF (HUSK)
+impurities, tow, chaff	2363	CHAFF (HUSK)
 snail, Helix; snail-shell, pulley, vertebra	1543	SNAIL
 a wine of low quality, a fruit wine		
 a wine of low quality, a fruit wine		
@@ -147,8 +148,6 @@ excellent; worthless
 a short fur coat		
 grist, groats, soft hail		
 grist, groats, soft hail		
-noon, south	12	MIDDAY
-noon, south	12	MIDDAY
 noon, south	12	MIDDAY
 noon, south	12	MIDDAY
 nut; walnut, Juglans	2042	WALNUT
@@ -204,8 +203,8 @@ hornbeam, Carpinus betulus
 murder, killer	845	MURDER
 weed	3288	WEED
 stomach	819	STOMACH
-‘to confess (sins)’		
-‘to confess (sins)’		
+to confess (sins)		
+to confess (sins)		
 cudweed, Gnaphalium; Edelweiss		
 pearl	3325	PEARL
 to torture, to make suffer	1952	TORTURE
@@ -226,6 +225,7 @@ hawk	307	HAWK
 sand	671	SAND
 noose, loop, snare	2604	NOOSE
 time, weather	892	TIME
+word, biblical word, verb	1599	WORD
 yes; affirmative particle, very	1268	YES
 to be frightened, to take fright		
 to be frightened, to take fright		
@@ -249,6 +249,7 @@ a water plant, Stratiotes aloides
 whip, lash	2630	WHIP
 whip, lash	2630	WHIP
 whip, lash	2630	WHIP
+saddle strap		
 saddle strap		
 bridle, reins		
 measles	3389	MEASLES
@@ -285,10 +286,10 @@ small	1246	SMALL
 small, little	1246	SMALL
 felt	325	FELT
 wild/meadow saffron, Colchicum autumnale; lions tooth, Taraxacum	2230	UNTAMED OR WILD
-‘a bird similar to a falcon, a kind of bird of prey’		
+a bird similar to a falcon, a kind of bird of prey		
 pain	1783	PAIN
 gourd, calabash, Lagenaria vulgaris; head, billy-cock-hat	1256	HEAD
-lute, cittern		
+lute, cittern	2681	LUTE
 to beg, to mendicate	3534	BEG
 beggar	1934	BEGGAR
 beggar	1934	BEGGAR
@@ -310,6 +311,7 @@ loan
 the navel; various parts of agricultural and other instruments,around which something turns or rotates or which is in the centre	1838	NAVEL
 young of an animal, kid, puppy, lad	1972	KID
 pounder, beater, small mortar	2459	GRINDSTONE
+breast strap		
 breast strap		
 book	963	BOOK
 book	963	BOOK
@@ -354,6 +356,7 @@ Armenian
 eternal		
 to rejoice, to be glad	2192	REJOICE
 to become mad		
+whirlpool, eddy	1982	WHIRLPOOL
 whirlpool, eddy	1982	WHIRLPOOL
 whirlpool, eddy	1982	WHIRLPOOL
 whirlpool, eddy	1982	WHIRLPOOL
@@ -412,15 +415,10 @@ chair, seat, bench, throne	1476	CHAIR
 wind	960	WIND
 to slumber, to doze		
 to slumber, to doze		
-to slumber, to doze		
-to slumber, to doze		
-to slumber, to doze		
-to slumber, to doze		
-to slumber, to doze		
-to slumber, to doze		
 beautiful	1427	BEAUTIFUL
 freckle, sun spot, stain	530	FRECKLE
 part of a village, street, group of people; row, line, order	1362	STREET
+threshing floor (round)		
 fumes, vapour, spirits, alcohol, humours	404	ALCOHOL (FERMENTED DRINK)
 colour, face, external appearance, the best part of something, the upperpart of something	1560	FACE
 thin hide rope, strap (used for embroidery or as a whip), refrozen thin layer after the melting of snow	2973	STRAP
@@ -433,14 +431,12 @@ grasshopper	607	GRASSHOPPER
 to leap, to jump, to escape, to flee	1829	JUMP
 grape, wine grape, Vitis vinifer	920	GRAPE
 grape, wine grape, Vitis vinifer	920	GRAPE
-grape, wine grape, Vitis vinifer	920	GRAPE
-grape, wine grape, Vitis vinifer	920	GRAPE
 mosquito, gnat, Culex pipens	1509	MOSQUITO
 furrier		
 to cease, to stop	1928	CEASE
 to strain, to filter	940	STRAIN
 virgin, pure	1147	PURE
-sorcerer, medicine man	823	SORCERER
+sorcerer, medicine man	394	SHAMAN (FOLK HEALER)
 advice; council		
 witness	1144	WITNESS
 to feed, to nourish	739	FEED
@@ -488,8 +484,6 @@ steer, young bullock, ox or cow	1007	COW
 cottage cheese, cheese curds		
 the totem bird of the Árpád dynasty, a bird of prey		
 bustard, Otis		
-mirror	1171	MIRROR
-mirror	1171	MIRROR
 mirror	1171	MIRROR
 mirror	1171	MIRROR
 to endure, suffer, bear, stand	833	ENDURE

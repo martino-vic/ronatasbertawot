@@ -18,13 +18,20 @@ class CustomLanguage(Language):
 
 @attr.s
 class CustomLexeme(Lexeme):
+    Orthography = attr.ib(default=None)
     CV_Segments = attr.ib(default=None)
     ProsodicStructure = attr.ib(default=None)
     FB_Segments = attr.ib(default=None)
     FB_Vowel_Harmony = attr.ib(default=None)
+    Year = attr.ib(default=None)
 
+# todo: import the next 3 functions from loanpy
 
 def get_clusters(segments):
+    """
+    Takes a list of phonemes and segments them into consonant and vowel
+    clusters, like so: "abcdeaofgh" -> ["a", "bcd", "eao", "fgh"]
+    (c) List 2022"""
     out = [segments[0]]
     for i in range(1, len(segments)):
         # can be optimized
@@ -36,8 +43,11 @@ def get_clusters(segments):
             out += [segments[i]]
     return " ".join(out)
 
-
 def get_front_back_vowels(segments):
+    """
+    logic is similar to get_clusters.
+    Turns front vowels into "F" and back vowels into "B"
+    """
     out = []
     for i in range(len(segments)):
 # https://en.wikipedia.org/wiki/Automated_Similarity_Judgment_Program#ASJPcode
@@ -52,8 +62,15 @@ def get_front_back_vowels(segments):
     return " ".join(out)
 
 def has_harmony(segments):
-    return not ("F" in segments and "B" in segments)
-    return not all(i in segments for i in "FB")
+    """if "F" AND "B" are in segments, the word has NO vowel harmony"""
+    return not all(i in get_front_back_vowels(segments) for i in "FB")
+
+def get_orth(orth, language):
+    return orth if language == "H" else ""
+
+def get_loan(loan, language):
+    return loan == "TRUE" if language == "WOT" else True
+
 
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
@@ -77,11 +94,11 @@ class Dataset(BaseDataset):
         # add concept
         concepts = {}
         for i, concept in enumerate(self.concepts):
-            idx = str(i)+"_"+slug(concept["en"])
-            concepts[concept["en"]] = idx
+            idx = str(i)+"_"+slug(concept["H_en"])
+            concepts[concept["H_en"]] = idx
             args.writer.add_concept(
                     ID=idx,
-                    Name=concept["en"],
+                    Name=concept["H_en"],
                     Concepticon_ID=concept["Concepticon_ID"],
                     Concepticon_Gloss=concept["Concepticon_Gloss"],
                     )
@@ -102,22 +119,27 @@ class Dataset(BaseDataset):
 
         for i in range(1, len(data)):
             cognates = dict(zip(header, data[i]))
-            concept = data[i][6]
+            #print(cognates)
+            concept = data[i][7]
             eah = ""
             for language in languages:
+                #print(language)
                 cog = cognates.get(language, "").strip()
-
+                #print(cog)
                 if concept not in cognates:
                     cognates[concept] = cogidx
                     cogidx += 1
                 cogid = cognates[concept]
+                #print("concept:", concept)
                 for lex in args.writer.add_forms_from_value(
                         Language_ID=language,
                         Parameter_ID=concepts[concept],
                         Value=cog,
                         Source="wot",
-                        Loan=True,
-                        Cognacy=cogid
+                        Loan=get_loan(cognates["WOT_loan"], language),
+                        Cognacy=cogid,
+                        Orthography=get_orth(data[i][0], language),
+                        Year=cognates["Year"]
                         ):
                     front_back = get_front_back_vowels(lex["Segments"])
                     lex["CV_Segments"] = get_clusters(lex["Segments"])
